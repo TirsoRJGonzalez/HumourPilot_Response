@@ -1,0 +1,1291 @@
+Prolific_ID,ID,Condition,Joke,Critical,Meaning1,Meaning2,key_resp_sentence.rt,key_resp_relatedness.keys,key_resp_relatedness.rt,key_resp_IsItJoke.keys,key_resp_IsItJoke.rt,slider_IsItFunny_responseValue,slider_IsItFunny_responseTime,Correct
+67c83488e67b25dcb923d96d,2.0,Joke,The key to excel in sports is to stay positive,POSITIVE,STEROIDS,ATTITUDE,7.9328,right,2.4311,right,3.187,1.0,3.3183,0
+67c83488e67b25dcb923d96d,1.0,Joke,"- Is this safe to eat?
+- No, it's for storing valuable objects",SAFE,BANK,HARMLESS,9.8697,right,3.2142,right,14.2852,2.0,2.5107,0
+67c83488e67b25dcb923d96d,15.0,Sense1,"I asked the chief about the spies. She whispered, ""They're right behind you!""",RIGHT BEHIND YOU,DANGER,LOCATION,6.9969,right,2.3161,left,3.9251,6.0,2.8332,0
+67c83488e67b25dcb923d96d,10.0,Joke,"-Order in the court!
+-Ham and cheese on rye, your Honour.",ORDER,ASK,JUDGE,7.6078,right,1.7993,left,1.789,7.0,3.0529,1
+67c83488e67b25dcb923d96d,22.0,Sense2,Jellyfish can't digest food internally. They don't have guts,GUTS,COURAGE,ORGANS,6.3714,right,3.4167,right,4.2774,2.0,1.8791,1
+67c83488e67b25dcb923d96d,20.0,Sense1,Prisoners don't get enough light because they don't have windows,WINDOWS,COMPUTER,GLASS,8.092,right,2.9649,right,3.1979,1.0,2.4117,1
+67c83488e67b25dcb923d96d,24.0,Sense2,The square is the dead center of town,DEAD CENTER,COFFIN,MIDDLE,5.6043,right,3.6946,right,2.7427,2.0,2.3052,1
+67c83488e67b25dcb923d96d,7.0,Joke,The teacher's eyes were crossed because she could not control her pupils,PUPILS,STUDENTS,EYES,8.6177,left,2.3719,left,3.7128,6.0,2.2535,1
+67c83488e67b25dcb923d96d,4.0,Joke,"Joan d'Arc was not great at her job, she got fired",FIRED,BURN,UNEMPLOYED,5.1123,right,1.8165,right,3.6686,1.0,2.3753,0
+67c83488e67b25dcb923d96d,21.0,Sense2,The calendar was useful. Its pages were numbered.,NUMBERED,LIMITED,SEQUENCE,5.3775,right,1.9044,right,6.9898,2.0,2.1291,1
+67c83488e67b25dcb923d96d,6.0,Joke,The problem with kleptomaniacs is that they always take things literally.,TAKE,STOLEN,PERSPECTIVE,6.2434,right,4.2659,right,1.5736,2.0,1.5511,0
+67c83488e67b25dcb923d96d,28.0,Sense2,"I used to make money off my savings, but I lost the interest",INTEREST,ENTHUSIASM,EARNINGS,5.3532,right,1.7388,right,3.3488,2.0,1.8709,1
+67c83488e67b25dcb923d96d,13.0,Sense1,The receptionist considered himself a teller of hard truths,TELLERS,GOSSIP,CASHIER,6.1579,right,2.7477,right,4.6037,2.0,1.4952,1
+67c83488e67b25dcb923d96d,5.0,Joke,Two fish in a tank. One says: How do you drive this thing?,TANK,WAR,WATER,5.0864,right,2.6487,left,1.6038,6.0,2.2776,1
+67c83488e67b25dcb923d96d,11.0,Sense1,Cannibals don't eat rotten eggs because they taste funny,FUNNY,WEIRD,LAUGHTER,44.9656,right,1.7373,left,2.7164,6.0,1.9951,0
+67c83488e67b25dcb923d96d,17.0,Sense1,Sleepy people don't want to give up their bed covers,COVERS,DUVET,IDENTITY,5.997,left,6.0379,left,4.7687,6.0,3.0415,0
+67c83488e67b25dcb923d96d,29.0,Sense2,"I thought pressing the camera button was doing nothing, but then it clicked.",IT CLICKED,INSIGHT,SOUND,6.5305,right,2.8224,left,3.7431,6.0,1.8932,0
+67c83488e67b25dcb923d96d,26.0,Sense2,I did not destroy the calendar. All I did was rip a day off.,DAY OFF,LEAVE,RIP,7.2642,left,6.803,left,2.5278,6.0,2.1615,0
+67c83488e67b25dcb923d96d,18.0,Sense1,Why was the belt created? For holding up a pair of pants,HOLDING UP,FASTEN,ROB,5.1984,right,1.5216,left,1.8186,7.0,1.5439,0
+67c83488e67b25dcb923d96d,3.0,Joke,Two cellphones got married. The reception was fantastic,RECEPTION,SIGNAL,PARTY,3.9039,right,5.7209,left,3.5458,7.0,1.5318,1
+67c83488e67b25dcb923d96d,8.0,Joke,I told her I was going to make her mine. She has extracted two rubies so far,MINE,BELONG,QUARRY,8.2319,left,1.1761,right,2.4331,2.0,1.8906,0
+67c83488e67b25dcb923d96d,27.0,Sense2,I told her that she was drawing her eyebrows too high; she looked angry,LOOKED,APPEARED,EXPRESSION,6.1218,left,3.5445,left,3.4663,7.0,1.8932,0
+67c83488e67b25dcb923d96d,25.0,Sense2,She had a photographic negative but never developed it.,DEVELOPED,IMPROVE,FILM,4.3777,left,6.4039,right,4.9183,2.0,1.7892,1
+67c83488e67b25dcb923d96d,19.0,Sense1,The toddler would only eat pasta: he was going through a stage,STAGE,THEATER,PHASE,5.2517,right,2.1559,right,2.3894,1.0,1.5592,1
+67c83488e67b25dcb923d96d,12.0,Sense1,"After seeing the salad dressing, the chef was satisfied",DRESSING,NAKED,CAESAR,5.4852,right,2.7906,right,3.5498,2.0,1.5117,1
+67c83488e67b25dcb923d96d,23.0,Sense2,Why did the painting cost extra? Because it was framed,FRAMED,TRAPPED,WOODEN,4.251,right,3.3396,right,1.6922,2.0,1.8604,1
+67c83488e67b25dcb923d96d,30.0,Sense2,"I saw the car didn't stop at the red light, and then it hit me.",IT HIT ME,REALISE,STRIKE,7.4547,right,2.2576,right,3.8334,2.0,1.7444,1
+67c83488e67b25dcb923d96d,14.0,Sense1,"I heard he was on a roll, turns out his last three books were bestsellers.",ROLL,BREAD,SUCCESS,5.2193,right,4.4908,right,3.8808,2.0,2.3921,1
+67c83488e67b25dcb923d96d,16.0,Sense1,"The restaurant at the resort had great food, but no atmosphere",ATMOSPHERE,LIVELY,OXYGEN,2.9229,left,4.2871,left,6.4181,6.0,1.3781,0
+67c83488e67b25dcb923d96d,9.0,Joke,"I don't like people who take drugs, for example: airport security.",TAKE,SNATCH,USE,5.9548,right,3.1195,left,2.199,6.0,1.5134,1
+67c83488e67b25dcb923d96d,26.0,Sense1,I got fired from the chocolate factory. All I did was take a day off.,DAY OFF,LEAVE,RIP,4.191,left,2.9595,right,1.6848,1.0,1.4806,1
+67c83488e67b25dcb923d96d,19.0,Joke,The actor fell through the floorboards: he was going through a stage,STAGE,THEATER,PHASE,7.2751,right,1.3509,left,1.7748,6.0,1.38,1
+67c83488e67b25dcb923d96d,17.0,Joke,Secret agents don't sleep because they don't want to give away their covers,COVERS,DUVET,IDENTITY,8.4568,left,2.0795,right,1.1464,1.0,1.7633,0
+67c83488e67b25dcb923d96d,37.0,Sense2,It's hard for leopards to have plain fur as they're always spotted.,SPOTTED,SEEN,PATTERNED,3.4469,left,1.5933,right,2.6282,2.0,1.3797,1
+67c83488e67b25dcb923d96d,14.0,Joke,"I heard he was on a roll, turns out he fell asleep at the bakery.",ROLL,BREAD,SUCCESS,4.8755,left,7.0396,left,2.244,7.0,1.4803,1
+67c83488e67b25dcb923d96d,22.0,Sense1,The man didn't ask her out. He didn't have the guts,GUTS,COURAGE,ORGANS,4.1756,left,1.3176,left,1.3781,6.0,1.1966,0
+67c83488e67b25dcb923d96d,25.0,Sense1,She had a bright mind but never developed it.,DEVELOPED,IMPROVE,FILM,12.5632,left,1.0007,right,2.9252,2.0,1.4625,1
+67c83488e67b25dcb923d96d,32.0,Sense2,"Some people believe the earth is flat, but that's just nuts!",NUTS!,SQUIRREL,CRAZY,5.658,left,2.5283,left,1.5548,7.0,1.1806,0
+67c83488e67b25dcb923d96d,20.0,Joke,Mac users don't get enough sunlight because they don't have Windows,WINDOWS,COMPUTER,GLASS,8.319,left,2.7443,left,5.8738,6.0,1.2304,1
+67c83488e67b25dcb923d96d,16.0,Joke,"The restaurant on the moon had great food, but no atmosphere",ATMOSPHERE,LIVELY,OXYGEN,5.8378,right,11.3831,left,1.26,7.0,1.2948,1
+67c83488e67b25dcb923d96d,21.0,Sense1,The man on death row was worried. His days were numbered.,NUMBERED,LIMITED,SEQUENCE,5.8584,left,3.4236,right,1.5142,1.0,1.6291,1
+67c83488e67b25dcb923d96d,33.0,Sense2,"I tried a bigger hammer to fix the painting to the wall, but I couldn't nail it.",NAIL IT,SUCCEED,RUST,5.4936,left,6.9545,right,5.2062,1.0,1.3618,1
+67c83488e67b25dcb923d96d,13.0,Joke,The bank couldn't keep any secrets because it had too many tellers,TELLERS,GOSSIP,CASHIER,3.2967,right,1.3642,right,2.0264,1.0,1.613,0
+67c83488e67b25dcb923d96d,15.0,Joke,"I asked the librarian for books about paranoia. She whispered, ""They're right behind you!""",RIGHT BEHIND YOU,DANGER,LOCATION,4.9204,right,1.3664,right,1.9557,1.0,1.112,0
+67c83488e67b25dcb923d96d,31.0,Sense2,"I wanted to buy a car with a gear stick, but I couldn't find a manual",MANUAL,HANDBOOK,TRANSMISSION,9.4173,right,6.8568,left,2.0584,6.0,1.0595,0
+67c83488e67b25dcb923d96d,40.0,Sense2,No need to plug in the toy: its battery is charged,BATTERY,ASSAULT,POWERED,6.4474,right,1.1122,right,1.0444,1.0,1.2464,1
+67c83488e67b25dcb923d96d,30.0,Sense1,"I had no idea who could have done this, and then it hit me.",IT HIT ME,REALISE,STRIKE,3.8278,right,0.9967,left,1.0648,7.0,1.0951,0
+67c83488e67b25dcb923d96d,11.0,Joke,Cannibals don't eat clowns because they taste funny,FUNNY,WEIRD,LAUGHTER,8.687,right,4.9741,left,3.2093,7.0,1.1626,1
+67c83488e67b25dcb923d96d,39.0,Sense2,The man had broken his hip in the winter. He had a great fall.,FALL,AUTUMN,SLIP,3.1745,right,2.5293,left,1.3669,7.0,1.014,0
+67c83488e67b25dcb923d96d,35.0,Sense2,Communists love economic equality because there are no classes,CLASSES,SCHOOL,STATUS,4.7898,left,1.0741,left,3.8397,7.0,0.9466,0
+67c83488e67b25dcb923d96d,29.0,Sense1,"I couldn't figure out how to solve the math problem, but then it clicked.",IT CLICKED,INSIGHT,SOUND,7.5402,left,3.8968,right,4.0928,1.0,1.374,1
+67c83488e67b25dcb923d96d,18.0,Joke,Why was the belt arrested? For holding up a pair of pants,HOLDING UP,FASTEN,ROB,4.7613,left,4.0378,left,1.2226,7.0,0.896,1
+67c83488e67b25dcb923d96d,12.0,Joke,"After seeing the salad dressing, the tomato turned red",DRESSING,NAKED,CAESAR,4.2736,right,8.0173,left,3.0386,7.0,0.91,1
+67c83488e67b25dcb923d96d,23.0,Sense1,Why did your brother go to jail? Because he was framed,FRAMED,TRAPPED,WOODEN,3.3426,left,1.4631,right,3.1379,1.0,3.1452,1
+67c83488e67b25dcb923d96d,24.0,Sense1,A mortuary can be thought of as a dead center,DEAD CENTER,COFFIN,MIDDLE,6.8868,left,1.7934,right,3.8458,1.0,1.2778,1
+67c83488e67b25dcb923d96d,34.0,Sense2,"I used to vote for the left, I'm all right now.",ALL RIGHT,OK,DIRECTION,3.6602,right,2.0087,right,3.308,1.0,1.6618,1
+67c83488e67b25dcb923d96d,28.0,Sense1,"I used to be into chess, but I lost interest",INTEREST,ENTHUSIASM,EARNINGS,2.0818,left,1.815,right,2.3562,1.0,1.3471,1
+67c83488e67b25dcb923d96d,38.0,Sense2,"-Did you grind the nutmeg recently?
+-Well, it was just ground this morning!",GROUND,DIRT,CRUSH,18.3258,left,2.426,right,4.0489,1.0,1.3947,1
+67c83488e67b25dcb923d96d,27.0,Sense1,She wasn't expecting me because I came unannounced; she looked surprised.,LOOKED,APPEARED,EXPRESSION,3.0223,right,1.899,right,1.6415,1.0,1.2287,1
+67c83488e67b25dcb923d96d,36.0,Sense2,How do you make the bride fast? Take away her food.,FAST,QUICK,HUNGRY,3.9456,left,2.3682,right,2.0067,1.0,1.0789,1
+67c83488e67b25dcb923d96d,23.0,Joke,Why did the painting go to jail? Because it was framed,FRAMED,TRAPPED,WOODEN,4.5622,left,1.1446,right,1.2072,1.0,1.1644,0
+67c83488e67b25dcb923d96d,39.0,Sense1,The University Student was happy in the winter. He had a great fall.,FALL,AUTUMN,SLIP,2.8276,left,1.1629,left,1.4032,7.0,1.0968,0
+67c83488e67b25dcb923d96d,36.0,Sense1,How do you make the car fast? Take away the brakes.,FAST,QUICK,HUNGRY,3.9941,left,1.2482,left,0.9425,7.0,1.0807,0
+67c83488e67b25dcb923d96d,24.0,Joke,The graveyard is the dead center of town,DEAD CENTER,COFFIN,MIDDLE,3.2097,right,2.3716,right,2.5122,1.0,1.2618,0
+67c83488e67b25dcb923d96d,6.0,Sense2,The problem with some people is that they always take things literally.,TAKE,STOLEN,PERSPECTIVE,3.2893,right,2.6677,right,2.708,1.0,1.2948,1
+67c83488e67b25dcb923d96d,22.0,Joke,The skeleton didn't ask her out. He didn't have the guts,GUTS,COURAGE,ORGANS,3.7627,left,0.881,left,2.5635,7.0,0.9633,1
+67c83488e67b25dcb923d96d,1.0,Sense2,"- Is this safe to eat? 
+- Yes, I had it for breakfast",SAFE,BANK,HARMLESS,3.8443,right,1.2764,right,5.038,1.0,1.5128,1
+67c83488e67b25dcb923d96d,8.0,Sense2,"The foreman told him to go to the mine. He said: ""that's what you pay me for""",MINE,BELONG,QUARRY,8.012,left,0.9635,right,5.3354,1.0,1.0791,1
+67c83488e67b25dcb923d96d,30.0,Joke,"I wondered why the car was getting bigger, and then it hit me.",IT HIT ME,REALISE,STRIKE,2.7587,right,1.1103,left,0.9146,7.0,1.0961,1
+67c83488e67b25dcb923d96d,26.0,Joke,I got fired from the calendar factory. All I did was take a day off.,DAY OFF,LEAVE,RIP,5.6242,left,1.495,right,4.0191,1.0,1.9595,0
+67c83488e67b25dcb923d96d,2.0,Sense2,The key to a happy life is to stay positive,POSITIVE,STEROIDS,ATTITUDE,2.6624,right,2.0927,right,1.4449,1.0,1.3467,1
+67c83488e67b25dcb923d96d,9.0,Sense2,"I don't like people who take my stuff, for example: airport security.",TAKE,SNATCH,USE,3.5078,right,4.2786,left,1.58,7.0,1.0283,0
+67c83488e67b25dcb923d96d,38.0,Sense1,"-There is only sea here 
+-Well, it was just ground this morning!",GROUND,DIRT,CRUSH,3.8893,left,3.4375,left,1.4141,7.0,0.8758,0
+67c83488e67b25dcb923d96d,35.0,Sense1,The teacher loved the summer because there were no classes,CLASSES,SCHOOL,STATUS,2.5615,left,0.977,right,2.2613,1.0,1.2797,1
+67c83488e67b25dcb923d96d,7.0,Sense2,The teacher was fired because she could not control her pupils,PUPILS,STUDENTS,EYES,2.3466,left,1.2291,right,1.5469,1.0,1.0934,1
+67c83488e67b25dcb923d96d,40.0,Sense1,Local man arrested: charged with battery,BATTERY,ASSAULT,POWERED,2.8976,right,1.2443,left,1.3732,7.0,1.0798,0
+67c83488e67b25dcb923d96d,25.0,Joke,She had a photographic memory but never developed it.,DEVELOPED,IMPROVE,FILM,3.2745,right,3.3947,left,1.1203,7.0,0.8105,1
+67c83488e67b25dcb923d96d,21.0,Joke,The calendar was worried. Its days were numbered.,NUMBERED,LIMITED,SEQUENCE,1.6968,left,4.6288,right,4.1369,1.0,1.5966,0
+67c83488e67b25dcb923d96d,10.0,Sense2,"-Order in the court! 
+-I apologise, I will be silent, your Honour. ",ORDER,ASK,JUDGE,5.5218,right,6.5877,right,3.5709,1.0,1.2303,1
+67c83488e67b25dcb923d96d,34.0,Sense1,"I was sick for a long time, I'm all right now.",ALL RIGHT,OK,DIRECTION,3.2466,left,2.3695,right,1.5243,1.0,1.1792,1
+67c83488e67b25dcb923d96d,29.0,Joke,"I couldn't figure out how to use the seatbelt, but then it clicked.",IT CLICKED,INSIGHT,SOUND,3.2601,right,1.2623,left,1.2283,7.0,0.996,1
+67c83488e67b25dcb923d96d,37.0,Sense1,It's hard for people with neon clothes to hide as they're always spotted.,SPOTTED,SEEN,PATTERNED,3.3622,left,1.0787,left,1.1607,7.0,1.4936,0
+67c83488e67b25dcb923d96d,4.0,Sense2,"The oven was ready for the pizza, it was wood fired",FIRED,BURN,UNEMPLOYED,6.5368,left,1.2443,right,3.8418,1.0,1.213,1
+67c83488e67b25dcb923d96d,31.0,Sense1,"I wanted to learn how to operate the new machine, but I couldn't find a manual",MANUAL,HANDBOOK,TRANSMISSION,8.4177,left,6.0403,right,2.9121,1.0,1.4605,1
+67c83488e67b25dcb923d96d,27.0,Joke,I told her that she was drawing her eyebrows too high; she looked surprised,LOOKED,APPEARED,EXPRESSION,5.258,left,6.23,right,2.6511,1.0,1.362,0
+67c83488e67b25dcb923d96d,28.0,Joke,"I used to be a banker, but I lost interest",INTEREST,ENTHUSIASM,EARNINGS,1.9471,left,1.1608,right,2.9651,1.0,1.1414,0
+67c83488e67b25dcb923d96d,3.0,Sense2,Two cellphones were tested. The reception was fantastic,RECEPTION,SIGNAL,PARTY,2.16,left,1.2768,left,1.8466,7.0,0.8633,0
+67c83488e67b25dcb923d96d,33.0,Sense1,I tried to sing a very difficult song but I couldn't nail it.,NAIL IT,SUCCEED,RUST,2.5296,left,1.1795,left,1.4929,7.0,0.8644,0
+67c83488e67b25dcb923d96d,5.0,Sense2,Two soldiers in a tank. One says: How do you drive this thing?,TANK,WAR,WATER,3.5121,left,1.645,left,1.9266,6.0,0.7276,0
+67c83488e67b25dcb923d96d,32.0,Sense1,"I thought I'd have cashews and almonds in my balanced meal, but that's just nuts",NUTS!,SQUIRREL,CRAZY,3.2103,right,6.008,left,2.4625,6.0,1.3284,0
+67c83488e67b25dcb923d96d,31.0,Joke,"I wanted to learn to use the gear stick, but I couldn't find a manual",MANUAL,HANDBOOK,TRANSMISSION,2.8574,left,1.9606,left,5.2395,7.0,1.2447,1
+67c83488e67b25dcb923d96d,9.0,Sense1,"I don't like people who take drugs, for example: cocaine addicts",TAKE,SNATCH,USE,3.19,right,1.2259,right,2.4627,1.0,1.4463,1
+67c83488e67b25dcb923d96d,12.0,Sense2,"After seeing the woman dressing, the man turned red",DRESSING,NAKED,CAESAR,2.6818,left,5.0626,left,5.4358,7.0,1.0811,0
+67c83488e67b25dcb923d96d,2.0,Sense1,Sometimes in sports anti-doping tests are positive,POSITIVE,STEROIDS,ATTITUDE,2.3423,left,1.7818,right,3.1497,1.0,2.1606,1
+67c83488e67b25dcb923d96d,36.0,Joke,How do you make the turtle fast? Take away its food.,FAST,QUICK,HUNGRY,3.5913,left,1.2322,right,2.5296,1.0,1.0783,0
+67c83488e67b25dcb923d96d,14.0,Sense2,"I heard he wanted a roll for lunch, I went to the bakery",ROLL,BREAD,SUCCESS,2.9759,left,2.3816,left,1.024,7.0,1.1103,0
+67c83488e67b25dcb923d96d,18.0,Sense2,Why was the convict arrested? For holding up a bank,HOLDING UP,FASTEN,ROB,3.4927,left,3.9921,right,1.6172,1.0,1.0786,1
+67c83488e67b25dcb923d96d,10.0,Sense1,"-Order in the cafeteria 
+-Ham and cheese on rye, please. ",ORDER,ASK,JUDGE,4.4857,right,5.1609,right,4.1905,1.0,2.1102,1
+67c83488e67b25dcb923d96d,15.0,Sense2,"I asked the librarian for books about cooking. She whispered, ""They're right behind you!""",RIGHT BEHIND YOU,DANGER,LOCATION,5.6865,right,0.8295,right,6.0241,1.0,2.4261,1
+67c83488e67b25dcb923d96d,17.0,Sense2,Secret agents don't date because they don't want to give away their covers,COVERS,DUVET,IDENTITY,3.4083,right,2.0469,right,3.5304,1.0,1.1963,1
+67c83488e67b25dcb923d96d,34.0,Joke,"I lost my left hand in an accident, I'm all right now.",ALL RIGHT,OK,DIRECTION,3.0768,left,3.3307,right,3.8362,1.0,1.231,0
+67c83488e67b25dcb923d96d,33.0,Joke,I tried to be a carpenter but I couldn't nail it.,NAIL IT,SUCCEED,RUST,1.908,left,1.9149,right,1.7238,2.0,1.2975,0
+67c83488e67b25dcb923d96d,1.0,Sense1,"- Is this safe locked? 
+- No, I left it open on purpose",SAFE,BANK,HARMLESS,3.7718,right,1.8262,right,2.5962,1.0,1.6612,1
+67c83488e67b25dcb923d96d,39.0,Joke,Humpty Dumpty was happy in the winter. He had a great fall.,FALL,AUTUMN,SLIP,5.018,left,1.046,left,6.0218,6.0,0.8126,1
+67c83488e67b25dcb923d96d,40.0,Joke,Energizer bunny arrested: charged with battery,BATTERY,ASSAULT,POWERED,2.4118,right,0.879,left,2.591,7.0,0.9807,1
+67c83488e67b25dcb923d96d,19.0,Sense2,The actor ran from left to right: he was going across the stage,STAGE,THEATER,PHASE,2.6947,left,6.9392,left,1.8906,7.0,0.9617,0
+67c83488e67b25dcb923d96d,5.0,Sense1,Two fish in a tank. One says: When do you think we'll get fed?,TANK,WAR,WATER,2.8867,right,6.8922,left,1.26,6.0,0.8973,0
+67c83488e67b25dcb923d96d,32.0,Joke,"I thought about going on an all-almond diet, but that's just nuts!",NUTS!,SQUIRREL,CRAZY,6.7763,left,3.7745,left,4.9374,7.0,1.0117,1
+67c83488e67b25dcb923d96d,11.0,Sense2,The circus hires clowns because they are funny,FUNNY,WEIRD,LAUGHTER,3.0098,right,0.9276,left,3.0862,7.0,1.1803,0
+67c83488e67b25dcb923d96d,3.0,Sense1,Two friends got married. The reception was fantastic,RECEPTION,SIGNAL,PARTY,1.8111,right,1.1127,right,4.1406,2.0,1.3641,1
+67c83488e67b25dcb923d96d,38.0,Joke,"-This coffee tastes like mud 
+-Well, it was just ground this morning!",GROUND,DIRT,CRUSH,2.5527,right,2.2283,left,5.3721,7.0,0.813,1
+67c83488e67b25dcb923d96d,35.0,Joke,The communist loved the summer because there were no classes,CLASSES,SCHOOL,STATUS,2.3639,left,1.5309,left,2.4099,6.0,0.7612,1
+67c83488e67b25dcb923d96d,16.0,Sense2,You can't breathe on the moon because there's no atmosphere,ATMOSPHERE,LIVELY,OXYGEN,2.0285,right,4.1623,left,2.0705,6.0,0.8633,0
+67c83488e67b25dcb923d96d,4.0,Sense1,"The lawyer was not great at her job, she got fired",FIRED,BURN,UNEMPLOYED,2.281,right,1.3134,right,4.2762,1.0,1.1128,1
+67c83488e67b25dcb923d96d,7.0,Sense1,The woman was cross-eyed because she could not control her pupils,PUPILS,STUDENTS,EYES,2.8122,left,2.5112,right,6.939,1.0,1.063,1
+67c83488e67b25dcb923d96d,13.0,Sense2,The bank had to fire a few employees because it had too many tellers,TELLERS,GOSSIP,CASHIER,3.9405,right,0.9107,right,1.9473,1.0,1.5264,1
+67c83488e67b25dcb923d96d,37.0,Joke,It's hard for leopards to hide as they're always spotted.,SPOTTED,SEEN,PATTERNED,2.015,left,0.7989,right,1.4112,1.0,1.4279,0
+67c83488e67b25dcb923d96d,20.0,Sense2,Mac users get fewer viruses because they don't have Windows,WINDOWS,COMPUTER,GLASS,2.9738,left,1.2316,right,1.7257,1.0,1.1466,1
+67c83488e67b25dcb923d96d,8.0,Sense1,I told her I was going to make her mine. She loved the idea of marrying me,MINE,BELONG,QUARRY,2.9093,left,0.8151,right,1.2135,1.0,1.5758,1
+67c83488e67b25dcb923d96d,6.0,Sense1,The problem with thieves is that they always take other people's things,TAKE,STOLEN,PERSPECTIVE,3.1782,left,0.9621,right,1.478,1.0,1.2459,1
+5de7900ceb1b0a6fe754b2c6,2.0,Joke,The key to excel in sports is to stay positive,POSITIVE,STEROIDS,ATTITUDE,8.9756,right,1.8028,right,1.5669,1.0,5.212,0
+5de7900ceb1b0a6fe754b2c6,1.0,Joke,"- Is this safe to eat?
+- No, it's for storing valuable objects",SAFE,BANK,HARMLESS,6.5089,right,1.754,right,1.1994,1.0,3.2685,0
+5de7900ceb1b0a6fe754b2c6,15.0,Sense1,"I asked the chief about the spies. She whispered, ""They're right behind you!""",RIGHT BEHIND YOU,DANGER,LOCATION,7.4031,right,1.9738,right,1.316,1.0,3.4368,1
+5de7900ceb1b0a6fe754b2c6,10.0,Joke,"-Order in the court!
+-Ham and cheese on rye, your Honour.",ORDER,ASK,JUDGE,3.4171,right,1.286,left,1.0854,2.0,4.501,1
+5de7900ceb1b0a6fe754b2c6,22.0,Sense2,Jellyfish can't digest food internally. They don't have guts,GUTS,COURAGE,ORGANS,4.3013,right,1.9164,right,1.1121,1.0,3.6968,1
+5de7900ceb1b0a6fe754b2c6,20.0,Sense1,Prisoners don't get enough light because they don't have windows,WINDOWS,COMPUTER,GLASS,4.0238,right,1.1371,right,0.9912,1.0,1.8809,1
+5de7900ceb1b0a6fe754b2c6,24.0,Sense2,The square is the dead center of town,DEAD CENTER,COFFIN,MIDDLE,4.667,right,1.7027,right,1.3319,1.0,2.0646,1
+5de7900ceb1b0a6fe754b2c6,7.0,Joke,The teacher's eyes were crossed because she could not control her pupils,PUPILS,STUDENTS,EYES,4.4048,left,1.389,right,0.8575,1.0,1.4722,0
+5de7900ceb1b0a6fe754b2c6,4.0,Joke,"Joan d'Arc was not great at her job, she got fired",FIRED,BURN,UNEMPLOYED,4.3457,right,2.271,left,1.2666,4.0,1.7472,1
+5de7900ceb1b0a6fe754b2c6,21.0,Sense2,The calendar was useful. Its pages were numbered.,NUMBERED,LIMITED,SEQUENCE,6.5833,right,1.9155,left,1.1271,3.0,1.9022,0
+5de7900ceb1b0a6fe754b2c6,6.0,Joke,The problem with kleptomaniacs is that they always take things literally.,TAKE,STOLEN,PERSPECTIVE,4.702,right,2.2037,left,1.3153,2.0,2.2737,1
+5de7900ceb1b0a6fe754b2c6,28.0,Sense2,"I used to make money off my savings, but I lost the interest",INTEREST,ENTHUSIASM,EARNINGS,3.8665,right,1.3496,left,1.6672,5.0,2.2379,0
+5de7900ceb1b0a6fe754b2c6,13.0,Sense1,The receptionist considered himself a teller of hard truths,TELLERS,GOSSIP,CASHIER,3.6131,right,1.6163,right,0.9789,2.0,1.7483,1
+5de7900ceb1b0a6fe754b2c6,5.0,Joke,Two fish in a tank. One says: How do you drive this thing?,TANK,WAR,WATER,4.2343,left,1.4075,left,1.4572,5.0,1.5955,1
+5de7900ceb1b0a6fe754b2c6,11.0,Sense1,Cannibals don't eat rotten eggs because they taste funny,FUNNY,WEIRD,LAUGHTER,3.5163,right,1.5801,right,4.7597,3.0,1.3944,1
+5de7900ceb1b0a6fe754b2c6,17.0,Sense1,Sleepy people don't want to give up their bed covers,COVERS,DUVET,IDENTITY,3.283,left,0.8608,right,0.8201,1.0,1.5395,1
+5de7900ceb1b0a6fe754b2c6,29.0,Sense2,"I thought pressing the camera button was doing nothing, but then it clicked.",IT CLICKED,INSIGHT,SOUND,6.2694,right,2.3508,left,1.2376,5.0,1.3628,0
+5de7900ceb1b0a6fe754b2c6,26.0,Sense2,I did not destroy the calendar. All I did was rip a day off.,DAY OFF,LEAVE,RIP,4.3872,left,1.5977,left,2.2504,4.0,0.5591,0
+5de7900ceb1b0a6fe754b2c6,18.0,Sense1,Why was the belt created? For holding up a pair of pants,HOLDING UP,FASTEN,ROB,4.6488,left,1.022,right,0.8685,2.0,1.239,1
+5de7900ceb1b0a6fe754b2c6,3.0,Joke,Two cellphones got married. The reception was fantastic,RECEPTION,SIGNAL,PARTY,3.0062,right,1.4004,left,0.9131,5.0,1.0568,1
+5de7900ceb1b0a6fe754b2c6,8.0,Joke,I told her I was going to make her mine. She has extracted two rubies so far,MINE,BELONG,QUARRY,7.2987,right,0.707,right,0.8911,1.0,1.649,0
+5de7900ceb1b0a6fe754b2c6,27.0,Sense2,I told her that she was drawing her eyebrows too high; she looked angry,LOOKED,APPEARED,EXPRESSION,2.8877,right,3.0233,right,6.6293,1.0,1.4952,1
+5de7900ceb1b0a6fe754b2c6,25.0,Sense2,She had a photographic negative but never developed it.,DEVELOPED,IMPROVE,FILM,3.7341,right,1.2238,right,2.9657,2.0,1.3316,1
+5de7900ceb1b0a6fe754b2c6,19.0,Sense1,The toddler would only eat pasta: he was going through a stage,STAGE,THEATER,PHASE,3.9026,left,1.6692,right,0.9507,2.0,1.1682,1
+5de7900ceb1b0a6fe754b2c6,12.0,Sense1,"After seeing the salad dressing, the chef was satisfied",DRESSING,NAKED,CAESAR,2.3069,right,1.0666,right,1.5305,1.0,1.3893,1
+5de7900ceb1b0a6fe754b2c6,23.0,Sense2,Why did the painting cost extra? Because it was framed,FRAMED,TRAPPED,WOODEN,2.5159,right,2.002,right,0.9443,1.0,1.4305,1
+5de7900ceb1b0a6fe754b2c6,30.0,Sense2,"I saw the car didn't stop at the red light, and then it hit me.",IT HIT ME,REALISE,STRIKE,3.8955,right,1.2116,left,1.1753,5.0,1.0222,0
+5de7900ceb1b0a6fe754b2c6,14.0,Sense1,"I heard he was on a roll, turns out his last three books were bestsellers.",ROLL,BREAD,SUCCESS,5.2696,left,1.0819,right,1.7498,1.0,2.3512,1
+5de7900ceb1b0a6fe754b2c6,16.0,Sense1,"The restaurant at the resort had great food, but no atmosphere",ATMOSPHERE,LIVELY,OXYGEN,3.8551,left,2.2509,right,1.0417,1.0,1.4994,1
+5de7900ceb1b0a6fe754b2c6,9.0,Joke,"I don't like people who take drugs, for example: airport security.",TAKE,SNATCH,USE,3.3508,right,1.7518,left,0.8673,5.0,1.0175,1
+5de7900ceb1b0a6fe754b2c6,26.0,Sense1,I got fired from the chocolate factory. All I did was take a day off.,DAY OFF,LEAVE,RIP,3.9127,left,1.1687,right,0.6589,1.0,1.4059,1
+5de7900ceb1b0a6fe754b2c6,19.0,Joke,The actor fell through the floorboards: he was going through a stage,STAGE,THEATER,PHASE,2.9146,left,0.854,left,0.9814,5.0,0.8065,1
+5de7900ceb1b0a6fe754b2c6,17.0,Joke,Secret agents don't sleep because they don't want to give away their covers,COVERS,DUVET,IDENTITY,2.6842,left,0.5778,left,0.9738,3.0,1.219,1
+5de7900ceb1b0a6fe754b2c6,37.0,Sense2,It's hard for leopards to have plain fur as they're always spotted.,SPOTTED,SEEN,PATTERNED,4.6507,left,1.012,left,0.9911,2.0,2.0243,0
+5de7900ceb1b0a6fe754b2c6,14.0,Joke,"I heard he was on a roll, turns out he fell asleep at the bakery.",ROLL,BREAD,SUCCESS,4.8835,left,0.9284,left,1.5989,3.0,1.0851,1
+5de7900ceb1b0a6fe754b2c6,22.0,Sense1,The man didn't ask her out. He didn't have the guts,GUTS,COURAGE,ORGANS,2.8782,left,1.1725,right,0.9417,2.0,1.4655,1
+5de7900ceb1b0a6fe754b2c6,25.0,Sense1,She had a bright mind but never developed it.,DEVELOPED,IMPROVE,FILM,2.7419,left,0.7299,right,0.6687,1.0,1.263,1
+5de7900ceb1b0a6fe754b2c6,32.0,Sense2,"Some people believe the earth is flat, but that's just nuts!",NUTS!,SQUIRREL,CRAZY,2.9382,right,0.7463,right,2.1533,1.0,1.3104,1
+5de7900ceb1b0a6fe754b2c6,20.0,Joke,Mac users don't get enough sunlight because they don't have Windows,WINDOWS,COMPUTER,GLASS,4.0248,left,0.7321,left,1.0335,3.0,0.9488,1
+5de7900ceb1b0a6fe754b2c6,16.0,Joke,"The restaurant on the moon had great food, but no atmosphere",ATMOSPHERE,LIVELY,OXYGEN,2.3916,right,1.0755,left,1.2065,5.0,0.9907,1
+5de7900ceb1b0a6fe754b2c6,21.0,Sense1,The man on death row was worried. His days were numbered.,NUMBERED,LIMITED,SEQUENCE,3.2497,left,1.4911,right,0.844,1.0,1.2411,1
+5de7900ceb1b0a6fe754b2c6,33.0,Sense2,"I tried a bigger hammer to fix the painting to the wall, but I couldn't nail it.",NAIL IT,SUCCEED,RUST,3.4547,left,1.2878,left,1.2356,3.0,0.8229,0
+5de7900ceb1b0a6fe754b2c6,13.0,Joke,The bank couldn't keep any secrets because it had too many tellers,TELLERS,GOSSIP,CASHIER,2.9004,right,0.9352,left,0.949,3.0,1.3028,1
+5de7900ceb1b0a6fe754b2c6,15.0,Joke,"I asked the librarian for books about paranoia. She whispered, ""They're right behind you!""",RIGHT BEHIND YOU,DANGER,LOCATION,4.2498,right,1.2843,left,0.7822,5.0,0.9682,1
+5de7900ceb1b0a6fe754b2c6,31.0,Sense2,"I wanted to buy a car with a gear stick, but I couldn't find a manual",MANUAL,HANDBOOK,TRANSMISSION,2.7823,left,0.6657,left,1.0323,5.0,0.8901,0
+5de7900ceb1b0a6fe754b2c6,40.0,Sense2,No need to plug in the toy: its battery is charged,BATTERY,ASSAULT,POWERED,3.8877,right,1.2567,right,1.601,1.0,1.5422,1
+5de7900ceb1b0a6fe754b2c6,30.0,Sense1,"I had no idea who could have done this, and then it hit me.",IT HIT ME,REALISE,STRIKE,4.0952,right,3.5282,left,1.8573,1.0,1.4927,0
+5de7900ceb1b0a6fe754b2c6,11.0,Joke,Cannibals don't eat clowns because they taste funny,FUNNY,WEIRD,LAUGHTER,2.1647,right,0.8676,left,1.2811,6.0,1.0356,1
+5de7900ceb1b0a6fe754b2c6,39.0,Sense2,The man had broken his hip in the winter. He had a great fall.,FALL,AUTUMN,SLIP,3.8338,right,4.0977,right,3.2074,1.0,4.5646,1
+5de7900ceb1b0a6fe754b2c6,35.0,Sense2,Communists love economic equality because there are no classes,CLASSES,SCHOOL,STATUS,3.146,right,1.8389,left,0.9281,6.0,0.9687,0
+5de7900ceb1b0a6fe754b2c6,29.0,Sense1,"I couldn't figure out how to solve the math problem, but then it clicked.",IT CLICKED,INSIGHT,SOUND,3.1267,left,2.05,right,0.9168,5.0,0.9065,1
+5de7900ceb1b0a6fe754b2c6,18.0,Joke,Why was the belt arrested? For holding up a pair of pants,HOLDING UP,FASTEN,ROB,3.3829,left,2.4674,left,0.8232,5.0,0.8796,1
+5de7900ceb1b0a6fe754b2c6,12.0,Joke,"After seeing the salad dressing, the tomato turned red",DRESSING,NAKED,CAESAR,2.0716,right,1.3314,left,2.6492,6.0,1.4479,1
+5de7900ceb1b0a6fe754b2c6,23.0,Sense1,Why did your brother go to jail? Because he was framed,FRAMED,TRAPPED,WOODEN,2.2978,left,1.8811,right,3.1312,1.0,1.5491,1
+5de7900ceb1b0a6fe754b2c6,24.0,Sense1,A mortuary can be thought of as a dead center,DEAD CENTER,COFFIN,MIDDLE,3.8013,right,1.7038,right,1.9408,1.0,1.3471,1
+5de7900ceb1b0a6fe754b2c6,34.0,Sense2,"I used to vote for the left, I'm all right now.",ALL RIGHT,OK,DIRECTION,2.0499,left,1.2056,left,2.2467,5.0,0.9077,0
+5de7900ceb1b0a6fe754b2c6,28.0,Sense1,"I used to be into chess, but I lost interest",INTEREST,ENTHUSIASM,EARNINGS,1.8478,right,1.1338,left,1.1773,3.0,1.7073,0
+5de7900ceb1b0a6fe754b2c6,38.0,Sense2,"-Did you grind the nutmeg recently?
+-Well, it was just ground this morning!",GROUND,DIRT,CRUSH,2.0228,left,1.3101,right,0.9861,1.0,1.5624,1
+5de7900ceb1b0a6fe754b2c6,27.0,Sense1,She wasn't expecting me because I came unannounced; she looked surprised.,LOOKED,APPEARED,EXPRESSION,3.3006,right,1.954,right,3.4943,1.0,1.4742,1
+5de7900ceb1b0a6fe754b2c6,36.0,Sense2,How do you make the bride fast? Take away her food.,FAST,QUICK,HUNGRY,2.0966,left,0.7049,left,2.2434,2.0,1.2192,0
+5de7900ceb1b0a6fe754b2c6,23.0,Joke,Why did the painting go to jail? Because it was framed,FRAMED,TRAPPED,WOODEN,2.0349,right,0.8348,left,0.7785,5.0,0.8343,1
+5de7900ceb1b0a6fe754b2c6,39.0,Sense1,The University Student was happy in the winter. He had a great fall.,FALL,AUTUMN,SLIP,1.9469,left,0.751,right,1.5094,2.0,1.3625,1
+5de7900ceb1b0a6fe754b2c6,36.0,Sense1,How do you make the car fast? Take away the brakes.,FAST,QUICK,HUNGRY,1.6912,left,1.1318,left,1.5192,3.0,1.7219,0
+5de7900ceb1b0a6fe754b2c6,24.0,Joke,The graveyard is the dead center of town,DEAD CENTER,COFFIN,MIDDLE,1.8162,left,1.2347,left,1.3104,2.0,0.9698,1
+5de7900ceb1b0a6fe754b2c6,6.0,Sense2,The problem with some people is that they always take things literally.,TAKE,STOLEN,PERSPECTIVE,2.0835,right,0.8353,right,0.8424,1.0,1.3236,1
+5de7900ceb1b0a6fe754b2c6,22.0,Joke,The skeleton didn't ask her out. He didn't have the guts,GUTS,COURAGE,ORGANS,3.1171,right,1.0976,left,4.9126,2.0,1.3395,1
+5de7900ceb1b0a6fe754b2c6,1.0,Sense2,"- Is this safe to eat? 
+- Yes, I had it for breakfast",SAFE,BANK,HARMLESS,3.8489,right,1.0125,right,0.7836,1.0,1.4981,1
+5de7900ceb1b0a6fe754b2c6,8.0,Sense2,"The foreman told him to go to the mine. He said: ""that's what you pay me for""",MINE,BELONG,QUARRY,3.9171,left,1.1776,right,1.1083,1.0,1.4644,1
+5de7900ceb1b0a6fe754b2c6,30.0,Joke,"I wondered why the car was getting bigger, and then it hit me.",IT HIT ME,REALISE,STRIKE,3.2314,right,0.8397,left,0.8782,3.0,0.9502,1
+5de7900ceb1b0a6fe754b2c6,26.0,Joke,I got fired from the calendar factory. All I did was take a day off.,DAY OFF,LEAVE,RIP,3.1672,right,1.5701,left,0.7523,2.0,0.9491,1
+5de7900ceb1b0a6fe754b2c6,2.0,Sense2,The key to a happy life is to stay positive,POSITIVE,STEROIDS,ATTITUDE,1.3515,right,1.3348,right,1.5772,1.0,1.3741,1
+5de7900ceb1b0a6fe754b2c6,9.0,Sense2,"I don't like people who take my stuff, for example: airport security.",TAKE,SNATCH,USE,2.453,right,1.2536,left,1.4563,2.0,1.2221,0
+5de7900ceb1b0a6fe754b2c6,38.0,Sense1,"-There is only sea here 
+-Well, it was just ground this morning!",GROUND,DIRT,CRUSH,2.9322,left,0.9238,right,1.9482,1.0,1.3668,1
+5de7900ceb1b0a6fe754b2c6,35.0,Sense1,The teacher loved the summer because there were no classes,CLASSES,SCHOOL,STATUS,4.1699,left,0.9187,right,0.6522,1.0,1.248,1
+5de7900ceb1b0a6fe754b2c6,7.0,Sense2,The teacher was fired because she could not control her pupils,PUPILS,STUDENTS,EYES,3.3839,left,1.9328,right,0.9349,1.0,1.731,1
+5de7900ceb1b0a6fe754b2c6,40.0,Sense1,Local man arrested: charged with battery,BATTERY,ASSAULT,POWERED,1.9069,left,0.8579,right,1.2114,1.0,1.4437,1
+5de7900ceb1b0a6fe754b2c6,25.0,Joke,She had a photographic memory but never developed it.,DEVELOPED,IMPROVE,FILM,2.7956,left,2.7712,left,0.7114,3.0,0.902,1
+5de7900ceb1b0a6fe754b2c6,21.0,Joke,The calendar was worried. Its days were numbered.,NUMBERED,LIMITED,SEQUENCE,3.2719,left,0.8512,left,0.9929,4.0,1.1783,1
+5de7900ceb1b0a6fe754b2c6,10.0,Sense2,"-Order in the court! 
+-I apologise, I will be silent, your Honour. ",ORDER,ASK,JUDGE,3.701,right,0.9832,right,1.4785,2.0,1.2401,1
+5de7900ceb1b0a6fe754b2c6,34.0,Sense1,"I was sick for a long time, I'm all right now.",ALL RIGHT,OK,DIRECTION,2.2394,left,0.6282,right,0.7332,1.0,1.1812,1
+5de7900ceb1b0a6fe754b2c6,29.0,Joke,"I couldn't figure out how to use the seatbelt, but then it clicked.",IT CLICKED,INSIGHT,SOUND,2.1812,left,0.8678,left,0.8347,3.0,0.7028,1
+5de7900ceb1b0a6fe754b2c6,37.0,Sense1,It's hard for people with neon clothes to hide as they're always spotted.,SPOTTED,SEEN,PATTERNED,2.6811,right,2.5364,right,1.9347,1.0,1.4405,1
+5de7900ceb1b0a6fe754b2c6,4.0,Sense2,"The oven was ready for the pizza, it was wood fired",FIRED,BURN,UNEMPLOYED,2.4894,left,0.6346,right,0.8265,1.0,1.203,1
+5de7900ceb1b0a6fe754b2c6,31.0,Sense1,"I wanted to learn how to operate the new machine, but I couldn't find a manual",MANUAL,HANDBOOK,TRANSMISSION,3.6629,left,1.0178,left,1.1876,5.0,1.6575,0
+5de7900ceb1b0a6fe754b2c6,27.0,Joke,I told her that she was drawing her eyebrows too high; she looked surprised,LOOKED,APPEARED,EXPRESSION,2.773,left,0.7396,left,1.3807,5.0,0.7228,1
+5de7900ceb1b0a6fe754b2c6,28.0,Joke,"I used to be a banker, but I lost interest",INTEREST,ENTHUSIASM,EARNINGS,1.5497,right,1.2674,left,1.1515,3.0,0.9124,1
+5de7900ceb1b0a6fe754b2c6,3.0,Sense2,Two cellphones were tested. The reception was fantastic,RECEPTION,SIGNAL,PARTY,1.9145,left,1.1893,right,1.0608,1.0,1.3246,1
+5de7900ceb1b0a6fe754b2c6,33.0,Sense1,I tried to sing a very difficult song but I couldn't nail it.,NAIL IT,SUCCEED,RUST,2.7191,left,0.77,right,0.7623,1.0,1.2516,1
+5de7900ceb1b0a6fe754b2c6,5.0,Sense2,Two soldiers in a tank. One says: How do you drive this thing?,TANK,WAR,WATER,2.4576,left,0.675,right,0.8324,1.0,1.1969,1
+5de7900ceb1b0a6fe754b2c6,32.0,Sense1,"I thought I'd have cashews and almonds in my balanced meal, but that's just nuts",NUTS!,SQUIRREL,CRAZY,3.5121,left,1.1971,left,2.5782,5.0,0.7789,0
+5de7900ceb1b0a6fe754b2c6,31.0,Joke,"I wanted to learn to use the gear stick, but I couldn't find a manual",MANUAL,HANDBOOK,TRANSMISSION,3.617,right,1.1116,left,0.7485,5.0,0.8191,1
+5de7900ceb1b0a6fe754b2c6,9.0,Sense1,"I don't like people who take drugs, for example: cocaine addicts",TAKE,SNATCH,USE,2.0839,right,0.7861,right,0.6419,1.0,1.2908,1
+5de7900ceb1b0a6fe754b2c6,12.0,Sense2,"After seeing the woman dressing, the man turned red",DRESSING,NAKED,CAESAR,1.8559,left,0.8445,right,0.61,1.0,1.0581,1
+5de7900ceb1b0a6fe754b2c6,2.0,Sense1,Sometimes in sports anti-doping tests are positive,POSITIVE,STEROIDS,ATTITUDE,2.601,left,0.8107,right,0.8925,1.0,1.1699,1
+5de7900ceb1b0a6fe754b2c6,36.0,Joke,How do you make the turtle fast? Take away its food.,FAST,QUICK,HUNGRY,2.0475,right,1.8046,left,1.0329,5.0,0.9204,1
+5de7900ceb1b0a6fe754b2c6,14.0,Sense2,"I heard he wanted a roll for lunch, I went to the bakery",ROLL,BREAD,SUCCESS,2.6338,left,0.5445,right,0.9088,1.0,1.1579,1
+5de7900ceb1b0a6fe754b2c6,18.0,Sense2,Why was the convict arrested? For holding up a bank,HOLDING UP,FASTEN,ROB,2.3691,right,0.9593,right,0.7225,2.0,0.9408,1
+5de7900ceb1b0a6fe754b2c6,10.0,Sense1,"-Order in the cafeteria 
+-Ham and cheese on rye, please. ",ORDER,ASK,JUDGE,2.9027,left,1.086,right,1.0094,2.0,2.1887,1
+5de7900ceb1b0a6fe754b2c6,15.0,Sense2,"I asked the librarian for books about cooking. She whispered, ""They're right behind you!""",RIGHT BEHIND YOU,DANGER,LOCATION,4.8399,right,1.2398,right,0.8843,1.0,1.2287,1
+5de7900ceb1b0a6fe754b2c6,17.0,Sense2,Secret agents don't date because they don't want to give away their covers,COVERS,DUVET,IDENTITY,2.8409,left,0.9828,right,1.6887,3.0,1.6868,1
+5de7900ceb1b0a6fe754b2c6,34.0,Joke,"I lost my left hand in an accident, I'm all right now.",ALL RIGHT,OK,DIRECTION,2.0579,right,0.7998,left,0.7767,5.0,0.7798,1
+5de7900ceb1b0a6fe754b2c6,33.0,Joke,I tried to be a carpenter but I couldn't nail it.,NAIL IT,SUCCEED,RUST,2.0884,right,1.3998,left,1.8079,5.0,0.8272,1
+5de7900ceb1b0a6fe754b2c6,1.0,Sense1,"- Is this safe locked? 
+- No, I left it open on purpose",SAFE,BANK,HARMLESS,4.0437,right,0.9853,right,1.12,2.0,1.263,1
+5de7900ceb1b0a6fe754b2c6,39.0,Joke,Humpty Dumpty was happy in the winter. He had a great fall.,FALL,AUTUMN,SLIP,2.3801,left,1.3012,right,0.7695,1.0,1.1874,0
+5de7900ceb1b0a6fe754b2c6,40.0,Joke,Energizer bunny arrested: charged with battery,BATTERY,ASSAULT,POWERED,4.8296,right,0.7783,left,0.8757,5.0,0.7593,1
+5de7900ceb1b0a6fe754b2c6,19.0,Sense2,The actor ran from left to right: he was going across the stage,STAGE,THEATER,PHASE,2.9508,left,0.7834,left,0.9334,2.0,1.0176,0
+5de7900ceb1b0a6fe754b2c6,5.0,Sense1,Two fish in a tank. One says: When do you think we'll get fed?,TANK,WAR,WATER,2.3032,right,1.047,right,0.8134,1.0,1.2458,1
+5de7900ceb1b0a6fe754b2c6,32.0,Joke,"I thought about going on an all-almond diet, but that's just nuts!",NUTS!,SQUIRREL,CRAZY,2.5854,left,2.0413,right,1.8282,1.0,1.373,0
+5de7900ceb1b0a6fe754b2c6,11.0,Sense2,The circus hires clowns because they are funny,FUNNY,WEIRD,LAUGHTER,0.9185,right,2.4036,right,1.2513,2.0,1.8848,1
+5de7900ceb1b0a6fe754b2c6,3.0,Sense1,Two friends got married. The reception was fantastic,RECEPTION,SIGNAL,PARTY,1.204,right,0.7033,right,0.8738,1.0,1.3712,1
+5de7900ceb1b0a6fe754b2c6,38.0,Joke,"-This coffee tastes like mud 
+-Well, it was just ground this morning!",GROUND,DIRT,CRUSH,3.2151,left,0.7292,left,1.2494,3.0,1.625,1
+5de7900ceb1b0a6fe754b2c6,35.0,Joke,The communist loved the summer because there were no classes,CLASSES,SCHOOL,STATUS,2.8173,left,0.618,left,0.9241,3.0,1.084,1
+5de7900ceb1b0a6fe754b2c6,16.0,Sense2,You can't breathe on the moon because there's no atmosphere,ATMOSPHERE,LIVELY,OXYGEN,1.8842,right,0.7556,right,1.0078,1.0,1.2749,1
+5de7900ceb1b0a6fe754b2c6,4.0,Sense1,"The lawyer was not great at her job, she got fired",FIRED,BURN,UNEMPLOYED,2.867,right,0.695,left,0.9824,1.0,1.3306,0
+5de7900ceb1b0a6fe754b2c6,7.0,Sense1,The woman was cross-eyed because she could not control her pupils,PUPILS,STUDENTS,EYES,2.7821,left,1.9008,left,2.467,3.0,1.0159,0
+5de7900ceb1b0a6fe754b2c6,13.0,Sense2,The bank had to fire a few employees because it had too many tellers,TELLERS,GOSSIP,CASHIER,1.8847,right,1.0186,right,1.2663,1.0,1.1038,1
+5de7900ceb1b0a6fe754b2c6,37.0,Joke,It's hard for leopards to hide as they're always spotted.,SPOTTED,SEEN,PATTERNED,2.8595,right,0.9504,left,0.7578,2.0,1.036,1
+5de7900ceb1b0a6fe754b2c6,20.0,Sense2,Mac users get fewer viruses because they don't have Windows,WINDOWS,COMPUTER,GLASS,3.2174,left,0.9681,right,0.6987,1.0,1.1738,1
+5de7900ceb1b0a6fe754b2c6,8.0,Sense1,I told her I was going to make her mine. She loved the idea of marrying me,MINE,BELONG,QUARRY,2.5165,left,0.9643,right,0.7607,1.0,2.0144,1
+5de7900ceb1b0a6fe754b2c6,6.0,Sense1,The problem with thieves is that they always take other people's things,TAKE,STOLEN,PERSPECTIVE,2.2076,left,0.465,right,0.6785,1.0,1.226,1
+5d8b66f5d189bd001a378273,2.0,Joke,The key to excel in sports is to stay positive,POSITIVE,STEROIDS,ATTITUDE,3.665,right,1.8094,right,1.6753,1.0,2.818,0
+5d8b66f5d189bd001a378273,1.0,Joke,"- Is this safe to eat?
+- No, it's for storing valuable objects",SAFE,BANK,HARMLESS,5.3797,left,1.6677,left,2.6031,5.0,1.7354,1
+5d8b66f5d189bd001a378273,15.0,Sense1,"I asked the chief about the spies. She whispered, ""They're right behind you!""",RIGHT BEHIND YOU,DANGER,LOCATION,8.1665,right,2.3914,left,17.0062,3.0,2.924,0
+5d8b66f5d189bd001a378273,10.0,Joke,"-Order in the court!
+-Ham and cheese on rye, your Honour.",ORDER,ASK,JUDGE,2.9792,left,1.9111,left,1.5522,6.0,2.3186,1
+5d8b66f5d189bd001a378273,22.0,Sense2,Jellyfish can't digest food internally. They don't have guts,GUTS,COURAGE,ORGANS,2.9057,left,2.1967,left,1.6022,5.0,1.7797,0
+5d8b66f5d189bd001a378273,20.0,Sense1,Prisoners don't get enough light because they don't have windows,WINDOWS,COMPUTER,GLASS,6.7591,right,1.2193,right,1.9885,1.0,2.538,1
+5d8b66f5d189bd001a378273,24.0,Sense2,The square is the dead center of town,DEAD CENTER,COFFIN,MIDDLE,6.025,right,2.0946,right,1.0823,1.0,2.1085,1
+5d8b66f5d189bd001a378273,7.0,Joke,The teacher's eyes were crossed because she could not control her pupils,PUPILS,STUDENTS,EYES,3.5661,right,2.267,left,1.0795,5.0,1.8114,1
+5d8b66f5d189bd001a378273,4.0,Joke,"Joan d'Arc was not great at her job, she got fired",FIRED,BURN,UNEMPLOYED,3.31,right,2.2756,left,0.877,6.0,2.1949,1
+5d8b66f5d189bd001a378273,21.0,Sense2,The calendar was useful. Its pages were numbered.,NUMBERED,LIMITED,SEQUENCE,5.502,left,1.93,left,1.9557,3.0,2.3866,0
+5d8b66f5d189bd001a378273,6.0,Joke,The problem with kleptomaniacs is that they always take things literally.,TAKE,STOLEN,PERSPECTIVE,4.3487,left,1.07,left,1.4291,5.0,1.6306,1
+5d8b66f5d189bd001a378273,28.0,Sense2,"I used to make money off my savings, but I lost the interest",INTEREST,ENTHUSIASM,EARNINGS,2.6447,left,2.1233,left,0.9064,3.0,1.8116,0
+5d8b66f5d189bd001a378273,13.0,Sense1,The receptionist considered himself a teller of hard truths,TELLERS,GOSSIP,CASHIER,3.548,right,1.4101,right,2.3433,1.0,2.5444,1
+5d8b66f5d189bd001a378273,5.0,Joke,Two fish in a tank. One says: How do you drive this thing?,TANK,WAR,WATER,2.346,left,2.3333,left,1.0737,3.0,1.6493,1
+5d8b66f5d189bd001a378273,11.0,Sense1,Cannibals don't eat rotten eggs because they taste funny,FUNNY,WEIRD,LAUGHTER,10.002,left,1.6327,left,2.45,2.0,2.2257,0
+5d8b66f5d189bd001a378273,17.0,Sense1,Sleepy people don't want to give up their bed covers,COVERS,DUVET,IDENTITY,6.9979,left,1.0865,right,2.7564,1.0,2.2079,1
+5d8b66f5d189bd001a378273,29.0,Sense2,"I thought pressing the camera button was doing nothing, but then it clicked.",IT CLICKED,INSIGHT,SOUND,4.451,left,2.9327,left,1.322,6.0,1.7336,0
+5d8b66f5d189bd001a378273,26.0,Sense2,I did not destroy the calendar. All I did was rip a day off.,DAY OFF,LEAVE,RIP,5.1415,left,1.1212,left,1.5002,3.0,1.5296,0
+5d8b66f5d189bd001a378273,18.0,Sense1,Why was the belt created? For holding up a pair of pants,HOLDING UP,FASTEN,ROB,5.4888,left,1.3071,right,4.5468,1.0,2.0615,1
+5d8b66f5d189bd001a378273,3.0,Joke,Two cellphones got married. The reception was fantastic,RECEPTION,SIGNAL,PARTY,2.0478,left,1.0977,left,1.324,4.0,2.2404,1
+5d8b66f5d189bd001a378273,8.0,Joke,I told her I was going to make her mine. She has extracted two rubies so far,MINE,BELONG,QUARRY,5.1612,right,1.852,left,1.1707,6.0,1.9668,1
+5d8b66f5d189bd001a378273,27.0,Sense2,I told her that she was drawing her eyebrows too high; she looked angry,LOOKED,APPEARED,EXPRESSION,4.2505,left,1.1425,left,1.5369,4.0,1.1791,0
+5d8b66f5d189bd001a378273,25.0,Sense2,She had a photographic negative but never developed it.,DEVELOPED,IMPROVE,FILM,5.9568,left,2.8715,left,1.5602,3.0,1.577,0
+5d8b66f5d189bd001a378273,19.0,Sense1,The toddler would only eat pasta: he was going through a stage,STAGE,THEATER,PHASE,7.6001,right,4.0599,right,1.2122,1.0,2.2305,1
+5d8b66f5d189bd001a378273,12.0,Sense1,"After seeing the salad dressing, the chef was satisfied",DRESSING,NAKED,CAESAR,3.676,left,2.5182,left,2.8944,2.0,2.0153,0
+5d8b66f5d189bd001a378273,23.0,Sense2,Why did the painting cost extra? Because it was framed,FRAMED,TRAPPED,WOODEN,3.1395,left,4.0789,left,2.1771,2.0,4.3577,0
+5d8b66f5d189bd001a378273,30.0,Sense2,"I saw the car didn't stop at the red light, and then it hit me.",IT HIT ME,REALISE,STRIKE,5.6276,left,4.2405,left,1.5586,2.0,1.5869,0
+5d8b66f5d189bd001a378273,14.0,Sense1,"I heard he was on a roll, turns out his last three books were bestsellers.",ROLL,BREAD,SUCCESS,5.7153,right,2.7077,right,1.0087,1.0,2.4413,1
+5d8b66f5d189bd001a378273,16.0,Sense1,"The restaurant at the resort had great food, but no atmosphere",ATMOSPHERE,LIVELY,OXYGEN,3.6566,left,2.3664,right,2.6225,1.0,2.093,1
+5d8b66f5d189bd001a378273,9.0,Joke,"I don't like people who take drugs, for example: airport security.",TAKE,SNATCH,USE,3.1552,left,1.7005,left,1.6334,6.0,1.8346,1
+5d8b66f5d189bd001a378273,26.0,Sense1,I got fired from the chocolate factory. All I did was take a day off.,DAY OFF,LEAVE,RIP,6.8493,left,2.2101,right,1.2453,1.0,2.0688,1
+5d8b66f5d189bd001a378273,19.0,Joke,The actor fell through the floorboards: he was going through a stage,STAGE,THEATER,PHASE,2.5937,left,1.5355,left,1.4225,3.0,1.6314,1
+5d8b66f5d189bd001a378273,17.0,Joke,Secret agents don't sleep because they don't want to give away their covers,COVERS,DUVET,IDENTITY,3.9343,right,1.7817,left,1.2393,2.0,1.8285,1
+5d8b66f5d189bd001a378273,37.0,Sense2,It's hard for leopards to have plain fur as they're always spotted.,SPOTTED,SEEN,PATTERNED,3.4996,left,1.5593,left,1.2162,3.0,1.2562,0
+5d8b66f5d189bd001a378273,14.0,Joke,"I heard he was on a roll, turns out he fell asleep at the bakery.",ROLL,BREAD,SUCCESS,4.1694,left,0.9723,left,1.0581,3.0,1.4788,1
+5d8b66f5d189bd001a378273,22.0,Sense1,The man didn't ask her out. He didn't have the guts,GUTS,COURAGE,ORGANS,2.7027,left,0.9904,right,1.408,1.0,2.2388,1
+5d8b66f5d189bd001a378273,25.0,Sense1,She had a bright mind but never developed it.,DEVELOPED,IMPROVE,FILM,2.746,left,1.5879,right,1.1758,1.0,2.4079,1
+5d8b66f5d189bd001a378273,32.0,Sense2,"Some people believe the earth is flat, but that's just nuts!",NUTS!,SQUIRREL,CRAZY,3.155,right,1.5817,right,1.202,1.0,2.0612,1
+5d8b66f5d189bd001a378273,20.0,Joke,Mac users don't get enough sunlight because they don't have Windows,WINDOWS,COMPUTER,GLASS,3.2122,right,0.8113,left,1.6143,3.0,2.7654,1
+5d8b66f5d189bd001a378273,16.0,Joke,"The restaurant on the moon had great food, but no atmosphere",ATMOSPHERE,LIVELY,OXYGEN,2.5923,right,1.3701,left,1.0784,2.0,2.0867,1
+5d8b66f5d189bd001a378273,21.0,Sense1,The man on death row was worried. His days were numbered.,NUMBERED,LIMITED,SEQUENCE,5.4981,left,0.9365,right,1.6313,1.0,1.9842,1
+5d8b66f5d189bd001a378273,33.0,Sense2,"I tried a bigger hammer to fix the painting to the wall, but I couldn't nail it.",NAIL IT,SUCCEED,RUST,5.0953,left,1.7673,left,1.4405,2.0,1.6402,0
+5d8b66f5d189bd001a378273,13.0,Joke,The bank couldn't keep any secrets because it had too many tellers,TELLERS,GOSSIP,CASHIER,2.4229,right,1.1926,left,1.0233,3.0,1.8374,1
+5d8b66f5d189bd001a378273,15.0,Joke,"I asked the librarian for books about paranoia. She whispered, ""They're right behind you!""",RIGHT BEHIND YOU,DANGER,LOCATION,3.503,right,3.044,left,1.0905,3.0,1.9461,1
+5d8b66f5d189bd001a378273,31.0,Sense2,"I wanted to buy a car with a gear stick, but I couldn't find a manual",MANUAL,HANDBOOK,TRANSMISSION,4.5426,right,1.2289,left,1.3093,2.0,1.5874,0
+5d8b66f5d189bd001a378273,40.0,Sense2,No need to plug in the toy: its battery is charged,BATTERY,ASSAULT,POWERED,4.8737,right,2.4389,left,3.0499,2.0,5.8021,0
+5d8b66f5d189bd001a378273,30.0,Sense1,"I had no idea who could have done this, and then it hit me.",IT HIT ME,REALISE,STRIKE,3.7214,left,1.594,right,1.2727,1.0,2.672,1
+5d8b66f5d189bd001a378273,11.0,Joke,Cannibals don't eat clowns because they taste funny,FUNNY,WEIRD,LAUGHTER,1.9892,left,1.5938,left,1.2061,5.0,1.4433,1
+5d8b66f5d189bd001a378273,39.0,Sense2,The man had broken his hip in the winter. He had a great fall.,FALL,AUTUMN,SLIP,4.6302,right,1.9833,right,1.0518,1.0,2.3746,1
+5d8b66f5d189bd001a378273,35.0,Sense2,Communists love economic equality because there are no classes,CLASSES,SCHOOL,STATUS,4.9532,right,2.7163,right,1.0534,1.0,3.1089,1
+5d8b66f5d189bd001a378273,29.0,Sense1,"I couldn't figure out how to solve the math problem, but then it clicked.",IT CLICKED,INSIGHT,SOUND,3.1925,left,1.4041,right,1.2745,1.0,3.3341,1
+5d8b66f5d189bd001a378273,18.0,Joke,Why was the belt arrested? For holding up a pair of pants,HOLDING UP,FASTEN,ROB,2.4316,right,2.1441,left,1.2466,2.0,2.032,1
+5d8b66f5d189bd001a378273,12.0,Joke,"After seeing the salad dressing, the tomato turned red",DRESSING,NAKED,CAESAR,1.8049,left,1.4902,left,1.038,2.0,1.6838,1
+5d8b66f5d189bd001a378273,23.0,Sense1,Why did your brother go to jail? Because he was framed,FRAMED,TRAPPED,WOODEN,2.7073,left,1.2054,right,1.879,1.0,2.8866,1
+5d8b66f5d189bd001a378273,24.0,Sense1,A mortuary can be thought of as a dead center,DEAD CENTER,COFFIN,MIDDLE,3.66,left,1.8943,left,4.8171,4.0,2.0908,0
+5d8b66f5d189bd001a378273,34.0,Sense2,"I used to vote for the left, I'm all right now.",ALL RIGHT,OK,DIRECTION,12.7625,right,1.424,left,2.0515,4.0,1.4351,0
+5d8b66f5d189bd001a378273,28.0,Sense1,"I used to be into chess, but I lost interest",INTEREST,ENTHUSIASM,EARNINGS,3.4261,left,2.2055,right,2.4915,1.0,2.9226,1
+5d8b66f5d189bd001a378273,38.0,Sense2,"-Did you grind the nutmeg recently?
+-Well, it was just ground this morning!",GROUND,DIRT,CRUSH,12.2149,right,3.036,right,1.9552,1.0,2.1531,1
+5d8b66f5d189bd001a378273,27.0,Sense1,She wasn't expecting me because I came unannounced; she looked surprised.,LOOKED,APPEARED,EXPRESSION,2.6886,left,1.0317,right,1.6816,1.0,2.5554,1
+5d8b66f5d189bd001a378273,36.0,Sense2,How do you make the bride fast? Take away her food.,FAST,QUICK,HUNGRY,3.6157,right,1.2159,left,1.2295,3.0,1.6425,0
+5d8b66f5d189bd001a378273,23.0,Joke,Why did the painting go to jail? Because it was framed,FRAMED,TRAPPED,WOODEN,2.0835,left,0.9959,left,1.6201,3.0,2.4917,1
+5d8b66f5d189bd001a378273,39.0,Sense1,The University Student was happy in the winter. He had a great fall.,FALL,AUTUMN,SLIP,4.3396,left,0.8134,right,1.3992,1.0,3.706,1
+5d8b66f5d189bd001a378273,36.0,Sense1,How do you make the car fast? Take away the brakes.,FAST,QUICK,HUNGRY,3.6249,left,0.8423,left,1.2265,4.0,1.6631,0
+5d8b66f5d189bd001a378273,24.0,Joke,The graveyard is the dead center of town,DEAD CENTER,COFFIN,MIDDLE,1.8422,left,1.2512,left,1.4427,4.0,4.3175,1
+5d8b66f5d189bd001a378273,6.0,Sense2,The problem with some people is that they always take things literally.,TAKE,STOLEN,PERSPECTIVE,3.7913,right,1.2061,right,0.8634,1.0,3.0018,1
+5d8b66f5d189bd001a378273,22.0,Joke,The skeleton didn't ask her out. He didn't have the guts,GUTS,COURAGE,ORGANS,1.6728,right,0.9953,left,1.2442,2.0,1.6426,1
+5d8b66f5d189bd001a378273,1.0,Sense2,"- Is this safe to eat? 
+- Yes, I had it for breakfast",SAFE,BANK,HARMLESS,4.9594,right,1.2189,right,1.7244,1.0,2.6878,1
+5d8b66f5d189bd001a378273,8.0,Sense2,"The foreman told him to go to the mine. He said: ""that's what you pay me for""",MINE,BELONG,QUARRY,8.2311,right,1.2027,right,0.8865,1.0,2.6464,1
+5d8b66f5d189bd001a378273,30.0,Joke,"I wondered why the car was getting bigger, and then it hit me.",IT HIT ME,REALISE,STRIKE,2.584,right,1.6805,left,1.4682,6.0,1.9267,1
+5d8b66f5d189bd001a378273,26.0,Joke,I got fired from the calendar factory. All I did was take a day off.,DAY OFF,LEAVE,RIP,2.3238,right,1.0572,left,1.6907,5.0,2.1085,1
+5d8b66f5d189bd001a378273,2.0,Sense2,The key to a happy life is to stay positive,POSITIVE,STEROIDS,ATTITUDE,2.0167,right,2.0515,right,0.8229,1.0,2.2926,1
+5d8b66f5d189bd001a378273,9.0,Sense2,"I don't like people who take my stuff, for example: airport security.",TAKE,SNATCH,USE,3.5991,left,1.2303,left,1.4782,2.0,3.4872,0
+5d8b66f5d189bd001a378273,38.0,Sense1,"-There is only sea here 
+-Well, it was just ground this morning!",GROUND,DIRT,CRUSH,6.9143,left,1.6791,left,1.463,4.0,1.2597,0
+5d8b66f5d189bd001a378273,35.0,Sense1,The teacher loved the summer because there were no classes,CLASSES,SCHOOL,STATUS,2.9131,left,0.8657,left,1.7097,1.0,3.8698,0
+5d8b66f5d189bd001a378273,7.0,Sense2,The teacher was fired because she could not control her pupils,PUPILS,STUDENTS,EYES,2.2148,left,1.0193,right,1.0739,1.0,2.8338,1
+5d8b66f5d189bd001a378273,40.0,Sense1,Local man arrested: charged with battery,BATTERY,ASSAULT,POWERED,2.6718,left,1.2428,right,1.2822,1.0,2.7216,1
+5d8b66f5d189bd001a378273,25.0,Joke,She had a photographic memory but never developed it.,DEVELOPED,IMPROVE,FILM,3.6,right,1.894,left,1.0665,4.0,1.4988,1
+5d8b66f5d189bd001a378273,21.0,Joke,The calendar was worried. Its days were numbered.,NUMBERED,LIMITED,SEQUENCE,1.9375,left,1.4649,left,1.2678,3.0,1.451,1
+5d8b66f5d189bd001a378273,10.0,Sense2,"-Order in the court! 
+-I apologise, I will be silent, your Honour. ",ORDER,ASK,JUDGE,5.1206,left,2.8966,right,0.8508,1.0,2.778,1
+5d8b66f5d189bd001a378273,34.0,Sense1,"I was sick for a long time, I'm all right now.",ALL RIGHT,OK,DIRECTION,1.8807,left,1.0424,right,1.2336,1.0,3.3635,1
+5d8b66f5d189bd001a378273,29.0,Joke,"I couldn't figure out how to use the seatbelt, but then it clicked.",IT CLICKED,INSIGHT,SOUND,3.112,right,1.4397,left,1.1205,4.0,1.5036,1
+5d8b66f5d189bd001a378273,37.0,Sense1,It's hard for people with neon clothes to hide as they're always spotted.,SPOTTED,SEEN,PATTERNED,8.091,left,0.8151,right,0.8389,1.0,2.745,1
+5d8b66f5d189bd001a378273,4.0,Sense2,"The oven was ready for the pizza, it was wood fired",FIRED,BURN,UNEMPLOYED,5.7278,left,1.2392,right,1.8487,1.0,2.5674,1
+5d8b66f5d189bd001a378273,31.0,Sense1,"I wanted to learn how to operate the new machine, but I couldn't find a manual",MANUAL,HANDBOOK,TRANSMISSION,2.9878,left,1.0263,right,1.5332,1.0,2.1377,1
+5d8b66f5d189bd001a378273,27.0,Joke,I told her that she was drawing her eyebrows too high; she looked surprised,LOOKED,APPEARED,EXPRESSION,3.6302,left,1.6061,left,1.2595,4.0,1.3037,1
+5d8b66f5d189bd001a378273,28.0,Joke,"I used to be a banker, but I lost interest",INTEREST,ENTHUSIASM,EARNINGS,2.9298,left,1.4637,left,1.2501,2.0,1.5225,1
+5d8b66f5d189bd001a378273,3.0,Sense2,Two cellphones were tested. The reception was fantastic,RECEPTION,SIGNAL,PARTY,4.7733,left,1.0534,right,1.3226,1.0,2.1057,1
+5d8b66f5d189bd001a378273,33.0,Sense1,I tried to sing a very difficult song but I couldn't nail it.,NAIL IT,SUCCEED,RUST,2.9005,left,1.0166,right,0.8371,1.0,2.095,1
+5d8b66f5d189bd001a378273,5.0,Sense2,Two soldiers in a tank. One says: How do you drive this thing?,TANK,WAR,WATER,1.9105,left,1.0765,right,1.0458,1.0,2.3614,1
+5d8b66f5d189bd001a378273,32.0,Sense1,"I thought I'd have cashews and almonds in my balanced meal, but that's just nuts",NUTS!,SQUIRREL,CRAZY,3.9968,right,0.8322,left,0.8395,3.0,1.9442,0
+5d8b66f5d189bd001a378273,31.0,Joke,"I wanted to learn to use the gear stick, but I couldn't find a manual",MANUAL,HANDBOOK,TRANSMISSION,4.1796,right,1.0562,left,2.1544,2.0,2.0643,1
+5d8b66f5d189bd001a378273,9.0,Sense1,"I don't like people who take drugs, for example: cocaine addicts",TAKE,SNATCH,USE,2.6965,right,1.0376,right,1.285,1.0,2.8853,1
+5d8b66f5d189bd001a378273,12.0,Sense2,"After seeing the woman dressing, the man turned red",DRESSING,NAKED,CAESAR,2.9155,left,1.3925,right,1.4885,1.0,2.5889,1
+5d8b66f5d189bd001a378273,2.0,Sense1,Sometimes in sports anti-doping tests are positive,POSITIVE,STEROIDS,ATTITUDE,2.486,left,1.713,right,1.0502,1.0,2.7942,1
+5d8b66f5d189bd001a378273,36.0,Joke,How do you make the turtle fast? Take away its food.,FAST,QUICK,HUNGRY,2.6515,right,1.244,left,1.0452,3.0,1.498,1
+5d8b66f5d189bd001a378273,14.0,Sense2,"I heard he wanted a roll for lunch, I went to the bakery",ROLL,BREAD,SUCCESS,2.9335,left,0.8173,right,1.2782,1.0,2.1464,1
+5d8b66f5d189bd001a378273,18.0,Sense2,Why was the convict arrested? For holding up a bank,HOLDING UP,FASTEN,ROB,3.2375,right,1.0869,right,1.1576,1.0,2.4336,1
+5d8b66f5d189bd001a378273,10.0,Sense1,"-Order in the cafeteria 
+-Ham and cheese on rye, please. ",ORDER,ASK,JUDGE,3.3885,left,1.9039,left,1.9982,3.0,2.3992,0
+5d8b66f5d189bd001a378273,15.0,Sense2,"I asked the librarian for books about cooking. She whispered, ""They're right behind you!""",RIGHT BEHIND YOU,DANGER,LOCATION,4.2472,right,1.2648,right,1.079,1.0,2.4282,1
+5d8b66f5d189bd001a378273,17.0,Sense2,Secret agents don't date because they don't want to give away their covers,COVERS,DUVET,IDENTITY,3.615,right,1.0377,right,1.0596,1.0,2.3807,1
+5d8b66f5d189bd001a378273,34.0,Joke,"I lost my left hand in an accident, I'm all right now.",ALL RIGHT,OK,DIRECTION,3.9704,left,2.4741,left,1.0841,4.0,1.9607,1
+5d8b66f5d189bd001a378273,33.0,Joke,I tried to be a carpenter but I couldn't nail it.,NAIL IT,SUCCEED,RUST,2.5349,left,1.0492,left,1.2684,3.0,1.4611,1
+5d8b66f5d189bd001a378273,1.0,Sense1,"- Is this safe locked? 
+- No, I left it open on purpose",SAFE,BANK,HARMLESS,2.5042,left,1.3416,right,1.7249,1.0,2.3514,1
+5d8b66f5d189bd001a378273,39.0,Joke,Humpty Dumpty was happy in the winter. He had a great fall.,FALL,AUTUMN,SLIP,2.8635,right,0.8381,left,1.0912,3.0,1.2608,1
+5d8b66f5d189bd001a378273,40.0,Joke,Energizer bunny arrested: charged with battery,BATTERY,ASSAULT,POWERED,2.5281,left,1.9147,left,1.2777,4.0,1.0471,1
+5d8b66f5d189bd001a378273,19.0,Sense2,The actor ran from left to right: he was going across the stage,STAGE,THEATER,PHASE,3.8798,left,1.2385,right,0.8571,1.0,2.1772,1
+5d8b66f5d189bd001a378273,5.0,Sense1,Two fish in a tank. One says: When do you think we'll get fed?,TANK,WAR,WATER,3.0006,right,1.2527,right,0.907,1.0,2.1545,1
+5d8b66f5d189bd001a378273,32.0,Joke,"I thought about going on an all-almond diet, but that's just nuts!",NUTS!,SQUIRREL,CRAZY,2.9946,right,0.8233,left,0.8815,2.0,1.7261,1
+5d8b66f5d189bd001a378273,11.0,Sense2,The circus hires clowns because they are funny,FUNNY,WEIRD,LAUGHTER,2.5148,right,1.2056,right,0.8761,1.0,2.319,1
+5d8b66f5d189bd001a378273,3.0,Sense1,Two friends got married. The reception was fantastic,RECEPTION,SIGNAL,PARTY,2.1075,right,1.052,right,1.0667,1.0,1.7028,1
+5d8b66f5d189bd001a378273,38.0,Joke,"-This coffee tastes like mud 
+-Well, it was just ground this morning!",GROUND,DIRT,CRUSH,2.9736,left,0.8649,left,0.8792,4.0,0.8909,1
+5d8b66f5d189bd001a378273,35.0,Joke,The communist loved the summer because there were no classes,CLASSES,SCHOOL,STATUS,4.7134,left,2.1384,right,0.8613,1.0,2.2358,0
+5d8b66f5d189bd001a378273,16.0,Sense2,You can't breathe on the moon because there's no atmosphere,ATMOSPHERE,LIVELY,OXYGEN,1.9754,right,0.8374,right,0.8674,1.0,2.0041,1
+5d8b66f5d189bd001a378273,4.0,Sense1,"The lawyer was not great at her job, she got fired",FIRED,BURN,UNEMPLOYED,2.6898,right,1.0248,right,0.8427,1.0,1.5014,1
+5d8b66f5d189bd001a378273,7.0,Sense1,The woman was cross-eyed because she could not control her pupils,PUPILS,STUDENTS,EYES,4.825,right,1.0286,right,1.0699,1.0,1.5516,1
+5d8b66f5d189bd001a378273,13.0,Sense2,The bank had to fire a few employees because it had too many tellers,TELLERS,GOSSIP,CASHIER,3.2078,right,1.0684,right,1.0641,1.0,1.352,1
+5d8b66f5d189bd001a378273,37.0,Joke,It's hard for leopards to hide as they're always spotted.,SPOTTED,SEEN,PATTERNED,3.3622,left,0.8356,left,5.0596,2.0,1.7242,1
+5d8b66f5d189bd001a378273,20.0,Sense2,Mac users get fewer viruses because they don't have Windows,WINDOWS,COMPUTER,GLASS,3.2167,left,0.6352,right,1.7273,1.0,4.6348,1
+5d8b66f5d189bd001a378273,8.0,Sense1,I told her I was going to make her mine. She loved the idea of marrying me,MINE,BELONG,QUARRY,11.3246,left,1.0988,right,1.5442,1.0,1.4906,1
+5d8b66f5d189bd001a378273,6.0,Sense1,The problem with thieves is that they always take other people's things,TAKE,STOLEN,PERSPECTIVE,3.0528,left,2.3984,right,0.8698,1.0,1.5582,1
+66ef36768bc403140fa01e35,2.0,Joke,The key to excel in sports is to stay positive,POSITIVE,STEROIDS,ATTITUDE,4.8697,right,1.8849,left,3.3482,3.0,1.7189,1
+66ef36768bc403140fa01e35,1.0,Joke,"- Is this safe to eat?
+- No, it's for storing valuable objects",SAFE,BANK,HARMLESS,7.6046,right,3.3532,left,2.1501,5.0,1.4809,1
+66ef36768bc403140fa01e35,15.0,Sense1,"I asked the chief about the spies. She whispered, ""They're right behind you!""",RIGHT BEHIND YOU,DANGER,LOCATION,8.814,left,1.7987,left,3.3737,1.0,2.7705,0
+66ef36768bc403140fa01e35,10.0,Joke,"-Order in the court!
+-Ham and cheese on rye, your Honour.",ORDER,ASK,JUDGE,3.7508,left,2.6856,left,1.746,3.0,2.8493,1
+66ef36768bc403140fa01e35,22.0,Sense2,Jellyfish can't digest food internally. They don't have guts,GUTS,COURAGE,ORGANS,6.0038,right,1.2346,right,2.6767,1.0,3.4989,1
+66ef36768bc403140fa01e35,20.0,Sense1,Prisoners don't get enough light because they don't have windows,WINDOWS,COMPUTER,GLASS,6.1436,right,2.5794,right,1.7642,1.0,1.9427,1
+66ef36768bc403140fa01e35,24.0,Sense2,The square is the dead center of town,DEAD CENTER,COFFIN,MIDDLE,5.0565,right,2.2937,right,1.4332,1.0,1.4084,1
+66ef36768bc403140fa01e35,7.0,Joke,The teacher's eyes were crossed because she could not control her pupils,PUPILS,STUDENTS,EYES,5.143,right,1.3696,left,1.7941,4.0,1.7054,1
+66ef36768bc403140fa01e35,4.0,Joke,"Joan d'Arc was not great at her job, she got fired",FIRED,BURN,UNEMPLOYED,4.7322,right,1.2782,left,1.9367,1.0,1.8147,1
+66ef36768bc403140fa01e35,21.0,Sense2,The calendar was useful. Its pages were numbered.,NUMBERED,LIMITED,SEQUENCE,5.7422,right,1.517,right,2.2849,1.0,1.6275,1
+66ef36768bc403140fa01e35,6.0,Joke,The problem with kleptomaniacs is that they always take things literally.,TAKE,STOLEN,PERSPECTIVE,6.5859,right,3.8361,left,1.1071,5.0,1.997,1
+66ef36768bc403140fa01e35,28.0,Sense2,"I used to make money off my savings, but I lost the interest",INTEREST,ENTHUSIASM,EARNINGS,5.0676,left,1.8956,left,1.1203,5.0,1.1457,0
+66ef36768bc403140fa01e35,13.0,Sense1,The receptionist considered himself a teller of hard truths,TELLERS,GOSSIP,CASHIER,7.1917,left,3.6839,right,1.2371,2.0,1.8414,1
+66ef36768bc403140fa01e35,5.0,Joke,Two fish in a tank. One says: How do you drive this thing?,TANK,WAR,WATER,5.6793,right,1.0114,left,1.995,6.0,2.169,1
+66ef36768bc403140fa01e35,11.0,Sense1,Cannibals don't eat rotten eggs because they taste funny,FUNNY,WEIRD,LAUGHTER,6.0387,left,4.1715,right,1.7135,1.0,1.7928,1
+66ef36768bc403140fa01e35,17.0,Sense1,Sleepy people don't want to give up their bed covers,COVERS,DUVET,IDENTITY,5.5666,left,1.5125,right,1.5978,1.0,1.455,1
+66ef36768bc403140fa01e35,29.0,Sense2,"I thought pressing the camera button was doing nothing, but then it clicked.",IT CLICKED,INSIGHT,SOUND,7.8084,right,1.6982,left,1.4697,4.0,0.783,0
+66ef36768bc403140fa01e35,26.0,Sense2,I did not destroy the calendar. All I did was rip a day off.,DAY OFF,LEAVE,RIP,5.2316,right,2.1341,left,2.7016,3.0,4.3357,0
+66ef36768bc403140fa01e35,18.0,Sense1,Why was the belt created? For holding up a pair of pants,HOLDING UP,FASTEN,ROB,7.5076,left,1.9338,right,2.247,1.0,1.2936,1
+66ef36768bc403140fa01e35,3.0,Joke,Two cellphones got married. The reception was fantastic,RECEPTION,SIGNAL,PARTY,4.4717,left,1.2651,left,1.2456,6.0,1.3959,1
+66ef36768bc403140fa01e35,8.0,Joke,I told her I was going to make her mine. She has extracted two rubies so far,MINE,BELONG,QUARRY,8.5031,left,1.3944,left,1.304,2.0,1.3923,1
+66ef36768bc403140fa01e35,27.0,Sense2,I told her that she was drawing her eyebrows too high; she looked angry,LOOKED,APPEARED,EXPRESSION,5.3215,left,0.9915,left,1.5656,5.0,0.9673,0
+66ef36768bc403140fa01e35,25.0,Sense2,She had a photographic negative but never developed it.,DEVELOPED,IMPROVE,FILM,6.2235,right,3.6659,right,2.8697,1.0,2.2378,1
+66ef36768bc403140fa01e35,19.0,Sense1,The toddler would only eat pasta: he was going through a stage,STAGE,THEATER,PHASE,6.9918,right,1.2482,right,1.6694,1.0,1.4207,1
+66ef36768bc403140fa01e35,12.0,Sense1,"After seeing the salad dressing, the chef was satisfied",DRESSING,NAKED,CAESAR,5.3751,right,1.1889,left,1.7637,3.0,1.3092,0
+66ef36768bc403140fa01e35,23.0,Sense2,Why did the painting cost extra? Because it was framed,FRAMED,TRAPPED,WOODEN,3.5206,right,1.0355,left,2.371,2.0,1.1519,0
+66ef36768bc403140fa01e35,30.0,Sense2,"I saw the car didn't stop at the red light, and then it hit me.",IT HIT ME,REALISE,STRIKE,5.1626,right,1.4204,left,2.2454,3.0,0.82,0
+66ef36768bc403140fa01e35,14.0,Sense1,"I heard he was on a roll, turns out his last three books were bestsellers.",ROLL,BREAD,SUCCESS,6.4331,right,1.6506,right,2.7499,1.0,1.5329,1
+66ef36768bc403140fa01e35,16.0,Sense1,"The restaurant at the resort had great food, but no atmosphere",ATMOSPHERE,LIVELY,OXYGEN,11.1805,left,1.3187,right,2.0932,1.0,1.7043,1
+66ef36768bc403140fa01e35,9.0,Joke,"I don't like people who take drugs, for example: airport security.",TAKE,SNATCH,USE,6.8237,right,2.5221,left,1.4813,4.0,1.1044,1
+66ef36768bc403140fa01e35,26.0,Sense1,I got fired from the chocolate factory. All I did was take a day off.,DAY OFF,LEAVE,RIP,5.0371,left,1.6857,right,1.8877,1.0,1.4862,1
+66ef36768bc403140fa01e35,19.0,Joke,The actor fell through the floorboards: he was going through a stage,STAGE,THEATER,PHASE,4.5792,left,1.674,left,2.1464,5.0,1.9101,1
+66ef36768bc403140fa01e35,17.0,Joke,Secret agents don't sleep because they don't want to give away their covers,COVERS,DUVET,IDENTITY,4.5671,right,1.8612,left,1.3357,3.0,1.0656,1
+66ef36768bc403140fa01e35,37.0,Sense2,It's hard for leopards to have plain fur as they're always spotted.,SPOTTED,SEEN,PATTERNED,5.7517,right,1.3714,left,1.4621,2.0,1.1907,0
+66ef36768bc403140fa01e35,14.0,Joke,"I heard he was on a roll, turns out he fell asleep at the bakery.",ROLL,BREAD,SUCCESS,6.4437,left,1.0207,left,1.31,3.0,0.9085,1
+66ef36768bc403140fa01e35,22.0,Sense1,The man didn't ask her out. He didn't have the guts,GUTS,COURAGE,ORGANS,3.8105,right,0.6692,right,3.0878,1.0,1.4167,1
+66ef36768bc403140fa01e35,25.0,Sense1,She had a bright mind but never developed it.,DEVELOPED,IMPROVE,FILM,3.4842,left,1.1064,right,1.5748,1.0,1.3289,1
+66ef36768bc403140fa01e35,32.0,Sense2,"Some people believe the earth is flat, but that's just nuts!",NUTS!,SQUIRREL,CRAZY,4.1339,right,0.8151,right,2.0279,1.0,1.7393,1
+66ef36768bc403140fa01e35,20.0,Joke,Mac users don't get enough sunlight because they don't have Windows,WINDOWS,COMPUTER,GLASS,4.836,left,1.1162,left,1.5577,4.0,0.917,1
+66ef36768bc403140fa01e35,16.0,Joke,"The restaurant on the moon had great food, but no atmosphere",ATMOSPHERE,LIVELY,OXYGEN,4.5442,right,1.1397,left,1.1003,5.0,1.018,1
+66ef36768bc403140fa01e35,21.0,Sense1,The man on death row was worried. His days were numbered.,NUMBERED,LIMITED,SEQUENCE,4.3063,left,1.2163,right,1.8131,1.0,1.2074,1
+66ef36768bc403140fa01e35,33.0,Sense2,"I tried a bigger hammer to fix the painting to the wall, but I couldn't nail it.",NAIL IT,SUCCEED,RUST,5.1477,right,2.1837,right,1.9336,1.0,1.2718,1
+66ef36768bc403140fa01e35,13.0,Joke,The bank couldn't keep any secrets because it had too many tellers,TELLERS,GOSSIP,CASHIER,3.965,left,1.3,left,1.2327,5.0,0.9651,1
+66ef36768bc403140fa01e35,15.0,Joke,"I asked the librarian for books about paranoia. She whispered, ""They're right behind you!""",RIGHT BEHIND YOU,DANGER,LOCATION,4.5003,left,1.3067,left,2.6242,1.0,1.3419,1
+66ef36768bc403140fa01e35,31.0,Sense2,"I wanted to buy a car with a gear stick, but I couldn't find a manual",MANUAL,HANDBOOK,TRANSMISSION,9.032,right,3.0303,left,1.0201,3.0,1.1655,0
+66ef36768bc403140fa01e35,40.0,Sense2,No need to plug in the toy: its battery is charged,BATTERY,ASSAULT,POWERED,5.7467,right,1.2898,right,1.1382,1.0,1.2035,1
+66ef36768bc403140fa01e35,30.0,Sense1,"I had no idea who could have done this, and then it hit me.",IT HIT ME,REALISE,STRIKE,3.6261,left,1.5009,right,1.8652,1.0,1.4791,1
+66ef36768bc403140fa01e35,11.0,Joke,Cannibals don't eat clowns because they taste funny,FUNNY,WEIRD,LAUGHTER,2.9539,left,1.3877,left,1.405,4.0,0.771,1
+66ef36768bc403140fa01e35,39.0,Sense2,The man had broken his hip in the winter. He had a great fall.,FALL,AUTUMN,SLIP,5.0077,left,1.7687,left,1.619,3.0,0.9414,0
+66ef36768bc403140fa01e35,35.0,Sense2,Communists love economic equality because there are no classes,CLASSES,SCHOOL,STATUS,4.1969,right,1.3858,right,1.9079,2.0,2.9339,1
+66ef36768bc403140fa01e35,29.0,Sense1,"I couldn't figure out how to solve the math problem, but then it clicked.",IT CLICKED,INSIGHT,SOUND,3.6631,left,1.1485,right,1.1616,1.0,1.6305,1
+66ef36768bc403140fa01e35,18.0,Joke,Why was the belt arrested? For holding up a pair of pants,HOLDING UP,FASTEN,ROB,3.3965,right,0.9733,left,1.1589,5.0,0.8617,1
+66ef36768bc403140fa01e35,12.0,Joke,"After seeing the salad dressing, the tomato turned red",DRESSING,NAKED,CAESAR,3.7687,left,0.8722,left,1.043,5.0,0.8159,1
+66ef36768bc403140fa01e35,23.0,Sense1,Why did your brother go to jail? Because he was framed,FRAMED,TRAPPED,WOODEN,4.8173,left,1.1564,right,1.2538,1.0,1.1757,1
+66ef36768bc403140fa01e35,24.0,Sense1,A mortuary can be thought of as a dead center,DEAD CENTER,COFFIN,MIDDLE,3.4851,left,1.0023,right,1.8938,1.0,1.2499,1
+66ef36768bc403140fa01e35,34.0,Sense2,"I used to vote for the left, I'm all right now.",ALL RIGHT,OK,DIRECTION,4.165,right,2.5853,right,2.3482,2.0,1.9297,1
+66ef36768bc403140fa01e35,28.0,Sense1,"I used to be into chess, but I lost interest",INTEREST,ENTHUSIASM,EARNINGS,3.0359,left,1.4365,right,1.0313,1.0,1.2974,1
+66ef36768bc403140fa01e35,38.0,Sense2,"-Did you grind the nutmeg recently?
+-Well, it was just ground this morning!",GROUND,DIRT,CRUSH,6.9995,right,1.0937,right,1.8236,1.0,1.201,1
+66ef36768bc403140fa01e35,27.0,Sense1,She wasn't expecting me because I came unannounced; she looked surprised.,LOOKED,APPEARED,EXPRESSION,4.5082,left,0.8153,right,2.2508,1.0,1.4828,1
+66ef36768bc403140fa01e35,36.0,Sense2,How do you make the bride fast? Take away her food.,FAST,QUICK,HUNGRY,7.2076,left,2.0891,right,1.0116,1.0,1.1636,1
+66ef36768bc403140fa01e35,23.0,Joke,Why did the painting go to jail? Because it was framed,FRAMED,TRAPPED,WOODEN,3.0128,left,0.9093,left,1.0152,5.0,0.759,1
+66ef36768bc403140fa01e35,39.0,Sense1,The University Student was happy in the winter. He had a great fall.,FALL,AUTUMN,SLIP,4.0798,left,0.6509,left,1.7294,2.0,3.6628,0
+66ef36768bc403140fa01e35,36.0,Sense1,How do you make the car fast? Take away the brakes.,FAST,QUICK,HUNGRY,4.0344,left,0.9139,right,1.7419,2.0,1.5687,1
+66ef36768bc403140fa01e35,24.0,Joke,The graveyard is the dead center of town,DEAD CENTER,COFFIN,MIDDLE,3.7968,left,2.1385,left,1.3498,4.0,0.7026,1
+66ef36768bc403140fa01e35,6.0,Sense2,The problem with some people is that they always take things literally.,TAKE,STOLEN,PERSPECTIVE,3.4372,right,1.1,right,0.9193,1.0,1.2223,1
+66ef36768bc403140fa01e35,22.0,Joke,The skeleton didn't ask her out. He didn't have the guts,GUTS,COURAGE,ORGANS,3.8598,right,1.1724,left,1.0315,5.0,1.9256,1
+66ef36768bc403140fa01e35,1.0,Sense2,"- Is this safe to eat? 
+- Yes, I had it for breakfast",SAFE,BANK,HARMLESS,3.7926,right,0.9182,right,0.931,1.0,1.1726,1
+66ef36768bc403140fa01e35,8.0,Sense2,"The foreman told him to go to the mine. He said: ""that's what you pay me for""",MINE,BELONG,QUARRY,7.1754,right,1.1839,right,1.1432,1.0,1.1128,1
+66ef36768bc403140fa01e35,30.0,Joke,"I wondered why the car was getting bigger, and then it hit me.",IT HIT ME,REALISE,STRIKE,3.4385,right,1.0355,left,3.0399,4.0,1.1773,1
+66ef36768bc403140fa01e35,26.0,Joke,I got fired from the calendar factory. All I did was take a day off.,DAY OFF,LEAVE,RIP,4.7848,right,3.0535,left,1.1455,6.0,1.0111,1
+66ef36768bc403140fa01e35,2.0,Sense2,The key to a happy life is to stay positive,POSITIVE,STEROIDS,ATTITUDE,3.8329,right,1.1026,right,0.9974,1.0,1.1152,1
+66ef36768bc403140fa01e35,9.0,Sense2,"I don't like people who take my stuff, for example: airport security.",TAKE,SNATCH,USE,3.9226,left,1.4684,left,1.6663,4.0,2.8728,0
+66ef36768bc403140fa01e35,38.0,Sense1,"-There is only sea here 
+-Well, it was just ground this morning!",GROUND,DIRT,CRUSH,6.6609,left,4.0167,left,3.0875,2.0,1.281,0
+66ef36768bc403140fa01e35,35.0,Sense1,The teacher loved the summer because there were no classes,CLASSES,SCHOOL,STATUS,4.7577,left,0.8158,right,1.1321,1.0,1.1874,1
+66ef36768bc403140fa01e35,7.0,Sense2,The teacher was fired because she could not control her pupils,PUPILS,STUDENTS,EYES,3.699,left,0.6137,right,1.3292,1.0,1.1876,1
+66ef36768bc403140fa01e35,40.0,Sense1,Local man arrested: charged with battery,BATTERY,ASSAULT,POWERED,3.2117,left,0.8269,right,1.0338,1.0,1.1749,1
+66ef36768bc403140fa01e35,25.0,Joke,She had a photographic memory but never developed it.,DEVELOPED,IMPROVE,FILM,2.9097,left,0.905,left,0.8027,3.0,1.1793,1
+66ef36768bc403140fa01e35,21.0,Joke,The calendar was worried. Its days were numbered.,NUMBERED,LIMITED,SEQUENCE,3.1469,left,1.178,left,1.3486,4.0,0.6729,1
+66ef36768bc403140fa01e35,10.0,Sense2,"-Order in the court! 
+-I apologise, I will be silent, your Honour. ",ORDER,ASK,JUDGE,4.813,right,1.5767,right,1.3804,1.0,0.9813,1
+66ef36768bc403140fa01e35,34.0,Sense1,"I was sick for a long time, I'm all right now.",ALL RIGHT,OK,DIRECTION,2.9256,left,0.9198,right,1.301,1.0,1.2279,1
+66ef36768bc403140fa01e35,29.0,Joke,"I couldn't figure out how to use the seatbelt, but then it clicked.",IT CLICKED,INSIGHT,SOUND,2.9109,left,0.9821,left,1.3468,5.0,1.0655,1
+66ef36768bc403140fa01e35,37.0,Sense1,It's hard for people with neon clothes to hide as they're always spotted.,SPOTTED,SEEN,PATTERNED,4.1835,left,0.9001,right,0.9843,1.0,1.2358,1
+66ef36768bc403140fa01e35,4.0,Sense2,"The oven was ready for the pizza, it was wood fired",FIRED,BURN,UNEMPLOYED,6.1669,left,0.9582,right,1.0998,1.0,1.1354,1
+66ef36768bc403140fa01e35,31.0,Sense1,"I wanted to learn how to operate the new machine, but I couldn't find a manual",MANUAL,HANDBOOK,TRANSMISSION,3.2304,left,0.9358,right,1.8689,1.0,1.2834,1
+66ef36768bc403140fa01e35,27.0,Joke,I told her that she was drawing her eyebrows too high; she looked surprised,LOOKED,APPEARED,EXPRESSION,3.9015,left,1.8368,left,1.0794,5.0,0.9035,1
+66ef36768bc403140fa01e35,28.0,Joke,"I used to be a banker, but I lost interest",INTEREST,ENTHUSIASM,EARNINGS,3.7969,right,0.94,left,1.266,4.0,0.8596,1
+66ef36768bc403140fa01e35,3.0,Sense2,Two cellphones were tested. The reception was fantastic,RECEPTION,SIGNAL,PARTY,3.6376,left,1.0075,right,1.0977,1.0,1.0954,1
+66ef36768bc403140fa01e35,33.0,Sense1,I tried to sing a very difficult song but I couldn't nail it.,NAIL IT,SUCCEED,RUST,3.8459,left,0.9475,right,1.3339,1.0,1.1931,1
+66ef36768bc403140fa01e35,5.0,Sense2,Two soldiers in a tank. One says: How do you drive this thing?,TANK,WAR,WATER,2.7716,left,0.9702,right,1.2576,1.0,1.1755,1
+66ef36768bc403140fa01e35,32.0,Sense1,"I thought I'd have cashews and almonds in my balanced meal, but that's just nuts",NUTS!,SQUIRREL,CRAZY,4.6415,left,1.2348,left,2.1734,5.0,0.6788,0
+66ef36768bc403140fa01e35,31.0,Joke,"I wanted to learn to use the gear stick, but I couldn't find a manual",MANUAL,HANDBOOK,TRANSMISSION,4.8558,right,3.6645,left,1.7395,3.0,0.6902,1
+66ef36768bc403140fa01e35,9.0,Sense1,"I don't like people who take drugs, for example: cocaine addicts",TAKE,SNATCH,USE,2.9803,right,1.1771,right,1.2091,1.0,1.0788,1
+66ef36768bc403140fa01e35,12.0,Sense2,"After seeing the woman dressing, the man turned red",DRESSING,NAKED,CAESAR,2.7602,left,0.5482,right,1.1477,1.0,1.0409,1
+66ef36768bc403140fa01e35,2.0,Sense1,Sometimes in sports anti-doping tests are positive,POSITIVE,STEROIDS,ATTITUDE,4.4083,left,1.0162,right,1.0036,1.0,0.8692,1
+66ef36768bc403140fa01e35,36.0,Joke,How do you make the turtle fast? Take away its food.,FAST,QUICK,HUNGRY,6.7357,right,1.4398,left,1.0457,4.0,0.9474,1
+66ef36768bc403140fa01e35,14.0,Sense2,"I heard he wanted a roll for lunch, I went to the bakery",ROLL,BREAD,SUCCESS,4.9145,left,0.6468,right,1.1941,1.0,1.0629,1
+66ef36768bc403140fa01e35,18.0,Sense2,Why was the convict arrested? For holding up a bank,HOLDING UP,FASTEN,ROB,3.647,right,1.0849,right,0.8735,1.0,1.1188,1
+66ef36768bc403140fa01e35,10.0,Sense1,"-Order in the cafeteria 
+-Ham and cheese on rye, please. ",ORDER,ASK,JUDGE,4.7159,left,1.1924,right,3.4541,1.0,1.9782,1
+66ef36768bc403140fa01e35,15.0,Sense2,"I asked the librarian for books about cooking. She whispered, ""They're right behind you!""",RIGHT BEHIND YOU,DANGER,LOCATION,3.7917,right,1.4761,right,2.8051,1.0,1.3476,1
+66ef36768bc403140fa01e35,17.0,Sense2,Secret agents don't date because they don't want to give away their covers,COVERS,DUVET,IDENTITY,5.4797,right,0.6973,right,1.4222,1.0,1.2242,1
+66ef36768bc403140fa01e35,34.0,Joke,"I lost my left hand in an accident, I'm all right now.",ALL RIGHT,OK,DIRECTION,5.7609,left,1.1888,left,1.2547,7.0,1.259,1
+66ef36768bc403140fa01e35,33.0,Joke,I tried to be a carpenter but I couldn't nail it.,NAIL IT,SUCCEED,RUST,3.7579,left,0.6214,left,1.0207,5.0,0.9532,1
+66ef36768bc403140fa01e35,1.0,Sense1,"- Is this safe locked? 
+- No, I left it open on purpose",SAFE,BANK,HARMLESS,3.695,left,3.0438,right,1.3275,2.0,1.1301,1
+66ef36768bc403140fa01e35,39.0,Joke,Humpty Dumpty was happy in the winter. He had a great fall.,FALL,AUTUMN,SLIP,5.0448,right,1.1169,left,1.3098,4.0,0.8793,1
+66ef36768bc403140fa01e35,40.0,Joke,Energizer bunny arrested: charged with battery,BATTERY,ASSAULT,POWERED,3.6876,left,0.6008,left,0.7948,6.0,1.0963,1
+66ef36768bc403140fa01e35,19.0,Sense2,The actor ran from left to right: he was going across the stage,STAGE,THEATER,PHASE,3.6935,left,1.1462,right,1.0939,1.0,1.3844,1
+66ef36768bc403140fa01e35,5.0,Sense1,Two fish in a tank. One says: When do you think we'll get fed?,TANK,WAR,WATER,4.1837,right,0.8337,right,1.373,1.0,1.219,1
+66ef36768bc403140fa01e35,32.0,Joke,"I thought about going on an all-almond diet, but that's just nuts!",NUTS!,SQUIRREL,CRAZY,3.8784,left,0.9197,left,2.3453,4.0,1.8894,1
+66ef36768bc403140fa01e35,11.0,Sense2,The circus hires clowns because they are funny,FUNNY,WEIRD,LAUGHTER,2.6798,right,0.9327,right,1.1448,1.0,1.1438,1
+66ef36768bc403140fa01e35,3.0,Sense1,Two friends got married. The reception was fantastic,RECEPTION,SIGNAL,PARTY,2.8492,right,0.9037,right,0.9917,1.0,1.154,1
+66ef36768bc403140fa01e35,38.0,Joke,"-This coffee tastes like mud 
+-Well, it was just ground this morning!",GROUND,DIRT,CRUSH,4.2767,right,1.2137,left,2.9424,3.0,1.4297,1
+66ef36768bc403140fa01e35,35.0,Joke,The communist loved the summer because there were no classes,CLASSES,SCHOOL,STATUS,4.3474,right,3.2088,left,0.8917,3.0,0.7177,1
+66ef36768bc403140fa01e35,16.0,Sense2,You can't breathe on the moon because there's no atmosphere,ATMOSPHERE,LIVELY,OXYGEN,2.302,right,1.0682,right,0.8521,1.0,1.134,1
+66ef36768bc403140fa01e35,4.0,Sense1,"The lawyer was not great at her job, she got fired",FIRED,BURN,UNEMPLOYED,3.2445,right,0.9473,right,1.2165,1.0,1.168,1
+66ef36768bc403140fa01e35,7.0,Sense1,The woman was cross-eyed because she could not control her pupils,PUPILS,STUDENTS,EYES,2.9581,right,1.2331,right,1.2766,1.0,1.1194,1
+66ef36768bc403140fa01e35,13.0,Sense2,The bank had to fire a few employees because it had too many tellers,TELLERS,GOSSIP,CASHIER,4.2708,right,0.6631,right,1.9802,3.0,0.8606,1
+66ef36768bc403140fa01e35,37.0,Joke,It's hard for leopards to hide as they're always spotted.,SPOTTED,SEEN,PATTERNED,3.2041,right,1.0177,left,0.9988,5.0,1.0762,1
+66ef36768bc403140fa01e35,20.0,Sense2,Mac users get fewer viruses because they don't have Windows,WINDOWS,COMPUTER,GLASS,3.2224,left,1.8863,right,1.2161,1.0,1.1116,1
+66ef36768bc403140fa01e35,8.0,Sense1,I told her I was going to make her mine. She loved the idea of marrying me,MINE,BELONG,QUARRY,4.3106,left,0.9637,right,2.557,1.0,1.1446,1
+66ef36768bc403140fa01e35,6.0,Sense1,The problem with thieves is that they always take other people's things,TAKE,STOLEN,PERSPECTIVE,3.1685,left,1.0613,right,1.0858,1.0,1.0215,1
+63d79fcd741f9cfb2f87152f,2.0,Joke,The key to excel in sports is to stay positive,POSITIVE,STEROIDS,ATTITUDE,6.178099999,right,1.902599999,right,1.8589,2.0,2.142700001,0
+63d79fcd741f9cfb2f87152f,1.0,Joke,"- Is this safe to eat?
+- No, it's for storing valuable objects",SAFE,BANK,HARMLESS,5.062,right,1.3343,right,1.4896,2.0,1.7926,0
+63d79fcd741f9cfb2f87152f,15.0,Sense1,"I asked the chief about the spies. She whispered, ""They're right behind you!""",RIGHT BEHIND YOU,DANGER,LOCATION,5.248200001,left,9.0454,left,1.206099999,7.0,2.7796,0
+63d79fcd741f9cfb2f87152f,10.0,Joke,"-Order in the court!
+-Ham and cheese on rye, your Honour.",ORDER,ASK,JUDGE,10.3927,left,4.2245,left,1.010599999,7.0,2.2727,1
+63d79fcd741f9cfb2f87152f,22.0,Sense2,Jellyfish can't digest food internally. They don't have guts,GUTS,COURAGE,ORGANS,9.1718,right,2.6306,right,1.761799999,2.0,1.4955,1
+63d79fcd741f9cfb2f87152f,20.0,Sense1,Prisoners don't get enough light because they don't have windows,WINDOWS,COMPUTER,GLASS,4.7335,right,2.0066,right,2.6287,2.0,2.8786,1
+63d79fcd741f9cfb2f87152f,24.0,Sense2,The square is the dead center of town,DEAD CENTER,COFFIN,MIDDLE,5.7677,right,1.7425,right,1.479,2.0,1.6063,1
+63d79fcd741f9cfb2f87152f,7.0,Joke,The teacher's eyes were crossed because she could not control her pupils,PUPILS,STUDENTS,EYES,8.5865,right,2.3687,left,1.218,7.0,1.1705,1
+63d79fcd741f9cfb2f87152f,4.0,Joke,"Joan d'Arc was not great at her job, she got fired",FIRED,BURN,UNEMPLOYED,5.1027,left,2.041299999,right,0.9815,1.0,1.445400001,0
+63d79fcd741f9cfb2f87152f,21.0,Sense2,The calendar was useful. Its pages were numbered.,NUMBERED,LIMITED,SEQUENCE,6.1008,right,3.228,right,1.0547,2.0,1.4578,1
+63d79fcd741f9cfb2f87152f,6.0,Joke,The problem with kleptomaniacs is that they always take things literally.,TAKE,STOLEN,PERSPECTIVE,10.765,right,1.935,right,1.076599999,2.0,1.5277,0
+63d79fcd741f9cfb2f87152f,28.0,Sense2,"I used to make money off my savings, but I lost the interest",INTEREST,ENTHUSIASM,EARNINGS,3.53,left,4.1536,right,1.3781,1.0,1.3325,1
+63d79fcd741f9cfb2f87152f,13.0,Sense1,The receptionist considered himself a teller of hard truths,TELLERS,GOSSIP,CASHIER,3.76,right,4.7997,right,1.0569,2.0,1.2971,1
+63d79fcd741f9cfb2f87152f,5.0,Joke,Two fish in a tank. One says: How do you drive this thing?,TANK,WAR,WATER,7.5085,left,4.0294,left,1.599299999,6.0,1.8265,1
+63d79fcd741f9cfb2f87152f,11.0,Sense1,Cannibals don't eat rotten eggs because they taste funny,FUNNY,WEIRD,LAUGHTER,4.6207,left,2.494,left,1.6987,6.0,1.2918,0
+63d79fcd741f9cfb2f87152f,17.0,Sense1,Sleepy people don't want to give up their bed covers,COVERS,DUVET,IDENTITY,2.927700001,left,3.1215,right,0.8935,5.0,3.8196,1
+63d79fcd741f9cfb2f87152f,29.0,Sense2,"I thought pressing the camera button was doing nothing, but then it clicked.",IT CLICKED,INSIGHT,SOUND,4.6615,right,4.6969,right,3.3609,3.0,1.605,1
+63d79fcd741f9cfb2f87152f,26.0,Sense2,I did not destroy the calendar. All I did was rip a day off.,DAY OFF,LEAVE,RIP,5.5294,left,2.4073,left,3.0236,5.0,1.6255,0
+63d79fcd741f9cfb2f87152f,18.0,Sense1,Why was the belt created? For holding up a pair of pants,HOLDING UP,FASTEN,ROB,5.9641,left,10.6247,left,1.5103,5.0,1.2435,0
+63d79fcd741f9cfb2f87152f,3.0,Joke,Two cellphones got married. The reception was fantastic,RECEPTION,SIGNAL,PARTY,5.251,right,4.996299999,left,0.7869,6.0,1.4534,1
+63d79fcd741f9cfb2f87152f,8.0,Joke,I told her I was going to make her mine. She has extracted two rubies so far,MINE,BELONG,QUARRY,14.4295,left,4.8232,left,0.671,7.0,2.42,1
+63d79fcd741f9cfb2f87152f,27.0,Sense2,I told her that she was drawing her eyebrows too high; she looked angry,LOOKED,APPEARED,EXPRESSION,5.3288,right,2.0685,left,1.0133,5.0,1.3469,0
+63d79fcd741f9cfb2f87152f,25.0,Sense2,She had a photographic negative but never developed it.,DEVELOPED,IMPROVE,FILM,3.1168,right,1.7602,right,1.0742,2.0,1.6048,1
+63d79fcd741f9cfb2f87152f,19.0,Sense1,The toddler would only eat pasta: he was going through a stage,STAGE,THEATER,PHASE,6.315799999,right,1.2016,right,2.0967,2.0,1.1425,1
+63d79fcd741f9cfb2f87152f,12.0,Sense1,"After seeing the salad dressing, the chef was satisfied",DRESSING,NAKED,CAESAR,3.3056,right,1.3319,left,2.2451,5.0,1.2765,0
+63d79fcd741f9cfb2f87152f,23.0,Sense2,Why did the painting cost extra? Because it was framed,FRAMED,TRAPPED,WOODEN,6.672400001,left,2.368,left,1.0984,6.0,1.156,0
+63d79fcd741f9cfb2f87152f,30.0,Sense2,"I saw the car didn't stop at the red light, and then it hit me.",IT HIT ME,REALISE,STRIKE,4.288299999,right,5.0507,right,0.9803,6.0,1.376400001,1
+63d79fcd741f9cfb2f87152f,14.0,Sense1,"I heard he was on a roll, turns out his last three books were bestsellers.",ROLL,BREAD,SUCCESS,7.2585,right,1.242,right,1.480599999,2.0,1.4028,1
+63d79fcd741f9cfb2f87152f,16.0,Sense1,"The restaurant at the resort had great food, but no atmosphere",ATMOSPHERE,LIVELY,OXYGEN,4.5973,left,2.1612,left,1.127099999,5.0,1.672,0
+63d79fcd741f9cfb2f87152f,9.0,Joke,"I don't like people who take drugs, for example: airport security.",TAKE,SNATCH,USE,5.0983,right,3.0636,left,0.9645,2.0,2.8443,1
+63d79fcd741f9cfb2f87152f,26.0,Sense1,I got fired from the chocolate factory. All I did was take a day off.,DAY OFF,LEAVE,RIP,4.830599999,left,2.087200001,right,1.977900001,2.0,2.1605,1
+63d79fcd741f9cfb2f87152f,19.0,Joke,The actor fell through the floorboards: he was going through a stage,STAGE,THEATER,PHASE,4.419400001,left,3.1599,right,2.117,2.0,1.2479,0
+63d79fcd741f9cfb2f87152f,17.0,Joke,Secret agents don't sleep because they don't want to give away their covers,COVERS,DUVET,IDENTITY,4.424,right,1.1743,left,0.4357,7.0,2.599400001,1
+63d79fcd741f9cfb2f87152f,37.0,Sense2,It's hard for leopards to have plain fur as they're always spotted.,SPOTTED,SEEN,PATTERNED,6.483700001,right,2.400099999,right,2.1426,5.0,3.1886,1
+63d79fcd741f9cfb2f87152f,14.0,Joke,"I heard he was on a roll, turns out he fell asleep at the bakery.",ROLL,BREAD,SUCCESS,4.9615,left,2.608700001,left,0.4382,7.0,1.1857,1
+63d79fcd741f9cfb2f87152f,22.0,Sense1,The man didn't ask her out. He didn't have the guts,GUTS,COURAGE,ORGANS,4.801700001,left,1.4035,left,1.467599999,5.0,1.8446,0
+63d79fcd741f9cfb2f87152f,25.0,Sense1,She had a bright mind but never developed it.,DEVELOPED,IMPROVE,FILM,3.0623,left,1.5489,right,0.9622,2.0,1.2798,1
+63d79fcd741f9cfb2f87152f,32.0,Sense2,"Some people believe the earth is flat, but that's just nuts!",NUTS!,SQUIRREL,CRAZY,3.412599999,right,1.147599999,right,1.6359,2.0,1.045700001,1
+63d79fcd741f9cfb2f87152f,20.0,Joke,Mac users don't get enough sunlight because they don't have Windows,WINDOWS,COMPUTER,GLASS,4.8241,left,1.337599999,left,0.530599999,7.0,1.733900001,1
+63d79fcd741f9cfb2f87152f,16.0,Joke,"The restaurant on the moon had great food, but no atmosphere",ATMOSPHERE,LIVELY,OXYGEN,11.0643,right,1.307900001,left,1.276299999,7.0,1.7833,1
+63d79fcd741f9cfb2f87152f,21.0,Sense1,The man on death row was worried. His days were numbered.,NUMBERED,LIMITED,SEQUENCE,4.1076,left,1.2193,right,2.019599999,1.0,1.608,1
+63d79fcd741f9cfb2f87152f,33.0,Sense2,"I tried a bigger hammer to fix the painting to the wall, but I couldn't nail it.",NAIL IT,SUCCEED,RUST,8.922400001,left,1.6288,right,1.2995,2.0,1.47,1
+63d79fcd741f9cfb2f87152f,13.0,Joke,The bank couldn't keep any secrets because it had too many tellers,TELLERS,GOSSIP,CASHIER,5.9795,left,4.8029,left,0.8228,7.0,1.7363,1
+63d79fcd741f9cfb2f87152f,15.0,Joke,"I asked the librarian for books about paranoia. She whispered, ""They're right behind you!""",RIGHT BEHIND YOU,DANGER,LOCATION,8.385400001,right,2.3745,right,5.0791,5.0,1.375900001,0
+63d79fcd741f9cfb2f87152f,31.0,Sense2,"I wanted to buy a car with a gear stick, but I couldn't find a manual",MANUAL,HANDBOOK,TRANSMISSION,5.746,right,1.4139,left,1.071099999,5.0,2.9044,0
+63d79fcd741f9cfb2f87152f,40.0,Sense2,No need to plug in the toy: its battery is charged,BATTERY,ASSAULT,POWERED,4.2532,right,1.8659,right,0.56,3.0,2.2471,1
+63d79fcd741f9cfb2f87152f,30.0,Sense1,"I had no idea who could have done this, and then it hit me.",IT HIT ME,REALISE,STRIKE,3.061,left,1.5843,right,4.0257,2.0,1.805400001,1
+63d79fcd741f9cfb2f87152f,11.0,Joke,Cannibals don't eat clowns because they taste funny,FUNNY,WEIRD,LAUGHTER,2.469099999,right,1.5305,left,1.523099999,7.0,1.5098,1
+63d79fcd741f9cfb2f87152f,39.0,Sense2,The man had broken his hip in the winter. He had a great fall.,FALL,AUTUMN,SLIP,3.4884,right,1.1406,right,1.17,1.0,1.2425,1
+63d79fcd741f9cfb2f87152f,35.0,Sense2,Communists love economic equality because there are no classes,CLASSES,SCHOOL,STATUS,5.7563,right,0.8052,right,1.110599999,2.0,1.2411,1
+63d79fcd741f9cfb2f87152f,29.0,Sense1,"I couldn't figure out how to solve the math problem, but then it clicked.",IT CLICKED,INSIGHT,SOUND,3.8828,left,1.6014,left,1.7346,5.0,1.894,0
+63d79fcd741f9cfb2f87152f,18.0,Joke,Why was the belt arrested? For holding up a pair of pants,HOLDING UP,FASTEN,ROB,10.9175,right,4.5486,left,0.635900001,7.0,1.4608,1
+63d79fcd741f9cfb2f87152f,12.0,Joke,"After seeing the salad dressing, the tomato turned red",DRESSING,NAKED,CAESAR,5.7772,right,3.3472,left,1.858099999,6.0,1.3146,1
+63d79fcd741f9cfb2f87152f,23.0,Sense1,Why did your brother go to jail? Because he was framed,FRAMED,TRAPPED,WOODEN,4.026,left,1.8301,right,2.575900001,2.0,1.3344,1
+63d79fcd741f9cfb2f87152f,24.0,Sense1,A mortuary can be thought of as a dead center,DEAD CENTER,COFFIN,MIDDLE,3.4318,left,2.987700001,right,4.065099999,2.0,1.1522,1
+63d79fcd741f9cfb2f87152f,34.0,Sense2,"I used to vote for the left, I'm all right now.",ALL RIGHT,OK,DIRECTION,3.251700001,right,3.6174,right,2.0383,2.0,1.0607,1
+63d79fcd741f9cfb2f87152f,28.0,Sense1,"I used to be into chess, but I lost interest",INTEREST,ENTHUSIASM,EARNINGS,2.6052,left,1.075,right,3.348099999,2.0,1.1372,1
+63d79fcd741f9cfb2f87152f,38.0,Sense2,"-Did you grind the nutmeg recently?
+-Well, it was just ground this morning!",GROUND,DIRT,CRUSH,5.003400001,right,1.7135,right,1.031,3.0,0.9963,1
+63d79fcd741f9cfb2f87152f,27.0,Sense1,She wasn't expecting me because I came unannounced; she looked surprised.,LOOKED,APPEARED,EXPRESSION,4.0314,right,1.2607,right,1.559900001,2.0,1.2077,1
+63d79fcd741f9cfb2f87152f,36.0,Sense2,How do you make the bride fast? Take away her food.,FAST,QUICK,HUNGRY,4.0908,right,1.138599999,left,2.152099999,6.0,1.273599999,0
+63d79fcd741f9cfb2f87152f,23.0,Joke,Why did the painting go to jail? Because it was framed,FRAMED,TRAPPED,WOODEN,4.2687,left,1.9427,right,4.699400001,2.0,2.152,0
+63d79fcd741f9cfb2f87152f,39.0,Sense1,The University Student was happy in the winter. He had a great fall.,FALL,AUTUMN,SLIP,4.7512,left,2.5673,right,5.372599999,3.0,1.252799999,1
+63d79fcd741f9cfb2f87152f,36.0,Sense1,How do you make the car fast? Take away the brakes.,FAST,QUICK,HUNGRY,2.8278,right,0.741099999,right,2.5803,2.0,1.4079,1
+63d79fcd741f9cfb2f87152f,24.0,Joke,The graveyard is the dead center of town,DEAD CENTER,COFFIN,MIDDLE,2.6291,left,3.929799999,left,1.3335,5.0,0.945099999,1
+63d79fcd741f9cfb2f87152f,6.0,Sense2,The problem with some people is that they always take things literally.,TAKE,STOLEN,PERSPECTIVE,4.282299999,right,1.1703,right,1.1453,5.0,1.5105,1
+63d79fcd741f9cfb2f87152f,22.0,Joke,The skeleton didn't ask her out. He didn't have the guts,GUTS,COURAGE,ORGANS,3.5667,right,2.242799999,left,0.725599999,7.0,1.1682,1
+63d79fcd741f9cfb2f87152f,1.0,Sense2,"- Is this safe to eat? 
+- Yes, I had it for breakfast",SAFE,BANK,HARMLESS,4.417,right,1.1338,right,0.8518,2.0,1.2395,1
+63d79fcd741f9cfb2f87152f,8.0,Sense2,"The foreman told him to go to the mine. He said: ""that's what you pay me for""",MINE,BELONG,QUARRY,9.160200001,right,1.3481,right,1.3366,2.0,1.421599999,1
+63d79fcd741f9cfb2f87152f,30.0,Joke,"I wondered why the car was getting bigger, and then it hit me.",IT HIT ME,REALISE,STRIKE,5.5063,right,1.128400001,left,1.132,7.0,1.2365,1
+63d79fcd741f9cfb2f87152f,26.0,Joke,I got fired from the calendar factory. All I did was take a day off.,DAY OFF,LEAVE,RIP,3.926,left,1.2426,right,2.7318,1.0,1.8095,0
+63d79fcd741f9cfb2f87152f,2.0,Sense2,The key to a happy life is to stay positive,POSITIVE,STEROIDS,ATTITUDE,2.9602,right,2.7082,right,1.036400001,2.0,1.036400001,1
+63d79fcd741f9cfb2f87152f,9.0,Sense2,"I don't like people who take my stuff, for example: airport security.",TAKE,SNATCH,USE,9.4975,left,2.3345,left,1.509299999,6.0,1.482700001,0
+63d79fcd741f9cfb2f87152f,38.0,Sense1,"-There is only sea here 
+-Well, it was just ground this morning!",GROUND,DIRT,CRUSH,7.043,left,2.776599999,left,12.0872,7.0,2.0925,0
+63d79fcd741f9cfb2f87152f,35.0,Sense1,The teacher loved the summer because there were no classes,CLASSES,SCHOOL,STATUS,4.8942,left,1.241,right,4.7287,3.0,2.192700001,1
+63d79fcd741f9cfb2f87152f,7.0,Sense2,The teacher was fired because she could not control her pupils,PUPILS,STUDENTS,EYES,2.689299999,left,0.7225,right,1.4884,1.0,1.246799999,1
+63d79fcd741f9cfb2f87152f,40.0,Sense1,Local man arrested: charged with battery,BATTERY,ASSAULT,POWERED,5.6154,right,5.037299999,right,1.735,2.0,1.0355,1
+63d79fcd741f9cfb2f87152f,25.0,Joke,She had a photographic memory but never developed it.,DEVELOPED,IMPROVE,FILM,2.7599,left,1.1819,left,3.312599999,5.0,0.8139,1
+63d79fcd741f9cfb2f87152f,21.0,Joke,The calendar was worried. Its days were numbered.,NUMBERED,LIMITED,SEQUENCE,5.168,left,1.9401,left,2.7055,7.0,1.2774,1
+63d79fcd741f9cfb2f87152f,10.0,Sense2,"-Order in the court! 
+-I apologise, I will be silent, your Honour. ",ORDER,ASK,JUDGE,4.3852,right,7.879099999,right,2.452099999,2.0,1.1366,1
+63d79fcd741f9cfb2f87152f,34.0,Sense1,"I was sick for a long time, I'm all right now.",ALL RIGHT,OK,DIRECTION,3.4669,left,1.234900001,right,1.1406,2.0,1.415599999,1
+63d79fcd741f9cfb2f87152f,29.0,Joke,"I couldn't figure out how to use the seatbelt, but then it clicked.",IT CLICKED,INSIGHT,SOUND,3.6183,left,1.6053,right,1.2622,2.0,1.186099999,0
+63d79fcd741f9cfb2f87152f,37.0,Sense1,It's hard for people with neon clothes to hide as they're always spotted.,SPOTTED,SEEN,PATTERNED,3.7652,left,0.981400001,left,1.3793,6.0,1.3866,0
+63d79fcd741f9cfb2f87152f,4.0,Sense2,"The oven was ready for the pizza, it was wood fired",FIRED,BURN,UNEMPLOYED,2.728900001,left,1.6542,right,3.0118,3.0,4.7887,1
+63d79fcd741f9cfb2f87152f,31.0,Sense1,"I wanted to learn how to operate the new machine, but I couldn't find a manual",MANUAL,HANDBOOK,TRANSMISSION,3.875,left,1.059200001,right,2.103799999,3.0,0.9067,1
+63d79fcd741f9cfb2f87152f,27.0,Joke,I told her that she was drawing her eyebrows too high; she looked surprised,LOOKED,APPEARED,EXPRESSION,3.1294,right,1.4095,left,0.6431,5.0,1.6835,1
+63d79fcd741f9cfb2f87152f,28.0,Joke,"I used to be a banker, but I lost interest",INTEREST,ENTHUSIASM,EARNINGS,2.272299999,right,4.1879,right,1.0114,2.0,1.775900001,0
+63d79fcd741f9cfb2f87152f,3.0,Sense2,Two cellphones were tested. The reception was fantastic,RECEPTION,SIGNAL,PARTY,4.0327,left,0.8779,right,0.3328,2.0,2.3638,1
+63d79fcd741f9cfb2f87152f,33.0,Sense1,I tried to sing a very difficult song but I couldn't nail it.,NAIL IT,SUCCEED,RUST,3.3557,left,1.020099999,right,1.560400001,3.0,1.1093,1
+63d79fcd741f9cfb2f87152f,5.0,Sense2,Two soldiers in a tank. One says: How do you drive this thing?,TANK,WAR,WATER,2.9656,left,1.9035,right,1.791099999,2.0,1.4724,1
+63d79fcd741f9cfb2f87152f,32.0,Sense1,"I thought I'd have cashews and almonds in my balanced meal, but that's just nuts",NUTS!,SQUIRREL,CRAZY,6.611400001,right,1.7136,left,2.9935,5.0,1.4191,0
+63d79fcd741f9cfb2f87152f,31.0,Joke,"I wanted to learn to use the gear stick, but I couldn't find a manual",MANUAL,HANDBOOK,TRANSMISSION,4.5491,right,1.2214,right,1.4794,3.0,1.1982,0
+63d79fcd741f9cfb2f87152f,9.0,Sense1,"I don't like people who take drugs, for example: cocaine addicts",TAKE,SNATCH,USE,2.6723,right,0.9988,right,1.1765,3.0,0.937,1
+63d79fcd741f9cfb2f87152f,12.0,Sense2,"After seeing the woman dressing, the man turned red",DRESSING,NAKED,CAESAR,5.3418,left,1.2353,left,1.4017,7.0,1.1211,0
+63d79fcd741f9cfb2f87152f,2.0,Sense1,Sometimes in sports anti-doping tests are positive,POSITIVE,STEROIDS,ATTITUDE,5.9115,left,1.978799999,right,1.4728,3.0,1.5667,1
+63d79fcd741f9cfb2f87152f,36.0,Joke,How do you make the turtle fast? Take away its food.,FAST,QUICK,HUNGRY,7.09,left,1.1035,left,1.2364,7.0,1.099599999,1
+63d79fcd741f9cfb2f87152f,14.0,Sense2,"I heard he wanted a roll for lunch, I went to the bakery",ROLL,BREAD,SUCCESS,3.8257,left,0.873,right,1.308099999,2.0,1.132400001,1
+63d79fcd741f9cfb2f87152f,18.0,Sense2,Why was the convict arrested? For holding up a bank,HOLDING UP,FASTEN,ROB,6.1025,right,0.9216,right,3.0247,2.0,1.0027,1
+63d79fcd741f9cfb2f87152f,10.0,Sense1,"-Order in the cafeteria 
+-Ham and cheese on rye, please. ",ORDER,ASK,JUDGE,5.111900001,left,1.1652,left,1.007400001,6.0,1.040599999,0
+63d79fcd741f9cfb2f87152f,15.0,Sense2,"I asked the librarian for books about cooking. She whispered, ""They're right behind you!""",RIGHT BEHIND YOU,DANGER,LOCATION,4.554400001,right,4.4726,right,1.836700001,3.0,1.4505,1
+63d79fcd741f9cfb2f87152f,17.0,Sense2,Secret agents don't date because they don't want to give away their covers,COVERS,DUVET,IDENTITY,5.722599999,right,1.9854,right,1.3262,2.0,0.9635,1
+63d79fcd741f9cfb2f87152f,34.0,Joke,"I lost my left hand in an accident, I'm all right now.",ALL RIGHT,OK,DIRECTION,4.773,left,1.335,right,2.897900001,1.0,1.395799999,0
+63d79fcd741f9cfb2f87152f,33.0,Joke,I tried to be a carpenter but I couldn't nail it.,NAIL IT,SUCCEED,RUST,2.760900001,left,0.943,left,0.9674,6.0,0.986,1
+63d79fcd741f9cfb2f87152f,1.0,Sense1,"- Is this safe locked? 
+- No, I left it open on purpose",SAFE,BANK,HARMLESS,4.3971,left,1.5967,right,1.125400001,2.0,0.9792,1
+63d79fcd741f9cfb2f87152f,39.0,Joke,Humpty Dumpty was happy in the winter. He had a great fall.,FALL,AUTUMN,SLIP,3.3238,right,1.0627,left,1.2785,7.0,1.2551,1
+63d79fcd741f9cfb2f87152f,40.0,Joke,Energizer bunny arrested: charged with battery,BATTERY,ASSAULT,POWERED,6.397099999,right,2.2149,left,1.141599999,7.0,0.9957,1
+63d79fcd741f9cfb2f87152f,19.0,Sense2,The actor ran from left to right: he was going across the stage,STAGE,THEATER,PHASE,8.729099999,left,0.9078,right,1.0317,2.0,0.949,1
+63d79fcd741f9cfb2f87152f,5.0,Sense1,Two fish in a tank. One says: When do you think we'll get fed?,TANK,WAR,WATER,3.917900001,right,1.8462,left,1.1034,7.0,1.4663,0
+63d79fcd741f9cfb2f87152f,32.0,Joke,"I thought about going on an all-almond diet, but that's just nuts!",NUTS!,SQUIRREL,CRAZY,5.363,right,1.139900001,left,0.6055,6.0,1.157400001,1
+63d79fcd741f9cfb2f87152f,11.0,Sense2,The circus hires clowns because they are funny,FUNNY,WEIRD,LAUGHTER,2.6448,right,1.2944,left,0.794299999,6.0,1.2696,0
+63d79fcd741f9cfb2f87152f,3.0,Sense1,Two friends got married. The reception was fantastic,RECEPTION,SIGNAL,PARTY,2.938299999,right,0.9133,left,0.6387,3.0,1.7663,0
+63d79fcd741f9cfb2f87152f,38.0,Joke,"-This coffee tastes like mud 
+-Well, it was just ground this morning!",GROUND,DIRT,CRUSH,5.0536,right,0.937700001,right,1.6108,2.0,1.0818,0
+63d79fcd741f9cfb2f87152f,35.0,Joke,The communist loved the summer because there were no classes,CLASSES,SCHOOL,STATUS,4.154799999,right,1.5083,left,0.529099999,6.0,1.3221,1
+63d79fcd741f9cfb2f87152f,16.0,Sense2,You can't breathe on the moon because there's no atmosphere,ATMOSPHERE,LIVELY,OXYGEN,5.4409,right,1.1371,right,1.298400001,1.0,1.128,1
+63d79fcd741f9cfb2f87152f,4.0,Sense1,"The lawyer was not great at her job, she got fired",FIRED,BURN,UNEMPLOYED,3.4106,right,0.9544,right,0.986400001,2.0,0.8986,1
+63d79fcd741f9cfb2f87152f,7.0,Sense1,The woman was cross-eyed because she could not control her pupils,PUPILS,STUDENTS,EYES,5.8373,right,0.9387,left,1.0657,6.0,0.8575,0
+63d79fcd741f9cfb2f87152f,13.0,Sense2,The bank had to fire a few employees because it had too many tellers,TELLERS,GOSSIP,CASHIER,3.2373,right,4.2303,right,0.787,2.0,1.0687,1
+63d79fcd741f9cfb2f87152f,37.0,Joke,It's hard for leopards to hide as they're always spotted.,SPOTTED,SEEN,PATTERNED,2.6579,right,1.3658,left,1.456900001,6.0,1.1642,1
+63d79fcd741f9cfb2f87152f,20.0,Sense2,Mac users get fewer viruses because they don't have Windows,WINDOWS,COMPUTER,GLASS,1.438900001,left,0.728900001,left,0.7143,7.0,0.9817,0
+63d79fcd741f9cfb2f87152f,8.0,Sense1,I told her I was going to make her mine. She loved the idea of marrying me,MINE,BELONG,QUARRY,3.4701,left,1.2604,right,1.2435,2.0,1.0107,1
+63d79fcd741f9cfb2f87152f,6.0,Sense1,The problem with thieves is that they always take other people's things,TAKE,STOLEN,PERSPECTIVE,3.041,left,1.444099999,right,1.1422,2.0,1.2195,1
+66bcce7233ce3b6b5aaecd5e,2.0,Joke,The key to excel in sports is to stay positive,POSITIVE,STEROIDS,ATTITUDE,4.3555,right,1.7887,right,2.2658,1.0,3.1658,0
+66bcce7233ce3b6b5aaecd5e,1.0,Joke,"- Is this safe to eat?
+- No, it's for storing valuable objects",SAFE,BANK,HARMLESS,5.6289,right,2.1578,right,1.5265,1.0,2.9715,0
+66bcce7233ce3b6b5aaecd5e,15.0,Sense1,"I asked the chief about the spies. She whispered, ""They're right behind you!""",RIGHT BEHIND YOU,DANGER,LOCATION,4.529,right,2.2134,right,1.3392,1.0,2.791,1
+66bcce7233ce3b6b5aaecd5e,10.0,Joke,"-Order in the court!
+-Ham and cheese on rye, your Honour.",ORDER,ASK,JUDGE,4.0974,left,6.5484,left,3.1876,5.0,6.6406,1
+66bcce7233ce3b6b5aaecd5e,22.0,Sense2,Jellyfish can't digest food internally. They don't have guts,GUTS,COURAGE,ORGANS,3.4576,right,1.5655,left,1.3399,7.0,4.5408,0
+66bcce7233ce3b6b5aaecd5e,20.0,Sense1,Prisoners don't get enough light because they don't have windows,WINDOWS,COMPUTER,GLASS,4.6809,right,1.1123,left,1.2537,7.0,3.3884,0
+66bcce7233ce3b6b5aaecd5e,24.0,Sense2,The square is the dead center of town,DEAD CENTER,COFFIN,MIDDLE,3.8027,right,8.2685,left,1.9133,5.0,3.238,0
+66bcce7233ce3b6b5aaecd5e,7.0,Joke,The teacher's eyes were crossed because she could not control her pupils,PUPILS,STUDENTS,EYES,4.0558,left,5.1416,left,1.771,7.0,2.8046,1
+66bcce7233ce3b6b5aaecd5e,4.0,Joke,"Joan d'Arc was not great at her job, she got fired",FIRED,BURN,UNEMPLOYED,3.2734,right,2.9309,left,1.0841,7.0,4.3464,1
+66bcce7233ce3b6b5aaecd5e,21.0,Sense2,The calendar was useful. Its pages were numbered.,NUMBERED,LIMITED,SEQUENCE,3.0111,right,5.2904,right,5.3779,1.0,4.305,1
+66bcce7233ce3b6b5aaecd5e,6.0,Joke,The problem with kleptomaniacs is that they always take things literally.,TAKE,STOLEN,PERSPECTIVE,3.7332,left,1.6938,right,1.2826,1.0,2.4993,0
+66bcce7233ce3b6b5aaecd5e,28.0,Sense2,"I used to make money off my savings, but I lost the interest",INTEREST,ENTHUSIASM,EARNINGS,4.1786,right,1.45,left,1.8648,7.0,2.527,0
+66bcce7233ce3b6b5aaecd5e,13.0,Sense1,The receptionist considered himself a teller of hard truths,TELLERS,GOSSIP,CASHIER,4.2212,left,1.7279,left,1.7277,5.0,3.0573,0
+66bcce7233ce3b6b5aaecd5e,5.0,Joke,Two fish in a tank. One says: How do you drive this thing?,TANK,WAR,WATER,3.5225,right,2.0177,left,1.0858,7.0,3.2771,1
+66bcce7233ce3b6b5aaecd5e,11.0,Sense1,Cannibals don't eat rotten eggs because they taste funny,FUNNY,WEIRD,LAUGHTER,3.6992,left,1.4659,left,3.4303,7.0,2.9623,0
+66bcce7233ce3b6b5aaecd5e,17.0,Sense1,Sleepy people don't want to give up their bed covers,COVERS,DUVET,IDENTITY,3.702,left,1.1731,left,1.5002,5.0,2.3908,0
+66bcce7233ce3b6b5aaecd5e,29.0,Sense2,"I thought pressing the camera button was doing nothing, but then it clicked.",IT CLICKED,INSIGHT,SOUND,5.0557,right,1.4188,left,2.8195,2.0,2.6631,0
+66bcce7233ce3b6b5aaecd5e,26.0,Sense2,I did not destroy the calendar. All I did was rip a day off.,DAY OFF,LEAVE,RIP,5.3323,right,1.6228,left,3.6776,6.0,2.402,0
+66bcce7233ce3b6b5aaecd5e,18.0,Sense1,Why was the belt created? For holding up a pair of pants,HOLDING UP,FASTEN,ROB,4.3954,left,1.9034,right,1.109,2.0,3.3604,1
+66bcce7233ce3b6b5aaecd5e,3.0,Joke,Two cellphones got married. The reception was fantastic,RECEPTION,SIGNAL,PARTY,4.6881,right,4.5972,right,1.5313,2.0,2.7076,0
+66bcce7233ce3b6b5aaecd5e,8.0,Joke,I told her I was going to make her mine. She has extracted two rubies so far,MINE,BELONG,QUARRY,4.8203,left,1.3282,right,1.0455,1.0,2.2214,0
+66bcce7233ce3b6b5aaecd5e,27.0,Sense2,I told her that she was drawing her eyebrows too high; she looked angry,LOOKED,APPEARED,EXPRESSION,4.8007,right,4.4743,left,0.9968,7.0,2.2562,0
+66bcce7233ce3b6b5aaecd5e,25.0,Sense2,She had a photographic negative but never developed it.,DEVELOPED,IMPROVE,FILM,4.7063,right,1.7869,right,1.3643,1.0,1.9021,1
+66bcce7233ce3b6b5aaecd5e,19.0,Sense1,The toddler would only eat pasta: he was going through a stage,STAGE,THEATER,PHASE,3.8617,right,1.2949,right,1.1945,1.0,2.0199,1
+66bcce7233ce3b6b5aaecd5e,12.0,Sense1,"After seeing the salad dressing, the chef was satisfied",DRESSING,NAKED,CAESAR,2.9417,right,1.4853,right,0.9329,1.0,1.9225,1
+66bcce7233ce3b6b5aaecd5e,23.0,Sense2,Why did the painting cost extra? Because it was framed,FRAMED,TRAPPED,WOODEN,2.9572,right,1.3771,left,0.916,7.0,2.0852,0
+66bcce7233ce3b6b5aaecd5e,30.0,Sense2,"I saw the car didn't stop at the red light, and then it hit me.",IT HIT ME,REALISE,STRIKE,4.4233,left,6.4599,right,1.0625,1.0,2.2978,1
+66bcce7233ce3b6b5aaecd5e,14.0,Sense1,"I heard he was on a roll, turns out his last three books were bestsellers.",ROLL,BREAD,SUCCESS,4.1271,right,1.7058,right,1.5222,1.0,1.9573,1
+66bcce7233ce3b6b5aaecd5e,16.0,Sense1,"The restaurant at the resort had great food, but no atmosphere",ATMOSPHERE,LIVELY,OXYGEN,2.6974,left,1.451,right,1.1429,1.0,1.9741,1
+66bcce7233ce3b6b5aaecd5e,9.0,Joke,"I don't like people who take drugs, for example: airport security.",TAKE,SNATCH,USE,3.4747,right,1.7087,right,0.9667,1.0,1.6658,0
+66bcce7233ce3b6b5aaecd5e,26.0,Sense1,I got fired from the chocolate factory. All I did was take a day off.,DAY OFF,LEAVE,RIP,3.4204,left,1.5721,right,1.068,1.0,1.9368,1
+66bcce7233ce3b6b5aaecd5e,19.0,Joke,The actor fell through the floorboards: he was going through a stage,STAGE,THEATER,PHASE,3.3527,right,1.2764,left,0.8773,7.0,3.6239,1
+66bcce7233ce3b6b5aaecd5e,17.0,Joke,Secret agents don't sleep because they don't want to give away their covers,COVERS,DUVET,IDENTITY,3.6412,right,1.1795,left,0.8096,7.0,2.1589,1
+66bcce7233ce3b6b5aaecd5e,37.0,Sense2,It's hard for leopards to have plain fur as they're always spotted.,SPOTTED,SEEN,PATTERNED,4.6885,left,1.2389,left,1.0839,7.0,1.8141,0
+66bcce7233ce3b6b5aaecd5e,14.0,Joke,"I heard he was on a roll, turns out he fell asleep at the bakery.",ROLL,BREAD,SUCCESS,3.3865,right,4.9266,left,1.0136,7.0,1.5201,1
+66bcce7233ce3b6b5aaecd5e,22.0,Sense1,The man didn't ask her out. He didn't have the guts,GUTS,COURAGE,ORGANS,3.1964,left,2.0902,right,2.9144,1.0,1.7171,1
+66bcce7233ce3b6b5aaecd5e,25.0,Sense1,She had a bright mind but never developed it.,DEVELOPED,IMPROVE,FILM,2.8545,left,3.9235,left,1.5174,7.0,2.106,0
+66bcce7233ce3b6b5aaecd5e,32.0,Sense2,"Some people believe the earth is flat, but that's just nuts!",NUTS!,SQUIRREL,CRAZY,3.3907,right,2.3169,right,1.1714,1.0,1.8116,1
+66bcce7233ce3b6b5aaecd5e,20.0,Joke,Mac users don't get enough sunlight because they don't have Windows,WINDOWS,COMPUTER,GLASS,3.636,left,10.4196,left,1.6294,7.0,1.8422,1
+66bcce7233ce3b6b5aaecd5e,16.0,Joke,"The restaurant on the moon had great food, but no atmosphere",ATMOSPHERE,LIVELY,OXYGEN,2.4378,left,1.4169,right,1.2475,1.0,1.7004,0
+66bcce7233ce3b6b5aaecd5e,21.0,Sense1,The man on death row was worried. His days were numbered.,NUMBERED,LIMITED,SEQUENCE,3.0924,left,2.1763,left,1.1098,7.0,1.8005,0
+66bcce7233ce3b6b5aaecd5e,33.0,Sense2,"I tried a bigger hammer to fix the painting to the wall, but I couldn't nail it.",NAIL IT,SUCCEED,RUST,4.8474,left,1.9002,left,0.7358,7.0,1.5964,0
+66bcce7233ce3b6b5aaecd5e,13.0,Joke,The bank couldn't keep any secrets because it had too many tellers,TELLERS,GOSSIP,CASHIER,5.0212,left,1.9454,left,0.8691,7.0,1.6867,1
+66bcce7233ce3b6b5aaecd5e,15.0,Joke,"I asked the librarian for books about paranoia. She whispered, ""They're right behind you!""",RIGHT BEHIND YOU,DANGER,LOCATION,4.1518,right,1.4364,left,0.8795,7.0,1.5271,1
+66bcce7233ce3b6b5aaecd5e,31.0,Sense2,"I wanted to buy a car with a gear stick, but I couldn't find a manual",MANUAL,HANDBOOK,TRANSMISSION,3.5185,left,1.538,left,0.9423,7.0,1.3763,0
+66bcce7233ce3b6b5aaecd5e,40.0,Sense2,No need to plug in the toy: its battery is charged,BATTERY,ASSAULT,POWERED,3.4852,right,1.4863,left,0.8682,6.0,1.927,0
+66bcce7233ce3b6b5aaecd5e,30.0,Sense1,"I had no idea who could have done this, and then it hit me.",IT HIT ME,REALISE,STRIKE,3.2696,left,1.2138,right,1.0631,1.0,1.8188,1
+66bcce7233ce3b6b5aaecd5e,11.0,Joke,Cannibals don't eat clowns because they taste funny,FUNNY,WEIRD,LAUGHTER,3.2535,left,1.1347,right,0.9099,1.0,1.631,0
+66bcce7233ce3b6b5aaecd5e,39.0,Sense2,The man had broken his hip in the winter. He had a great fall.,FALL,AUTUMN,SLIP,3.6946,right,1.7296,left,0.7634,6.0,2.2773,0
+66bcce7233ce3b6b5aaecd5e,35.0,Sense2,Communists love economic equality because there are no classes,CLASSES,SCHOOL,STATUS,4.7913,right,5.2369,left,1.2775,6.0,1.6756,0
+66bcce7233ce3b6b5aaecd5e,29.0,Sense1,"I couldn't figure out how to solve the math problem, but then it clicked.",IT CLICKED,INSIGHT,SOUND,3.1947,left,3.1809,right,1.1179,1.0,1.573,1
+66bcce7233ce3b6b5aaecd5e,18.0,Joke,Why was the belt arrested? For holding up a pair of pants,HOLDING UP,FASTEN,ROB,3.6569,left,1.2839,left,1.0134,5.0,1.7935,1
+66bcce7233ce3b6b5aaecd5e,12.0,Joke,"After seeing the salad dressing, the tomato turned red",DRESSING,NAKED,CAESAR,2.097,right,2.2795,left,0.8261,5.0,1.5202,1
+66bcce7233ce3b6b5aaecd5e,23.0,Sense1,Why did your brother go to jail? Because he was framed,FRAMED,TRAPPED,WOODEN,2.2828,left,1.5988,left,1.9723,6.0,2.1799,0
+66bcce7233ce3b6b5aaecd5e,24.0,Sense1,A mortuary can be thought of as a dead center,DEAD CENTER,COFFIN,MIDDLE,3.2693,left,2.5438,right,1.0774,1.0,2.0366,1
+66bcce7233ce3b6b5aaecd5e,34.0,Sense2,"I used to vote for the left, I'm all right now.",ALL RIGHT,OK,DIRECTION,2.3405,left,4.4677,left,1.1083,7.0,1.8692,0
+66bcce7233ce3b6b5aaecd5e,28.0,Sense1,"I used to be into chess, but I lost interest",INTEREST,ENTHUSIASM,EARNINGS,2.4654,left,1.0142,left,1.0969,6.0,2.3422,0
+66bcce7233ce3b6b5aaecd5e,38.0,Sense2,"-Did you grind the nutmeg recently?
+-Well, it was just ground this morning!",GROUND,DIRT,CRUSH,3.8577,right,1.3439,left,0.9616,6.0,1.6936,0
+66bcce7233ce3b6b5aaecd5e,27.0,Sense1,She wasn't expecting me because I came unannounced; she looked surprised.,LOOKED,APPEARED,EXPRESSION,4.082,right,1.3275,right,1.1304,1.0,1.6546,1
+66bcce7233ce3b6b5aaecd5e,36.0,Sense2,How do you make the bride fast? Take away her food.,FAST,QUICK,HUNGRY,3.8202,right,6.1817,left,1.0418,6.0,1.5757,0
+66bcce7233ce3b6b5aaecd5e,23.0,Joke,Why did the painting go to jail? Because it was framed,FRAMED,TRAPPED,WOODEN,2.4216,left,3.919,left,1.5935,6.0,1.7007,1
+66bcce7233ce3b6b5aaecd5e,39.0,Sense1,The University Student was happy in the winter. He had a great fall.,FALL,AUTUMN,SLIP,3.1137,right,2.2038,left,1.0408,6.0,1.8881,0
+66bcce7233ce3b6b5aaecd5e,36.0,Sense1,How do you make the car fast? Take away the brakes.,FAST,QUICK,HUNGRY,3.0627,left,1.3878,left,1.0262,7.0,1.7423,0
+66bcce7233ce3b6b5aaecd5e,24.0,Joke,The graveyard is the dead center of town,DEAD CENTER,COFFIN,MIDDLE,3.5328,right,1.1489,left,1.3616,6.0,1.4854,1
+66bcce7233ce3b6b5aaecd5e,6.0,Sense2,The problem with some people is that they always take things literally.,TAKE,STOLEN,PERSPECTIVE,3.0855,left,1.1683,left,0.9289,5.0,1.7355,0
+66bcce7233ce3b6b5aaecd5e,22.0,Joke,The skeleton didn't ask her out. He didn't have the guts,GUTS,COURAGE,ORGANS,2.2414,left,0.9247,left,2.8143,7.0,2.1032,1
+66bcce7233ce3b6b5aaecd5e,1.0,Sense2,"- Is this safe to eat? 
+- Yes, I had it for breakfast",SAFE,BANK,HARMLESS,3.3028,right,1.0845,right,1.09,1.0,1.7909,1
+66bcce7233ce3b6b5aaecd5e,8.0,Sense2,"The foreman told him to go to the mine. He said: ""that's what you pay me for""",MINE,BELONG,QUARRY,5.8758,left,1.1099,right,0.9215,1.0,2.1519,1
+66bcce7233ce3b6b5aaecd5e,30.0,Joke,"I wondered why the car was getting bigger, and then it hit me.",IT HIT ME,REALISE,STRIKE,3.5576,left,1.3395,right,0.919,1.0,1.7979,0
+66bcce7233ce3b6b5aaecd5e,26.0,Joke,I got fired from the calendar factory. All I did was take a day off.,DAY OFF,LEAVE,RIP,3.6155,left,1.535,left,0.9098,6.0,1.6076,1
+66bcce7233ce3b6b5aaecd5e,2.0,Sense2,The key to a happy life is to stay positive,POSITIVE,STEROIDS,ATTITUDE,2.4096,right,2.57,right,1.0943,1.0,1.9856,1
+66bcce7233ce3b6b5aaecd5e,9.0,Sense2,"I don't like people who take my stuff, for example: airport security.",TAKE,SNATCH,USE,3.0289,left,1.6798,right,0.9478,1.0,1.6545,1
+66bcce7233ce3b6b5aaecd5e,38.0,Sense1,"-There is only sea here 
+-Well, it was just ground this morning!",GROUND,DIRT,CRUSH,5.3103,left,1.612,right,0.7149,1.0,1.7171,1
+66bcce7233ce3b6b5aaecd5e,35.0,Sense1,The teacher loved the summer because there were no classes,CLASSES,SCHOOL,STATUS,3.5654,left,0.9374,left,0.8976,5.0,1.7446,0
+66bcce7233ce3b6b5aaecd5e,7.0,Sense2,The teacher was fired because she could not control her pupils,PUPILS,STUDENTS,EYES,2.9584,left,1.3475,right,1.8374,1.0,1.6311,1
+66bcce7233ce3b6b5aaecd5e,40.0,Sense1,Local man arrested: charged with battery,BATTERY,ASSAULT,POWERED,2.6358,left,0.8823,left,0.8053,7.0,2.0387,0
+66bcce7233ce3b6b5aaecd5e,25.0,Joke,She had a photographic memory but never developed it.,DEVELOPED,IMPROVE,FILM,3.2939,left,0.8635,left,0.7568,7.0,1.404,1
+66bcce7233ce3b6b5aaecd5e,21.0,Joke,The calendar was worried. Its days were numbered.,NUMBERED,LIMITED,SEQUENCE,2.6923,left,1.104,left,0.6527,7.0,1.5644,1
+66bcce7233ce3b6b5aaecd5e,10.0,Sense2,"-Order in the court! 
+-I apologise, I will be silent, your Honour. ",ORDER,ASK,JUDGE,2.5736,left,2.6753,left,1.9097,6.0,2.0201,0
+66bcce7233ce3b6b5aaecd5e,34.0,Sense1,"I was sick for a long time, I'm all right now.",ALL RIGHT,OK,DIRECTION,2.7568,left,1.2026,left,0.7432,6.0,1.5523,0
+66bcce7233ce3b6b5aaecd5e,29.0,Joke,"I couldn't figure out how to use the seatbelt, but then it clicked.",IT CLICKED,INSIGHT,SOUND,3.2288,right,1.4042,left,0.7393,7.0,1.4881,1
+66bcce7233ce3b6b5aaecd5e,37.0,Sense1,It's hard for people with neon clothes to hide as they're always spotted.,SPOTTED,SEEN,PATTERNED,3.2015,left,0.8486,left,0.8015,7.0,1.3745,0
+66bcce7233ce3b6b5aaecd5e,4.0,Sense2,"The oven was ready for the pizza, it was wood fired",FIRED,BURN,UNEMPLOYED,2.62,left,1.127,left,1.2721,1.0,2.7242,0
+66bcce7233ce3b6b5aaecd5e,31.0,Sense1,"I wanted to learn how to operate the new machine, but I couldn't find a manual",MANUAL,HANDBOOK,TRANSMISSION,3.0582,left,0.9934,left,2.3537,1.0,2.6428,0
+66bcce7233ce3b6b5aaecd5e,27.0,Joke,I told her that she was drawing her eyebrows too high; she looked surprised,LOOKED,APPEARED,EXPRESSION,4.2586,right,1.2051,left,1.052,7.0,3.6312,1
+66bcce7233ce3b6b5aaecd5e,28.0,Joke,"I used to be a banker, but I lost interest",INTEREST,ENTHUSIASM,EARNINGS,2.9724,left,1.4632,left,1.6873,7.0,2.0644,1
+66bcce7233ce3b6b5aaecd5e,3.0,Sense2,Two cellphones were tested. The reception was fantastic,RECEPTION,SIGNAL,PARTY,3.0101,left,2.7147,left,0.9307,6.0,1.37,0
+66bcce7233ce3b6b5aaecd5e,33.0,Sense1,I tried to sing a very difficult song but I couldn't nail it.,NAIL IT,SUCCEED,RUST,2.8305,left,1.0419,left,1.9922,2.0,3.5531,0
+66bcce7233ce3b6b5aaecd5e,5.0,Sense2,Two soldiers in a tank. One says: How do you drive this thing?,TANK,WAR,WATER,3.6131,left,1.8222,left,0.7687,7.0,1.9116,0
+66bcce7233ce3b6b5aaecd5e,32.0,Sense1,"I thought I'd have cashews and almonds in my balanced meal, but that's just nuts",NUTS!,SQUIRREL,CRAZY,3.9251,right,0.931,left,0.9788,7.0,1.3352,0
+66bcce7233ce3b6b5aaecd5e,31.0,Joke,"I wanted to learn to use the gear stick, but I couldn't find a manual",MANUAL,HANDBOOK,TRANSMISSION,3.3955,left,0.7701,left,0.7959,7.0,1.4644,1
+66bcce7233ce3b6b5aaecd5e,9.0,Sense1,"I don't like people who take drugs, for example: cocaine addicts",TAKE,SNATCH,USE,2.716,right,1.3377,left,0.7533,5.0,1.4438,0
+66bcce7233ce3b6b5aaecd5e,12.0,Sense2,"After seeing the woman dressing, the man turned red",DRESSING,NAKED,CAESAR,3.0365,left,3.3973,left,0.9308,5.0,1.4181,0
+66bcce7233ce3b6b5aaecd5e,2.0,Sense1,Sometimes in sports anti-doping tests are positive,POSITIVE,STEROIDS,ATTITUDE,2.7804,left,1.4234,right,0.958,1.0,1.5061,1
+66bcce7233ce3b6b5aaecd5e,36.0,Joke,How do you make the turtle fast? Take away its food.,FAST,QUICK,HUNGRY,2.6681,left,3.819,left,0.989,2.0,2.166,1
+66bcce7233ce3b6b5aaecd5e,14.0,Sense2,"I heard he wanted a roll for lunch, I went to the bakery",ROLL,BREAD,SUCCESS,2.8995,left,1.2494,right,2.3965,1.0,1.7702,1
+66bcce7233ce3b6b5aaecd5e,18.0,Sense2,Why was the convict arrested? For holding up a bank,HOLDING UP,FASTEN,ROB,2.7963,right,0.9831,left,1.6594,1.0,1.9785,0
+66bcce7233ce3b6b5aaecd5e,10.0,Sense1,"-Order in the cafeteria 
+-Ham and cheese on rye, please. ",ORDER,ASK,JUDGE,2.765,left,1.1716,left,1.1946,2.0,1.9735,0
+66bcce7233ce3b6b5aaecd5e,15.0,Sense2,"I asked the librarian for books about cooking. She whispered, ""They're right behind you!""",RIGHT BEHIND YOU,DANGER,LOCATION,6.2132,right,1.065,right,2.4332,1.0,1.6866,1
+66bcce7233ce3b6b5aaecd5e,17.0,Sense2,Secret agents don't date because they don't want to give away their covers,COVERS,DUVET,IDENTITY,3.1188,right,0.9198,left,0.8212,2.0,1.7146,0
+66bcce7233ce3b6b5aaecd5e,34.0,Joke,"I lost my left hand in an accident, I'm all right now.",ALL RIGHT,OK,DIRECTION,2.7225,left,1.1947,left,0.8966,1.0,2.3256,1
+66bcce7233ce3b6b5aaecd5e,33.0,Joke,I tried to be a carpenter but I couldn't nail it.,NAIL IT,SUCCEED,RUST,2.8088,left,0.9725,left,0.8431,5.0,3.0826,1
+66bcce7233ce3b6b5aaecd5e,1.0,Sense1,"- Is this safe locked? 
+- No, I left it open on purpose",SAFE,BANK,HARMLESS,3.1936,left,1.2558,left,0.8133,6.0,1.6106,0
+66bcce7233ce3b6b5aaecd5e,39.0,Joke,Humpty Dumpty was happy in the winter. He had a great fall.,FALL,AUTUMN,SLIP,2.6572,right,1.6243,left,1.2887,7.0,2.1311,1
+66bcce7233ce3b6b5aaecd5e,40.0,Joke,Energizer bunny arrested: charged with battery,BATTERY,ASSAULT,POWERED,2.652,left,1.0415,left,1.0553,5.0,1.7077,1
+66bcce7233ce3b6b5aaecd5e,19.0,Sense2,The actor ran from left to right: he was going across the stage,STAGE,THEATER,PHASE,2.6114,left,1.189,right,1.835,1.0,1.5197,1
+66bcce7233ce3b6b5aaecd5e,5.0,Sense1,Two fish in a tank. One says: When do you think we'll get fed?,TANK,WAR,WATER,3.4493,right,1.0674,left,1.5361,1.0,1.6381,0
+66bcce7233ce3b6b5aaecd5e,32.0,Joke,"I thought about going on an all-almond diet, but that's just nuts!",NUTS!,SQUIRREL,CRAZY,3.0224,right,1.1703,left,0.8216,1.0,1.5828,1
+66bcce7233ce3b6b5aaecd5e,11.0,Sense2,The circus hires clowns because they are funny,FUNNY,WEIRD,LAUGHTER,2.4622,right,3.63,left,2.0182,1.0,1.5568,0
+66bcce7233ce3b6b5aaecd5e,3.0,Sense1,Two friends got married. The reception was fantastic,RECEPTION,SIGNAL,PARTY,1.8058,right,0.9963,left,1.4474,1.0,1.4855,0
+66bcce7233ce3b6b5aaecd5e,38.0,Joke,"-This coffee tastes like mud 
+-Well, it was just ground this morning!",GROUND,DIRT,CRUSH,4.4358,right,1.0612,left,1.1701,1.0,1.6937,1
+66bcce7233ce3b6b5aaecd5e,35.0,Joke,The communist loved the summer because there were no classes,CLASSES,SCHOOL,STATUS,2.9655,left,1.6668,left,0.9331,1.0,1.9506,1
+66bcce7233ce3b6b5aaecd5e,16.0,Sense2,You can't breathe on the moon because there's no atmosphere,ATMOSPHERE,LIVELY,OXYGEN,2.5543,right,1.346,right,1.6988,1.0,1.7374,1
+66bcce7233ce3b6b5aaecd5e,4.0,Sense1,"The lawyer was not great at her job, she got fired",FIRED,BURN,UNEMPLOYED,2.4377,right,2.6601,left,1.7015,1.0,1.7055,0
+66bcce7233ce3b6b5aaecd5e,7.0,Sense1,The woman was cross-eyed because she could not control her pupils,PUPILS,STUDENTS,EYES,2.5356,left,1.1281,left,1.5021,1.0,1.7518,0
+66bcce7233ce3b6b5aaecd5e,13.0,Sense2,The bank had to fire a few employees because it had too many tellers,TELLERS,GOSSIP,CASHIER,4.2663,left,7.4047,left,0.8472,7.0,3.184,0
+66bcce7233ce3b6b5aaecd5e,37.0,Joke,It's hard for leopards to hide as they're always spotted.,SPOTTED,SEEN,PATTERNED,2.4687,left,1.2409,left,0.7786,6.0,1.7241,1
+66bcce7233ce3b6b5aaecd5e,20.0,Sense2,Mac users get fewer viruses because they don't have Windows,WINDOWS,COMPUTER,GLASS,2.9714,right,4.4588,left,0.8937,5.0,1.7376,0
+66bcce7233ce3b6b5aaecd5e,8.0,Sense1,I told her I was going to make her mine. She loved the idea of marrying me,MINE,BELONG,QUARRY,3.458,left,1.0427,right,0.946,1.0,1.8534,1
+66bcce7233ce3b6b5aaecd5e,6.0,Sense1,The problem with thieves is that they always take other people's things,TAKE,STOLEN,PERSPECTIVE,3.2572,left,1.218,right,0.9559,1.0,1.7518,1
+60e845f301f5a5901200baf4,2.0,Joke,The key to excel in sports is to stay positive,POSITIVE,STEROIDS,ATTITUDE,5.3241,right,2.3934,right,2.4401,1.0,3.9647,0
+60e845f301f5a5901200baf4,1.0,Joke,"- Is this safe to eat?
+- No, it's for storing valuable objects",SAFE,BANK,HARMLESS,11.1744,left,5.8548,left,2.6896,6.0,4.0485,1
+60e845f301f5a5901200baf4,15.0,Sense1,"I asked the chief about the spies. She whispered, ""They're right behind you!""",RIGHT BEHIND YOU,DANGER,LOCATION,10.1241,right,3.4294,left,4.2051,2.0,2.3988,0
+60e845f301f5a5901200baf4,10.0,Joke,"-Order in the court!
+-Ham and cheese on rye, your Honour.",ORDER,ASK,JUDGE,4.7107,left,5.595,left,2.7928,5.0,3.0644,1
+60e845f301f5a5901200baf4,22.0,Sense2,Jellyfish can't digest food internally. They don't have guts,GUTS,COURAGE,ORGANS,7.5235,right,5.5936,left,8.4282,2.0,2.6659,0
+60e845f301f5a5901200baf4,20.0,Sense1,Prisoners don't get enough light because they don't have windows,WINDOWS,COMPUTER,GLASS,6.1964,right,3.1654,right,1.2899,1.0,2.0657,1
+60e845f301f5a5901200baf4,24.0,Sense2,The square is the dead center of town,DEAD CENTER,COFFIN,MIDDLE,13.4077,right,2.3279,left,1.4553,2.0,4.7312,0
+60e845f301f5a5901200baf4,7.0,Joke,The teacher's eyes were crossed because she could not control her pupils,PUPILS,STUDENTS,EYES,4.1408,left,2.6637,left,5.0771,5.0,2.7313,1
+60e845f301f5a5901200baf4,4.0,Joke,"Joan d'Arc was not great at her job, she got fired",FIRED,BURN,UNEMPLOYED,3.7776,right,3.9326,left,1.1933,6.0,2.1829,1
+60e845f301f5a5901200baf4,21.0,Sense2,The calendar was useful. Its pages were numbered.,NUMBERED,LIMITED,SEQUENCE,6.7579,right,3.7473,right,1.9787,1.0,20.9655,1
+60e845f301f5a5901200baf4,6.0,Joke,The problem with kleptomaniacs is that they always take things literally.,TAKE,STOLEN,PERSPECTIVE,5.2075,left,3.2277,left,1.7749,6.0,2.6811,1
+60e845f301f5a5901200baf4,28.0,Sense2,"I used to make money off my savings, but I lost the interest",INTEREST,ENTHUSIASM,EARNINGS,6.9013,right,1.7623,left,1.111,3.0,5.5984,0
+60e845f301f5a5901200baf4,13.0,Sense1,The receptionist considered himself a teller of hard truths,TELLERS,GOSSIP,CASHIER,7.9747,right,3.9464,right,3.9932,1.0,2.5484,1
+60e845f301f5a5901200baf4,5.0,Joke,Two fish in a tank. One says: How do you drive this thing?,TANK,WAR,WATER,4.1845,left,4.5787,left,3.5099,6.0,2.9159,1
+60e845f301f5a5901200baf4,11.0,Sense1,Cannibals don't eat rotten eggs because they taste funny,FUNNY,WEIRD,LAUGHTER,25.3088,left,3.2418,left,1.9386,2.0,2.7987,0
+60e845f301f5a5901200baf4,17.0,Sense1,Sleepy people don't want to give up their bed covers,COVERS,DUVET,IDENTITY,2.6313,left,4.7443,left,4.0725,1.0,2.1485,0
+60e845f301f5a5901200baf4,29.0,Sense2,"I thought pressing the camera button was doing nothing, but then it clicked.",IT CLICKED,INSIGHT,SOUND,5.8119,right,3.4221,left,2.3423,2.0,2.1816,0
+60e845f301f5a5901200baf4,26.0,Sense2,I did not destroy the calendar. All I did was rip a day off.,DAY OFF,LEAVE,RIP,5.2533,left,4.6278,right,2.7531,1.0,3.3308,1
+60e845f301f5a5901200baf4,18.0,Sense1,Why was the belt created? For holding up a pair of pants,HOLDING UP,FASTEN,ROB,8.3787,left,3.7106,right,1.8743,1.0,1.8825,1
+60e845f301f5a5901200baf4,3.0,Joke,Two cellphones got married. The reception was fantastic,RECEPTION,SIGNAL,PARTY,3.1778,right,3.3447,left,1.459,6.0,3.1651,1
+60e845f301f5a5901200baf4,8.0,Joke,I told her I was going to make her mine. She has extracted two rubies so far,MINE,BELONG,QUARRY,8.6428,right,1.3612,left,3.0929,6.0,2.8303,1
+60e845f301f5a5901200baf4,27.0,Sense2,I told her that she was drawing her eyebrows too high; she looked angry,LOOKED,APPEARED,EXPRESSION,6.7557,right,3.0453,left,2.39,2.0,2.3646,0
+60e845f301f5a5901200baf4,25.0,Sense2,She had a photographic negative but never developed it.,DEVELOPED,IMPROVE,FILM,2.1944,right,2.8151,right,3.1869,1.0,2.7154,1
+60e845f301f5a5901200baf4,19.0,Sense1,The toddler would only eat pasta: he was going through a stage,STAGE,THEATER,PHASE,11.0229,right,7.0314,right,1.2903,1.0,3.2505,1
+60e845f301f5a5901200baf4,12.0,Sense1,"After seeing the salad dressing, the chef was satisfied",DRESSING,NAKED,CAESAR,5.8955,left,7.0629,right,2.5602,1.0,3.1317,1
+60e845f301f5a5901200baf4,23.0,Sense2,Why did the painting cost extra? Because it was framed,FRAMED,TRAPPED,WOODEN,7.8102,right,4.4293,right,1.7394,1.0,2.8149,1
+60e845f301f5a5901200baf4,30.0,Sense2,"I saw the car didn't stop at the red light, and then it hit me.",IT HIT ME,REALISE,STRIKE,7.8902,right,2.548,right,9.028,1.0,1.4982,1
+60e845f301f5a5901200baf4,14.0,Sense1,"I heard he was on a roll, turns out his last three books were bestsellers.",ROLL,BREAD,SUCCESS,8.1053,left,2.2128,right,1.2649,1.0,2.1828,1
+60e845f301f5a5901200baf4,16.0,Sense1,"The restaurant at the resort had great food, but no atmosphere",ATMOSPHERE,LIVELY,OXYGEN,6.1408,left,3.7452,right,2.1746,1.0,1.0156,1
+60e845f301f5a5901200baf4,9.0,Joke,"I don't like people who take drugs, for example: airport security.",TAKE,SNATCH,USE,5.8748,right,4.151,left,1.3777,7.0,4.5496,1
+60e845f301f5a5901200baf4,26.0,Sense1,I got fired from the chocolate factory. All I did was take a day off.,DAY OFF,LEAVE,RIP,6.8077,left,2.5835,right,1.7105,1.0,2.3987,1
+60e845f301f5a5901200baf4,19.0,Joke,The actor fell through the floorboards: he was going through a stage,STAGE,THEATER,PHASE,7.8782,right,3.495,left,1.3559,2.0,1.9649,1
+60e845f301f5a5901200baf4,17.0,Joke,Secret agents don't sleep because they don't want to give away their covers,COVERS,DUVET,IDENTITY,9.8563,right,1.4789,left,1.8738,5.0,2.5816,1
+60e845f301f5a5901200baf4,37.0,Sense2,It's hard for leopards to have plain fur as they're always spotted.,SPOTTED,SEEN,PATTERNED,7.2464,right,1.5952,left,1.4405,2.0,1.8986,0
+60e845f301f5a5901200baf4,14.0,Joke,"I heard he was on a roll, turns out he fell asleep at the bakery.",ROLL,BREAD,SUCCESS,7.8915,left,1.0113,left,1.3063,3.0,1.9806,1
+60e845f301f5a5901200baf4,22.0,Sense1,The man didn't ask her out. He didn't have the guts,GUTS,COURAGE,ORGANS,2.975,left,0.8503,right,5.1777,1.0,1.7973,1
+60e845f301f5a5901200baf4,25.0,Sense1,She had a bright mind but never developed it.,DEVELOPED,IMPROVE,FILM,3.5944,left,3.9609,left,2.6975,1.0,2.3489,0
+60e845f301f5a5901200baf4,32.0,Sense2,"Some people believe the earth is flat, but that's just nuts!",NUTS!,SQUIRREL,CRAZY,7.5243,right,1.2259,right,4.5866,1.0,2.9478,1
+60e845f301f5a5901200baf4,20.0,Joke,Mac users don't get enough sunlight because they don't have Windows,WINDOWS,COMPUTER,GLASS,3.5412,left,1.2228,left,2.3398,4.0,4.0644,1
+60e845f301f5a5901200baf4,16.0,Joke,"The restaurant on the moon had great food, but no atmosphere",ATMOSPHERE,LIVELY,OXYGEN,2.6912,right,2.6634,left,2.2745,5.0,1.5147,1
+60e845f301f5a5901200baf4,21.0,Sense1,The man on death row was worried. His days were numbered.,NUMBERED,LIMITED,SEQUENCE,6.408,left,1.2718,right,1.396,1.0,1.8661,1
+60e845f301f5a5901200baf4,33.0,Sense2,"I tried a bigger hammer to fix the painting to the wall, but I couldn't nail it.",NAIL IT,SUCCEED,RUST,4.1587,left,1.2335,left,1.6859,3.0,1.6984,0
+60e845f301f5a5901200baf4,13.0,Joke,The bank couldn't keep any secrets because it had too many tellers,TELLERS,GOSSIP,CASHIER,5.0504,left,2.1977,left,2.1864,6.0,2.0317,1
+60e845f301f5a5901200baf4,15.0,Joke,"I asked the librarian for books about paranoia. She whispered, ""They're right behind you!""",RIGHT BEHIND YOU,DANGER,LOCATION,7.6082,right,2.6956,left,1.0937,6.0,1.8648,1
+60e845f301f5a5901200baf4,31.0,Sense2,"I wanted to buy a car with a gear stick, but I couldn't find a manual",MANUAL,HANDBOOK,TRANSMISSION,5.4069,right,1.5952,left,2.7241,6.0,1.848,0
+60e845f301f5a5901200baf4,40.0,Sense2,No need to plug in the toy: its battery is charged,BATTERY,ASSAULT,POWERED,4.3117,right,1.2068,right,1.9781,1.0,3.0482,1
+60e845f301f5a5901200baf4,30.0,Sense1,"I had no idea who could have done this, and then it hit me.",IT HIT ME,REALISE,STRIKE,4.6426,left,1.611,right,1.2575,1.0,1.2823,1
+60e845f301f5a5901200baf4,11.0,Joke,Cannibals don't eat clowns because they taste funny,FUNNY,WEIRD,LAUGHTER,6.3779,right,2.3452,left,1.341,6.0,2.4655,1
+60e845f301f5a5901200baf4,39.0,Sense2,The man had broken his hip in the winter. He had a great fall.,FALL,AUTUMN,SLIP,9.5582,left,1.2787,left,1.3814,6.0,2.2998,0
+60e845f301f5a5901200baf4,35.0,Sense2,Communists love economic equality because there are no classes,CLASSES,SCHOOL,STATUS,6.4757,right,2.0133,left,1.7286,5.0,1.2481,0
+60e845f301f5a5901200baf4,29.0,Sense1,"I couldn't figure out how to solve the math problem, but then it clicked.",IT CLICKED,INSIGHT,SOUND,6.0907,left,1.3622,right,0.9604,1.0,1.9154,1
+60e845f301f5a5901200baf4,18.0,Joke,Why was the belt arrested? For holding up a pair of pants,HOLDING UP,FASTEN,ROB,4.1579,right,1.7477,left,1.1939,5.0,1.8818,1
+60e845f301f5a5901200baf4,12.0,Joke,"After seeing the salad dressing, the tomato turned red",DRESSING,NAKED,CAESAR,5.9414,left,3.5162,left,2.1623,3.0,1.949,1
+60e845f301f5a5901200baf4,23.0,Sense1,Why did your brother go to jail? Because he was framed,FRAMED,TRAPPED,WOODEN,4.7277,left,4.3327,right,1.4805,1.0,2.2832,1
+60e845f301f5a5901200baf4,24.0,Sense1,A mortuary can be thought of as a dead center,DEAD CENTER,COFFIN,MIDDLE,6.925,right,0.9288,right,1.1584,1.0,1.6823,1
+60e845f301f5a5901200baf4,34.0,Sense2,"I used to vote for the left, I'm all right now.",ALL RIGHT,OK,DIRECTION,3.4442,left,1.0952,left,3.008,3.0,2.0658,0
+60e845f301f5a5901200baf4,28.0,Sense1,"I used to be into chess, but I lost interest",INTEREST,ENTHUSIASM,EARNINGS,5.8741,left,1.3504,right,1.962,1.0,3.1492,1
+60e845f301f5a5901200baf4,38.0,Sense2,"-Did you grind the nutmeg recently?
+-Well, it was just ground this morning!",GROUND,DIRT,CRUSH,7.8448,left,1.6116,right,1.3427,1.0,2.5832,1
+60e845f301f5a5901200baf4,27.0,Sense1,She wasn't expecting me because I came unannounced; she looked surprised.,LOOKED,APPEARED,EXPRESSION,5.8745,left,1.4076,right,0.9915,1.0,1.0834,1
+60e845f301f5a5901200baf4,36.0,Sense2,How do you make the bride fast? Take away her food.,FAST,QUICK,HUNGRY,11.5245,left,3.0118,right,1.1578,1.0,1.4986,1
+60e845f301f5a5901200baf4,23.0,Joke,Why did the painting go to jail? Because it was framed,FRAMED,TRAPPED,WOODEN,3.9864,left,1.1963,left,2.7283,3.0,2.1638,1
+60e845f301f5a5901200baf4,39.0,Sense1,The University Student was happy in the winter. He had a great fall.,FALL,AUTUMN,SLIP,9.169,left,0.646,left,0.8094,3.0,1.6816,0
+60e845f301f5a5901200baf4,36.0,Sense1,How do you make the car fast? Take away the brakes.,FAST,QUICK,HUNGRY,4.129,left,1.1116,left,1.7758,5.0,2.2321,0
+60e845f301f5a5901200baf4,24.0,Joke,The graveyard is the dead center of town,DEAD CENTER,COFFIN,MIDDLE,3.1596,right,2.1444,left,1.1093,5.0,1.7146,1
+60e845f301f5a5901200baf4,6.0,Sense2,The problem with some people is that they always take things literally.,TAKE,STOLEN,PERSPECTIVE,4.8074,right,1.6457,right,2.2063,1.0,1.6653,1
+60e845f301f5a5901200baf4,22.0,Joke,The skeleton didn't ask her out. He didn't have the guts,GUTS,COURAGE,ORGANS,4.2896,left,1.2632,left,1.4605,4.0,2.1991,1
+60e845f301f5a5901200baf4,1.0,Sense2,"- Is this safe to eat? 
+- Yes, I had it for breakfast",SAFE,BANK,HARMLESS,2.0578,right,0.8958,right,1.8101,1.0,2.2652,1
+60e845f301f5a5901200baf4,8.0,Sense2,"The foreman told him to go to the mine. He said: ""that's what you pay me for""",MINE,BELONG,QUARRY,4.0767,right,1.2451,right,2.8212,1.0,2.1987,1
+60e845f301f5a5901200baf4,30.0,Joke,"I wondered why the car was getting bigger, and then it hit me.",IT HIT ME,REALISE,STRIKE,3.574,left,3.3322,left,1.8132,2.0,2.0988,1
+60e845f301f5a5901200baf4,26.0,Joke,I got fired from the calendar factory. All I did was take a day off.,DAY OFF,LEAVE,RIP,7.4755,left,1.6147,left,1.6961,3.0,1.8151,1
+60e845f301f5a5901200baf4,2.0,Sense2,The key to a happy life is to stay positive,POSITIVE,STEROIDS,ATTITUDE,2.5573,right,1.3983,right,2.0133,1.0,1.9822,1
+60e845f301f5a5901200baf4,9.0,Sense2,"I don't like people who take my stuff, for example: airport security.",TAKE,SNATCH,USE,5.6269,left,2.7004,right,1.399,1.0,1.9148,1
+60e845f301f5a5901200baf4,38.0,Sense1,"-There is only sea here 
+-Well, it was just ground this morning!",GROUND,DIRT,CRUSH,16.0592,left,3.516,right,1.742,1.0,2.2478,1
+60e845f301f5a5901200baf4,35.0,Sense1,The teacher loved the summer because there were no classes,CLASSES,SCHOOL,STATUS,4.264,left,1.145,right,1.0584,1.0,1.8166,1
+60e845f301f5a5901200baf4,7.0,Sense2,The teacher was fired because she could not control her pupils,PUPILS,STUDENTS,EYES,3.2791,left,1.1826,right,2.6446,1.0,1.3307,1
+60e845f301f5a5901200baf4,40.0,Sense1,Local man arrested: charged with battery,BATTERY,ASSAULT,POWERED,2.4243,left,1.2775,right,1.2069,1.0,1.0327,1
+60e845f301f5a5901200baf4,25.0,Joke,She had a photographic memory but never developed it.,DEVELOPED,IMPROVE,FILM,4.8951,right,2.417,left,1.5789,4.0,1.3151,1
+60e845f301f5a5901200baf4,21.0,Joke,The calendar was worried. Its days were numbered.,NUMBERED,LIMITED,SEQUENCE,5.1786,right,2.0781,left,1.5088,3.0,1.5974,1
+60e845f301f5a5901200baf4,10.0,Sense2,"-Order in the court! 
+-I apologise, I will be silent, your Honour. ",ORDER,ASK,JUDGE,2.0743,right,2.9791,right,1.793,1.0,2.4148,1
+60e845f301f5a5901200baf4,34.0,Sense1,"I was sick for a long time, I'm all right now.",ALL RIGHT,OK,DIRECTION,2.6922,left,0.9297,right,1.6562,1.0,0.7662,1
+60e845f301f5a5901200baf4,29.0,Joke,"I couldn't figure out how to use the seatbelt, but then it clicked.",IT CLICKED,INSIGHT,SOUND,2.9116,right,3.0276,left,1.3916,5.0,2.0803,1
+60e845f301f5a5901200baf4,37.0,Sense1,It's hard for people with neon clothes to hide as they're always spotted.,SPOTTED,SEEN,PATTERNED,4.8148,left,2.2619,right,1.3415,1.0,3.1805,1
+60e845f301f5a5901200baf4,4.0,Sense2,"The oven was ready for the pizza, it was wood fired",FIRED,BURN,UNEMPLOYED,2.8408,left,0.9457,right,1.564,1.0,1.1309,1
+60e845f301f5a5901200baf4,31.0,Sense1,"I wanted to learn how to operate the new machine, but I couldn't find a manual",MANUAL,HANDBOOK,TRANSMISSION,3.9446,left,0.9639,right,1.061,1.0,1.1155,1
+60e845f301f5a5901200baf4,27.0,Joke,I told her that she was drawing her eyebrows too high; she looked surprised,LOOKED,APPEARED,EXPRESSION,11.7912,right,4.0633,left,1.173,6.0,2.0157,1
+60e845f301f5a5901200baf4,28.0,Joke,"I used to be a banker, but I lost interest",INTEREST,ENTHUSIASM,EARNINGS,2.8581,right,0.7788,left,1.509,5.0,1.4816,1
+60e845f301f5a5901200baf4,3.0,Sense2,Two cellphones were tested. The reception was fantastic,RECEPTION,SIGNAL,PARTY,2.824,left,1.1119,right,1.773,1.0,4.2982,1
+60e845f301f5a5901200baf4,33.0,Sense1,I tried to sing a very difficult song but I couldn't nail it.,NAIL IT,SUCCEED,RUST,3.1414,left,1.0628,right,1.6949,1.0,1.2492,1
+60e845f301f5a5901200baf4,5.0,Sense2,Two soldiers in a tank. One says: How do you drive this thing?,TANK,WAR,WATER,2.1954,left,1.1455,right,1.4077,1.0,1.065,1
+60e845f301f5a5901200baf4,32.0,Sense1,"I thought I'd have cashews and almonds in my balanced meal, but that's just nuts",NUTS!,SQUIRREL,CRAZY,7.9918,right,2.8279,left,1.1896,2.0,1.8475,0
+60e845f301f5a5901200baf4,31.0,Joke,"I wanted to learn to use the gear stick, but I couldn't find a manual",MANUAL,HANDBOOK,TRANSMISSION,5.0912,left,1.0753,right,1.241,1.0,2.9488,0
+60e845f301f5a5901200baf4,9.0,Sense1,"I don't like people who take drugs, for example: cocaine addicts",TAKE,SNATCH,USE,3.4246,right,0.5451,right,1.0244,1.0,1.1468,1
+60e845f301f5a5901200baf4,12.0,Sense2,"After seeing the woman dressing, the man turned red",DRESSING,NAKED,CAESAR,3.1242,left,1.1835,right,2.7521,1.0,1.0835,1
+60e845f301f5a5901200baf4,2.0,Sense1,Sometimes in sports anti-doping tests are positive,POSITIVE,STEROIDS,ATTITUDE,2.2946,right,2.5119,right,2.3904,1.0,1.6991,1
+60e845f301f5a5901200baf4,36.0,Joke,How do you make the turtle fast? Take away its food.,FAST,QUICK,HUNGRY,6.46,right,3.2623,left,1.4405,2.0,1.5831,1
+60e845f301f5a5901200baf4,14.0,Sense2,"I heard he wanted a roll for lunch, I went to the bakery",ROLL,BREAD,SUCCESS,2.5104,left,0.6627,right,1.8155,1.0,2.1822,1
+60e845f301f5a5901200baf4,18.0,Sense2,Why was the convict arrested? For holding up a bank,HOLDING UP,FASTEN,ROB,2.5921,right,0.9776,right,1.6573,1.0,1.1159,1
+60e845f301f5a5901200baf4,10.0,Sense1,"-Order in the cafeteria 
+-Ham and cheese on rye, please. ",ORDER,ASK,JUDGE,2.8416,left,1.0793,right,1.529,1.0,1.3824,1
+60e845f301f5a5901200baf4,15.0,Sense2,"I asked the librarian for books about cooking. She whispered, ""They're right behind you!""",RIGHT BEHIND YOU,DANGER,LOCATION,2.4059,right,1.4281,right,3.1733,1.0,0.9815,1
+60e845f301f5a5901200baf4,17.0,Sense2,Secret agents don't date because they don't want to give away their covers,COVERS,DUVET,IDENTITY,3.2084,right,1.1503,right,1.2941,1.0,1.1668,1
+60e845f301f5a5901200baf4,34.0,Joke,"I lost my left hand in an accident, I'm all right now.",ALL RIGHT,OK,DIRECTION,3.4942,right,1.1432,left,1.2995,6.0,2.6155,1
+60e845f301f5a5901200baf4,33.0,Joke,I tried to be a carpenter but I couldn't nail it.,NAIL IT,SUCCEED,RUST,2.0475,left,0.9776,left,0.8117,4.0,1.532,1
+60e845f301f5a5901200baf4,1.0,Sense1,"- Is this safe locked? 
+- No, I left it open on purpose",SAFE,BANK,HARMLESS,2.0278,left,2.546,right,2.1309,1.0,3.2825,1
+60e845f301f5a5901200baf4,39.0,Joke,Humpty Dumpty was happy in the winter. He had a great fall.,FALL,AUTUMN,SLIP,4.5773,right,1.7787,left,1.1284,4.0,1.0811,1
+60e845f301f5a5901200baf4,40.0,Joke,Energizer bunny arrested: charged with battery,BATTERY,ASSAULT,POWERED,5.7607,right,0.895,left,1.2616,5.0,2.0486,1
+60e845f301f5a5901200baf4,19.0,Sense2,The actor ran from left to right: he was going across the stage,STAGE,THEATER,PHASE,2.9071,left,2.0122,right,1.2763,1.0,2.2324,1
+60e845f301f5a5901200baf4,5.0,Sense1,Two fish in a tank. One says: When do you think we'll get fed?,TANK,WAR,WATER,2.5733,right,0.5803,right,1.9577,1.0,0.9312,1
+60e845f301f5a5901200baf4,32.0,Joke,"I thought about going on an all-almond diet, but that's just nuts!",NUTS!,SQUIRREL,CRAZY,5.7417,right,1.0788,left,0.8425,2.0,1.6826,1
+60e845f301f5a5901200baf4,11.0,Sense2,The circus hires clowns because they are funny,FUNNY,WEIRD,LAUGHTER,2.1741,right,0.5331,right,2.0112,1.0,1.4491,1
+60e845f301f5a5901200baf4,3.0,Sense1,Two friends got married. The reception was fantastic,RECEPTION,SIGNAL,PARTY,1.5778,right,0.4115,right,3.3067,1.0,1.2483,1
+60e845f301f5a5901200baf4,38.0,Joke,"-This coffee tastes like mud 
+-Well, it was just ground this morning!",GROUND,DIRT,CRUSH,4.8697,left,0.5954,left,0.8949,5.0,2.1487,1
+60e845f301f5a5901200baf4,35.0,Joke,The communist loved the summer because there were no classes,CLASSES,SCHOOL,STATUS,2.826,right,1.2115,right,1.674,1.0,2.0323,0
+60e845f301f5a5901200baf4,16.0,Sense2,You can't breathe on the moon because there's no atmosphere,ATMOSPHERE,LIVELY,OXYGEN,2.1905,right,1.0119,right,1.508,1.0,0.949,1
+60e845f301f5a5901200baf4,4.0,Sense1,"The lawyer was not great at her job, she got fired",FIRED,BURN,UNEMPLOYED,2.3794,right,0.7943,right,2.642,1.0,0.9482,1
+60e845f301f5a5901200baf4,7.0,Sense1,The woman was cross-eyed because she could not control her pupils,PUPILS,STUDENTS,EYES,2.7759,right,0.6447,right,1.4748,1.0,0.9146,1
+60e845f301f5a5901200baf4,13.0,Sense2,The bank had to fire a few employees because it had too many tellers,TELLERS,GOSSIP,CASHIER,4.2363,right,0.5452,right,1.8861,1.0,0.9655,1
+60e845f301f5a5901200baf4,37.0,Joke,It's hard for leopards to hide as they're always spotted.,SPOTTED,SEEN,PATTERNED,4.4389,left,1.6447,left,0.9954,4.0,1.1817,1
+60e845f301f5a5901200baf4,20.0,Sense2,Mac users get fewer viruses because they don't have Windows,WINDOWS,COMPUTER,GLASS,3.1749,left,1.3948,right,1.4587,1.0,2.5325,1
+60e845f301f5a5901200baf4,8.0,Sense1,I told her I was going to make her mine. She loved the idea of marrying me,MINE,BELONG,QUARRY,2.7887,left,0.9111,right,1.4953,1.0,1.4831,1
+60e845f301f5a5901200baf4,6.0,Sense1,The problem with thieves is that they always take other people's things,TAKE,STOLEN,PERSPECTIVE,2.419,left,0.6642,right,1.0779,1.0,1.1999,1
+67e7cdfb2d3c81d83ccef700,2.0,Joke,The key to excel in sports is to stay positive,POSITIVE,STEROIDS,ATTITUDE,6.611,right,5.092,right,6.174,2.0,4.834,0
+67e7cdfb2d3c81d83ccef700,1.0,Joke,"- Is this safe to eat?
+- No, it's for storing valuable objects",SAFE,BANK,HARMLESS,12.847,left,5.469,left,8.744,6.0,3.716,1
+67e7cdfb2d3c81d83ccef700,15.0,Sense1,"I asked the chief about the spies. She whispered, ""They're right behind you!""",RIGHT BEHIND YOU,DANGER,LOCATION,11.72,left,5.166,right,7.078,3.0,3.415,1
+67e7cdfb2d3c81d83ccef700,10.0,Joke,"-Order in the court!
+-Ham and cheese on rye, your Honour.",ORDER,ASK,JUDGE,11.97,right,3.301,left,5.422,5.0,2.781,1
+67e7cdfb2d3c81d83ccef700,22.0,Sense2,Jellyfish can't digest food internally. They don't have guts,GUTS,COURAGE,ORGANS,10.7,right,2.639,left,3.162,5.0,5.651,0
+67e7cdfb2d3c81d83ccef700,20.0,Sense1,Prisoners don't get enough light because they don't have windows,WINDOWS,COMPUTER,GLASS,8.709,right,4.298,left,4.137,6.0,4.95,0
+67e7cdfb2d3c81d83ccef700,24.0,Sense2,The square is the dead center of town,DEAD CENTER,COFFIN,MIDDLE,10.23,left,4.1,right,5.67,2.0,4.699,1
+67e7cdfb2d3c81d83ccef700,7.0,Joke,The teacher's eyes were crossed because she could not control her pupils,PUPILS,STUDENTS,EYES,8.986,left,3.509,right,18.776,3.0,6.181,0
+67e7cdfb2d3c81d83ccef700,4.0,Joke,"Joan d'Arc was not great at her job, she got fired",FIRED,BURN,UNEMPLOYED,14.321,right,2.969,right,6.595,2.0,2.65,0
+67e7cdfb2d3c81d83ccef700,21.0,Sense2,The calendar was useful. Its pages were numbered.,NUMBERED,LIMITED,SEQUENCE,6.675,right,2.51,right,4.286,3.0,4.266,1
+67e7cdfb2d3c81d83ccef700,6.0,Joke,The problem with kleptomaniacs is that they always take things literally.,TAKE,STOLEN,PERSPECTIVE,11.971,right,2.109,left,3.295,5.0,2.813,1
+67e7cdfb2d3c81d83ccef700,28.0,Sense2,"I used to make money off my savings, but I lost the interest",INTEREST,ENTHUSIASM,EARNINGS,8.39,right,4.858,left,1.993,5.0,2.234,0
+67e7cdfb2d3c81d83ccef700,13.0,Sense1,The receptionist considered himself a teller of hard truths,TELLERS,GOSSIP,CASHIER,7.781,left,2.592,left,2.187,5.0,3.215,0
+67e7cdfb2d3c81d83ccef700,5.0,Joke,Two fish in a tank. One says: How do you drive this thing?,TANK,WAR,WATER,11.28,right,4.647,left,5.488,5.0,2.343,1
+67e7cdfb2d3c81d83ccef700,11.0,Sense1,Cannibals don't eat rotten eggs because they taste funny,FUNNY,WEIRD,LAUGHTER,9.801,left,2.73,left,4.142,6.0,3.483,0
+67e7cdfb2d3c81d83ccef700,17.0,Sense1,Sleepy people don't want to give up their bed covers,COVERS,DUVET,IDENTITY,6.196,left,2.397,left,4.632,5.0,2.365,0
+67e7cdfb2d3c81d83ccef700,29.0,Sense2,"I thought pressing the camera button was doing nothing, but then it clicked.",IT CLICKED,INSIGHT,SOUND,6.079,right,10.465,left,7.143,5.0,1.783,0
+67e7cdfb2d3c81d83ccef700,26.0,Sense2,I did not destroy the calendar. All I did was rip a day off.,DAY OFF,LEAVE,RIP,5.651,left,8.553,left,4.822,5.0,2.162,0
+67e7cdfb2d3c81d83ccef700,18.0,Sense1,Why was the belt created? For holding up a pair of pants,HOLDING UP,FASTEN,ROB,5.444,left,4.416,left,1.915,5.0,1.784,0
+67e7cdfb2d3c81d83ccef700,3.0,Joke,Two cellphones got married. The reception was fantastic,RECEPTION,SIGNAL,PARTY,11.916,right,2.824,left,2.433,6.0,4.631,1
+67e7cdfb2d3c81d83ccef700,8.0,Joke,I told her I was going to make her mine. She has extracted two rubies so far,MINE,BELONG,QUARRY,7.194,left,11.609,left,4.853,5.0,2.265,1
+67e7cdfb2d3c81d83ccef700,27.0,Sense2,I told her that she was drawing her eyebrows too high; she looked angry,LOOKED,APPEARED,EXPRESSION,7.68,left,4.298,right,2.59,3.0,2.383,1
+67e7cdfb2d3c81d83ccef700,25.0,Sense2,She had a photographic negative but never developed it.,DEVELOPED,IMPROVE,FILM,7.894,left,3.716,left,1.78,5.0,3.799,0
+67e7cdfb2d3c81d83ccef700,19.0,Sense1,The toddler would only eat pasta: he was going through a stage,STAGE,THEATER,PHASE,17.145,right,3.26,left,2.49,5.0,1.947,0
+67e7cdfb2d3c81d83ccef700,12.0,Sense1,"After seeing the salad dressing, the chef was satisfied",DRESSING,NAKED,CAESAR,5.944,left,7.412,left,6.974,5.0,1.566,0
+67e7cdfb2d3c81d83ccef700,23.0,Sense2,Why did the painting cost extra? Because it was framed,FRAMED,TRAPPED,WOODEN,7.995,right,4.533,left,3.129,5.0,1.699,0
+67e7cdfb2d3c81d83ccef700,30.0,Sense2,"I saw the car didn't stop at the red light, and then it hit me.",IT HIT ME,REALISE,STRIKE,6.069,left,8.192,right,5.987,2.0,2.516,1
+67e7cdfb2d3c81d83ccef700,14.0,Sense1,"I heard he was on a roll, turns out his last three books were bestsellers.",ROLL,BREAD,SUCCESS,7.0,right,1.413,right,1.858,3.0,2.199,1
+67e7cdfb2d3c81d83ccef700,16.0,Sense1,"The restaurant at the resort had great food, but no atmosphere",ATMOSPHERE,LIVELY,OXYGEN,4.808,left,3.42,left,4.255,5.0,2.347,0
+67e7cdfb2d3c81d83ccef700,9.0,Joke,"I don't like people who take drugs, for example: airport security.",TAKE,SNATCH,USE,11.114,left,3.333,right,7.076,3.0,2.798,0
+67e7cdfb2d3c81d83ccef700,26.0,Sense1,I got fired from the chocolate factory. All I did was take a day off.,DAY OFF,LEAVE,RIP,4.49,left,3.383,right,3.149,3.0,4.407,1
+67e7cdfb2d3c81d83ccef700,19.0,Joke,The actor fell through the floorboards: he was going through a stage,STAGE,THEATER,PHASE,13.564,left,4.165,right,4.587,3.0,1.966,0
+67e7cdfb2d3c81d83ccef700,17.0,Joke,Secret agents don't sleep because they don't want to give away their covers,COVERS,DUVET,IDENTITY,6.441,right,1.904,right,4.646,3.0,3.107,0
+67e7cdfb2d3c81d83ccef700,37.0,Sense2,It's hard for leopards to have plain fur as they're always spotted.,SPOTTED,SEEN,PATTERNED,9.125,right,3.099,right,3.195,3.0,2.207,1
+67e7cdfb2d3c81d83ccef700,14.0,Joke,"I heard he was on a roll, turns out he fell asleep at the bakery.",ROLL,BREAD,SUCCESS,13.203,left,3.897,left,3.964,5.0,2.283,1
+67e7cdfb2d3c81d83ccef700,22.0,Sense1,The man didn't ask her out. He didn't have the guts,GUTS,COURAGE,ORGANS,6.522,left,1.94,right,5.237,3.0,2.015,1
+67e7cdfb2d3c81d83ccef700,25.0,Sense1,She had a bright mind but never developed it.,DEVELOPED,IMPROVE,FILM,4.985,left,2.528,right,2.475,3.0,1.94,1
+67e7cdfb2d3c81d83ccef700,32.0,Sense2,"Some people believe the earth is flat, but that's just nuts!",NUTS!,SQUIRREL,CRAZY,7.734,right,4.555,left,2.013,5.0,2.172,0
+67e7cdfb2d3c81d83ccef700,20.0,Joke,Mac users don't get enough sunlight because they don't have Windows,WINDOWS,COMPUTER,GLASS,5.799,left,4.016,left,2.267,7.0,2.726,1
+67e7cdfb2d3c81d83ccef700,16.0,Joke,"The restaurant on the moon had great food, but no atmosphere",ATMOSPHERE,LIVELY,OXYGEN,5.657,right,5.314,left,2.734,6.0,2.091,1
+67e7cdfb2d3c81d83ccef700,21.0,Sense1,The man on death row was worried. His days were numbered.,NUMBERED,LIMITED,SEQUENCE,4.202,left,1.961,right,10.37,2.0,2.665,1
+67e7cdfb2d3c81d83ccef700,33.0,Sense2,"I tried a bigger hammer to fix the painting to the wall, but I couldn't nail it.",NAIL IT,SUCCEED,RUST,9.543,left,5.476,left,7.284,5.0,1.563,0
+67e7cdfb2d3c81d83ccef700,13.0,Joke,The bank couldn't keep any secrets because it had too many tellers,TELLERS,GOSSIP,CASHIER,4.979,left,6.16,left,1.951,6.0,2.015,1
+67e7cdfb2d3c81d83ccef700,15.0,Joke,"I asked the librarian for books about paranoia. She whispered, ""They're right behind you!""",RIGHT BEHIND YOU,DANGER,LOCATION,10.118,left,7.556,right,4.522,3.0,4.88,0
+67e7cdfb2d3c81d83ccef700,31.0,Sense2,"I wanted to buy a car with a gear stick, but I couldn't find a manual",MANUAL,HANDBOOK,TRANSMISSION,6.782,right,4.417,left,3.499,5.0,2.091,0
+67e7cdfb2d3c81d83ccef700,40.0,Sense2,No need to plug in the toy: its battery is charged,BATTERY,ASSAULT,POWERED,7.282,right,3.048,left,6.015,5.0,1.755,0
+67e7cdfb2d3c81d83ccef700,30.0,Sense1,"I had no idea who could have done this, and then it hit me.",IT HIT ME,REALISE,STRIKE,7.553,left,2.589,left,2.797,5.0,1.79,0
+67e7cdfb2d3c81d83ccef700,11.0,Joke,Cannibals don't eat clowns because they taste funny,FUNNY,WEIRD,LAUGHTER,6.21,right,5.217,left,4.685,6.0,4.185,1
+67e7cdfb2d3c81d83ccef700,39.0,Sense2,The man had broken his hip in the winter. He had a great fall.,FALL,AUTUMN,SLIP,8.476,right,3.252,left,1.635,5.0,1.424,0
+67e7cdfb2d3c81d83ccef700,35.0,Sense2,Communists love economic equality because there are no classes,CLASSES,SCHOOL,STATUS,4.641,right,1.58,right,3.036,3.0,2.36,1
+67e7cdfb2d3c81d83ccef700,29.0,Sense1,"I couldn't figure out how to solve the math problem, but then it clicked.",IT CLICKED,INSIGHT,SOUND,6.421,left,2.25,left,2.595,5.0,1.63,0
+67e7cdfb2d3c81d83ccef700,18.0,Joke,Why was the belt arrested? For holding up a pair of pants,HOLDING UP,FASTEN,ROB,6.288,left,2.621,left,2.378,6.0,2.175,1
+67e7cdfb2d3c81d83ccef700,12.0,Joke,"After seeing the salad dressing, the tomato turned red",DRESSING,NAKED,CAESAR,4.051,right,4.278,left,2.616,5.0,1.491,1
+67e7cdfb2d3c81d83ccef700,23.0,Sense1,Why did your brother go to jail? Because he was framed,FRAMED,TRAPPED,WOODEN,3.791,left,3.563,left,2.658,5.0,1.27,0
+67e7cdfb2d3c81d83ccef700,24.0,Sense1,A mortuary can be thought of as a dead center,DEAD CENTER,COFFIN,MIDDLE,7.02,left,1.751,left,3.978,5.0,1.909,0
+67e7cdfb2d3c81d83ccef700,34.0,Sense2,"I used to vote for the left, I'm all right now.",ALL RIGHT,OK,DIRECTION,4.484,left,6.63,left,3.167,5.0,4.169,0
+67e7cdfb2d3c81d83ccef700,28.0,Sense1,"I used to be into chess, but I lost interest",INTEREST,ENTHUSIASM,EARNINGS,4.417,left,2.686,right,2.424,2.0,2.187,1
+67e7cdfb2d3c81d83ccef700,38.0,Sense2,"-Did you grind the nutmeg recently?
+-Well, it was just ground this morning!",GROUND,DIRT,CRUSH,14.375,right,1.343,right,3.66,3.0,1.944,1
+67e7cdfb2d3c81d83ccef700,27.0,Sense1,She wasn't expecting me because I came unannounced; she looked surprised.,LOOKED,APPEARED,EXPRESSION,4.157,right,2.057,right,4.484,3.0,1.905,1
+67e7cdfb2d3c81d83ccef700,36.0,Sense2,How do you make the bride fast? Take away her food.,FAST,QUICK,HUNGRY,9.369,right,3.548,left,1.582,5.0,1.354,0
+67e7cdfb2d3c81d83ccef700,23.0,Joke,Why did the painting go to jail? Because it was framed,FRAMED,TRAPPED,WOODEN,6.059,left,2.306,left,2.476,6.0,2.18,1
+67e7cdfb2d3c81d83ccef700,39.0,Sense1,The University Student was happy in the winter. He had a great fall.,FALL,AUTUMN,SLIP,9.305,left,3.698,right,3.364,3.0,1.732,1
+67e7cdfb2d3c81d83ccef700,36.0,Sense1,How do you make the car fast? Take away the brakes.,FAST,QUICK,HUNGRY,3.71,left,1.923,left,5.601,6.0,1.994,0
+67e7cdfb2d3c81d83ccef700,24.0,Joke,The graveyard is the dead center of town,DEAD CENTER,COFFIN,MIDDLE,4.713,left,1.699,left,3.114,5.0,1.271,1
+67e7cdfb2d3c81d83ccef700,6.0,Sense2,The problem with some people is that they always take things literally.,TAKE,STOLEN,PERSPECTIVE,4.548,right,1.401,left,4.099,5.0,1.673,0
+67e7cdfb2d3c81d83ccef700,22.0,Joke,The skeleton didn't ask her out. He didn't have the guts,GUTS,COURAGE,ORGANS,7.763,left,1.581,left,2.394,5.0,1.706,1
+67e7cdfb2d3c81d83ccef700,1.0,Sense2,"- Is this safe to eat? 
+- Yes, I had it for breakfast",SAFE,BANK,HARMLESS,4.989,right,1.42,left,5.279,5.0,1.34,0
+67e7cdfb2d3c81d83ccef700,8.0,Sense2,"The foreman told him to go to the mine. He said: ""that's what you pay me for""",MINE,BELONG,QUARRY,14.497,right,1.388,right,3.63,3.0,2.195,1
+67e7cdfb2d3c81d83ccef700,30.0,Joke,"I wondered why the car was getting bigger, and then it hit me.",IT HIT ME,REALISE,STRIKE,8.621,left,1.014,left,3.705,5.0,2.798,1
+67e7cdfb2d3c81d83ccef700,26.0,Joke,I got fired from the calendar factory. All I did was take a day off.,DAY OFF,LEAVE,RIP,5.143,left,0.078,left,4.413,5.0,1.579,1
+67e7cdfb2d3c81d83ccef700,2.0,Sense2,The key to a happy life is to stay positive,POSITIVE,STEROIDS,ATTITUDE,5.033,right,3.999,right,5.169,3.0,1.84,1
+67e7cdfb2d3c81d83ccef700,9.0,Sense2,"I don't like people who take my stuff, for example: airport security.",TAKE,SNATCH,USE,4.82,left,2.897,left,5.144,5.0,4.571,0
+67e7cdfb2d3c81d83ccef700,38.0,Sense1,"-There is only sea here 
+-Well, it was just ground this morning!",GROUND,DIRT,CRUSH,13.148,left,3.578,left,3.285,5.0,1.856,0
+67e7cdfb2d3c81d83ccef700,35.0,Sense1,The teacher loved the summer because there were no classes,CLASSES,SCHOOL,STATUS,4.125,left,1.578,right,3.566,3.0,1.709,1
+67e7cdfb2d3c81d83ccef700,7.0,Sense2,The teacher was fired because she could not control her pupils,PUPILS,STUDENTS,EYES,16.585,left,1.335,right,3.488,3.0,3.281,1
+67e7cdfb2d3c81d83ccef700,40.0,Sense1,Local man arrested: charged with battery,BATTERY,ASSAULT,POWERED,36.362,left,1.952,right,2.963,3.0,1.488,1
+67e7cdfb2d3c81d83ccef700,25.0,Joke,She had a photographic memory but never developed it.,DEVELOPED,IMPROVE,FILM,6.567,left,1.936,right,2.716,3.0,1.62,0
+67e7cdfb2d3c81d83ccef700,21.0,Joke,The calendar was worried. Its days were numbered.,NUMBERED,LIMITED,SEQUENCE,40.565,right,2.015,left,1.919,5.0,1.319,1
+67e7cdfb2d3c81d83ccef700,10.0,Sense2,"-Order in the court! 
+-I apologise, I will be silent, your Honour. ",ORDER,ASK,JUDGE,4.222,right,2.721,right,5.888,3.0,1.99,1
+67e7cdfb2d3c81d83ccef700,34.0,Sense1,"I was sick for a long time, I'm all right now.",ALL RIGHT,OK,DIRECTION,5.353,left,1.364,right,2.009,3.0,2.461,1
+67e7cdfb2d3c81d83ccef700,29.0,Joke,"I couldn't figure out how to use the seatbelt, but then it clicked.",IT CLICKED,INSIGHT,SOUND,35.633,left,1.597,left,3.448,5.0,2.023,1
+67e7cdfb2d3c81d83ccef700,37.0,Sense1,It's hard for people with neon clothes to hide as they're always spotted.,SPOTTED,SEEN,PATTERNED,5.19,left,2.19,right,7.16,3.0,1.255,1
+67e7cdfb2d3c81d83ccef700,4.0,Sense2,"The oven was ready for the pizza, it was wood fired",FIRED,BURN,UNEMPLOYED,6.431,left,1.535,left,3.726,5.0,1.236,0
+67e7cdfb2d3c81d83ccef700,31.0,Sense1,"I wanted to learn how to operate the new machine, but I couldn't find a manual",MANUAL,HANDBOOK,TRANSMISSION,3.817,left,3.126,right,2.759,3.0,1.538,1
+67e7cdfb2d3c81d83ccef700,27.0,Joke,I told her that she was drawing her eyebrows too high; she looked surprised,LOOKED,APPEARED,EXPRESSION,19.639,left,3.902,right,8.082,3.0,2.526,0
+67e7cdfb2d3c81d83ccef700,28.0,Joke,"I used to be a banker, but I lost interest",INTEREST,ENTHUSIASM,EARNINGS,5.629,left,1.717,right,3.833,3.0,4.773,0
+67e7cdfb2d3c81d83ccef700,3.0,Sense2,Two cellphones were tested. The reception was fantastic,RECEPTION,SIGNAL,PARTY,6.217,left,1.668,right,2.597,3.0,4.434,1
+67e7cdfb2d3c81d83ccef700,33.0,Sense1,I tried to sing a very difficult song but I couldn't nail it.,NAIL IT,SUCCEED,RUST,6.739,left,3.571,left,4.607,5.0,1.302,0
+67e7cdfb2d3c81d83ccef700,5.0,Sense2,Two soldiers in a tank. One says: How do you drive this thing?,TANK,WAR,WATER,24.485,left,1.607,left,3.735,5.0,1.053,0
+67e7cdfb2d3c81d83ccef700,32.0,Sense1,"I thought I'd have cashews and almonds in my balanced meal, but that's just nuts",NUTS!,SQUIRREL,CRAZY,6.657,left,4.037,left,4.882,5.0,1.103,0
+67e7cdfb2d3c81d83ccef700,31.0,Joke,"I wanted to learn to use the gear stick, but I couldn't find a manual",MANUAL,HANDBOOK,TRANSMISSION,5.524,left,2.085,left,2.989,5.0,1.171,1
+67e7cdfb2d3c81d83ccef700,9.0,Sense1,"I don't like people who take drugs, for example: cocaine addicts",TAKE,SNATCH,USE,4.611,right,1.557,right,4.815,3.0,1.322,1
+67e7cdfb2d3c81d83ccef700,12.0,Sense2,"After seeing the woman dressing, the man turned red",DRESSING,NAKED,CAESAR,21.961,right,2.398,left,3.681,5.0,1.186,0
+67e7cdfb2d3c81d83ccef700,2.0,Sense1,Sometimes in sports anti-doping tests are positive,POSITIVE,STEROIDS,ATTITUDE,6.305,left,3.169,right,4.613,3.0,1.338,1
+67e7cdfb2d3c81d83ccef700,36.0,Joke,How do you make the turtle fast? Take away its food.,FAST,QUICK,HUNGRY,6.148,left,5.156,right,2.639,5.0,1.71,0
+67e7cdfb2d3c81d83ccef700,14.0,Sense2,"I heard he wanted a roll for lunch, I went to the bakery",ROLL,BREAD,SUCCESS,6.98,right,4.936,left,1.325,5.0,1.388,0
+67e7cdfb2d3c81d83ccef700,18.0,Sense2,Why was the convict arrested? For holding up a bank,HOLDING UP,FASTEN,ROB,6.253,right,3.641,left,1.714,5.0,1.239,0
+67e7cdfb2d3c81d83ccef700,10.0,Sense1,"-Order in the cafeteria 
+-Ham and cheese on rye, please. ",ORDER,ASK,JUDGE,13.083,left,1.944,left,2.118,5.0,0.767,0
+67e7cdfb2d3c81d83ccef700,15.0,Sense2,"I asked the librarian for books about cooking. She whispered, ""They're right behind you!""",RIGHT BEHIND YOU,DANGER,LOCATION,6.075,right,1.259,right,3.799,3.0,2.643,1
+67e7cdfb2d3c81d83ccef700,17.0,Sense2,Secret agents don't date because they don't want to give away their covers,COVERS,DUVET,IDENTITY,5.648,right,1.18,right,5.684,3.0,1.544,1
+67e7cdfb2d3c81d83ccef700,34.0,Joke,"I lost my left hand in an accident, I'm all right now.",ALL RIGHT,OK,DIRECTION,9.487,right,4.234,left,3.127,3.0,2.058,1
+67e7cdfb2d3c81d83ccef700,33.0,Joke,I tried to be a carpenter but I couldn't nail it.,NAIL IT,SUCCEED,RUST,3.453,left,2.54,left,2.787,5.0,1.638,1
+67e7cdfb2d3c81d83ccef700,1.0,Sense1,"- Is this safe locked? 
+- No, I left it open on purpose",SAFE,BANK,HARMLESS,8.791,left,2.146,left,3.678,5.0,1.605,0
+67e7cdfb2d3c81d83ccef700,39.0,Joke,Humpty Dumpty was happy in the winter. He had a great fall.,FALL,AUTUMN,SLIP,119.241,right,3.341,right,4.572,3.0,2.882,0
+67e7cdfb2d3c81d83ccef700,40.0,Joke,Energizer bunny arrested: charged with battery,BATTERY,ASSAULT,POWERED,10.073,right,3.14,left,2.291,5.0,1.537,1
+67e7cdfb2d3c81d83ccef700,19.0,Sense2,The actor ran from left to right: he was going across the stage,STAGE,THEATER,PHASE,16.164,left,2.437,left,2.612,5.0,1.878,0
+67e7cdfb2d3c81d83ccef700,5.0,Sense1,Two fish in a tank. One says: When do you think we'll get fed?,TANK,WAR,WATER,34.601,right,2.456,left,2.445,5.0,1.856,0
+67e7cdfb2d3c81d83ccef700,32.0,Joke,"I thought about going on an all-almond diet, but that's just nuts!",NUTS!,SQUIRREL,CRAZY,7.653,right,1.54,left,1.866,5.0,1.573,1
+67e7cdfb2d3c81d83ccef700,11.0,Sense2,The circus hires clowns because they are funny,FUNNY,WEIRD,LAUGHTER,11.138,left,2.185,left,2.766,5.0,1.774,0
+67e7cdfb2d3c81d83ccef700,3.0,Sense1,Two friends got married. The reception was fantastic,RECEPTION,SIGNAL,PARTY,7.835,right,3.037,right,4.73,3.0,4.203,1
+67e7cdfb2d3c81d83ccef700,38.0,Joke,"-This coffee tastes like mud 
+-Well, it was just ground this morning!",GROUND,DIRT,CRUSH,8.11,right,2.262,left,2.554,6.0,2.211,1
+67e7cdfb2d3c81d83ccef700,35.0,Joke,The communist loved the summer because there were no classes,CLASSES,SCHOOL,STATUS,4.767,right,1.39,left,1.743,5.0,0.786,1
+67e7cdfb2d3c81d83ccef700,16.0,Sense2,You can't breathe on the moon because there's no atmosphere,ATMOSPHERE,LIVELY,OXYGEN,5.719,right,1.82,left,2.855,5.0,1.071,0
+67e7cdfb2d3c81d83ccef700,4.0,Sense1,"The lawyer was not great at her job, she got fired",FIRED,BURN,UNEMPLOYED,7.766,right,3.712,left,2.135,5.0,1.103,0
+67e7cdfb2d3c81d83ccef700,7.0,Sense1,The woman was cross-eyed because she could not control her pupils,PUPILS,STUDENTS,EYES,6.555,right,2.322,left,5.113,5.0,1.019,0
+67e7cdfb2d3c81d83ccef700,13.0,Sense2,The bank had to fire a few employees because it had too many tellers,TELLERS,GOSSIP,CASHIER,12.864,right,1.654,right,3.444,3.0,2.076,1
+67e7cdfb2d3c81d83ccef700,37.0,Joke,It's hard for leopards to hide as they're always spotted.,SPOTTED,SEEN,PATTERNED,15.261,left,3.272,right,1.723,3.0,1.136,0
+67e7cdfb2d3c81d83ccef700,20.0,Sense2,Mac users get fewer viruses because they don't have Windows,WINDOWS,COMPUTER,GLASS,13.675,left,1.793,left,4.161,5.0,2.109,0
+67e7cdfb2d3c81d83ccef700,8.0,Sense1,I told her I was going to make her mine. She loved the idea of marrying me,MINE,BELONG,QUARRY,25.273,left,3.111,right,15.179,3.0,3.253,1
+67e7cdfb2d3c81d83ccef700,6.0,Sense1,The problem with thieves is that they always take other people's things,TAKE,STOLEN,PERSPECTIVE,3.612,left,1.202,right,5.548,3.0,1.385,1
+67e87c18ffd57c26d71f2412,2.0,Joke,The key to excel in sports is to stay positive,POSITIVE,STEROIDS,ATTITUDE,4.7148,right,4.6653,right,4.7161,2.0,4.6896,0
+67e87c18ffd57c26d71f2412,1.0,Joke,"- Is this safe to eat?
+- No, it's for storing valuable objects",SAFE,BANK,HARMLESS,8.9737,right,2.9345,left,3.8111,6.0,4.7711,1
+67e87c18ffd57c26d71f2412,15.0,Sense1,"I asked the chief about the spies. She whispered, ""They're right behind you!""",RIGHT BEHIND YOU,DANGER,LOCATION,8.8735,right,4.7488,left,4.5812,5.0,3.9567,0
+67e87c18ffd57c26d71f2412,10.0,Joke,"-Order in the court!
+-Ham and cheese on rye, your Honour.",ORDER,ASK,JUDGE,6.6098,right,20.2035,left,2.3051,7.0,4.691,1
+67e87c18ffd57c26d71f2412,22.0,Sense2,Jellyfish can't digest food internally. They don't have guts,GUTS,COURAGE,ORGANS,10.4029,left,7.0338,left,3.3518,6.0,3.0067,0
+67e87c18ffd57c26d71f2412,20.0,Sense1,Prisoners don't get enough light because they don't have windows,WINDOWS,COMPUTER,GLASS,6.3994,left,13.4257,left,2.5205,6.0,3.8905,0
+67e87c18ffd57c26d71f2412,24.0,Sense2,The square is the dead center of town,DEAD CENTER,COFFIN,MIDDLE,12.2453,right,5.6653,right,8.7804,3.0,2.9751,1
+67e87c18ffd57c26d71f2412,7.0,Joke,The teacher's eyes were crossed because she could not control her pupils,PUPILS,STUDENTS,EYES,7.5544,left,4.4536,left,1.2649,6.0,3.4106,1
+67e87c18ffd57c26d71f2412,4.0,Joke,"Joan d'Arc was not great at her job, she got fired",FIRED,BURN,UNEMPLOYED,14.9731,right,7.0587,right,3.3974,2.0,4.6046,0
+67e87c18ffd57c26d71f2412,21.0,Sense2,The calendar was useful. Its pages were numbered.,NUMBERED,LIMITED,SEQUENCE,6.426,left,4.5469,left,2.4027,6.0,3.2562,0
+67e87c18ffd57c26d71f2412,6.0,Joke,The problem with kleptomaniacs is that they always take things literally.,TAKE,STOLEN,PERSPECTIVE,9.0449,right,5.5343,right,1.5167,2.0,4.7907,0
+67e87c18ffd57c26d71f2412,28.0,Sense2,"I used to make money off my savings, but I lost the interest",INTEREST,ENTHUSIASM,EARNINGS,6.7026,left,4.6157,left,3.3067,5.0,2.5021,0
+67e87c18ffd57c26d71f2412,13.0,Sense1,The receptionist considered himself a teller of hard truths,TELLERS,GOSSIP,CASHIER,8.8175,right,12.6566,left,2.9191,5.0,2.9391,0
+67e87c18ffd57c26d71f2412,5.0,Joke,Two fish in a tank. One says: How do you drive this thing?,TANK,WAR,WATER,13.4724,right,3.3889,left,5.9055,5.0,2.0804,1
+67e87c18ffd57c26d71f2412,11.0,Sense1,Cannibals don't eat rotten eggs because they taste funny,FUNNY,WEIRD,LAUGHTER,20.4461,left,6.6307,left,5.6731,5.0,5.8259,0
+67e87c18ffd57c26d71f2412,17.0,Sense1,Sleepy people don't want to give up their bed covers,COVERS,DUVET,IDENTITY,13.9749,right,11.3434,right,10.426,3.0,3.0514,1
+67e87c18ffd57c26d71f2412,29.0,Sense2,"I thought pressing the camera button was doing nothing, but then it clicked.",IT CLICKED,INSIGHT,SOUND,11.9764,right,3.4339,right,1.8224,3.0,3.1912,1
+67e87c18ffd57c26d71f2412,26.0,Sense2,I did not destroy the calendar. All I did was rip a day off.,DAY OFF,LEAVE,RIP,6.4514,left,17.7225,left,6.1967,5.0,1.3921,0
+67e87c18ffd57c26d71f2412,18.0,Sense1,Why was the belt created? For holding up a pair of pants,HOLDING UP,FASTEN,ROB,8.522,left,3.6816,right,1.2834,3.0,3.0904,1
+67e87c18ffd57c26d71f2412,3.0,Joke,Two cellphones got married. The reception was fantastic,RECEPTION,SIGNAL,PARTY,15.3111,left,1.2896,left,1.5806,6.0,1.8761,1
+67e87c18ffd57c26d71f2412,8.0,Joke,I told her I was going to make her mine. She has extracted two rubies so far,MINE,BELONG,QUARRY,9.1593,right,3.62,left,1.7567,6.0,3.9502,1
+67e87c18ffd57c26d71f2412,27.0,Sense2,I told her that she was drawing her eyebrows too high; she looked angry,LOOKED,APPEARED,EXPRESSION,10.7127,left,6.8936,left,3.1854,5.0,1.2159,0
+67e87c18ffd57c26d71f2412,25.0,Sense2,She had a photographic negative but never developed it.,DEVELOPED,IMPROVE,FILM,10.151,left,6.9417,right,2.5347,3.0,2.5353,1
+67e87c18ffd57c26d71f2412,19.0,Sense1,The toddler would only eat pasta: he was going through a stage,STAGE,THEATER,PHASE,12.3666,right,3.4054,right,1.0339,3.0,2.0964,1
+67e87c18ffd57c26d71f2412,12.0,Sense1,"After seeing the salad dressing, the chef was satisfied",DRESSING,NAKED,CAESAR,6.7778,left,33.5786,left,1.8813,6.0,2.0614,0
+67e87c18ffd57c26d71f2412,23.0,Sense2,Why did the painting cost extra? Because it was framed,FRAMED,TRAPPED,WOODEN,5.0561,left,16.7597,left,1.7387,5.0,2.2094,0
+67e87c18ffd57c26d71f2412,30.0,Sense2,"I saw the car didn't stop at the red light, and then it hit me.",IT HIT ME,REALISE,STRIKE,9.1331,left,3.0136,left,6.4357,5.0,1.0769,0
+67e87c18ffd57c26d71f2412,14.0,Sense1,"I heard he was on a roll, turns out his last three books were bestsellers.",ROLL,BREAD,SUCCESS,10.6717,right,6.0963,right,0.8733,3.0,1.9709,1
+67e87c18ffd57c26d71f2412,16.0,Sense1,"The restaurant at the resort had great food, but no atmosphere",ATMOSPHERE,LIVELY,OXYGEN,20.5094,left,4.201,right,1.6768,2.0,1.7271,1
+67e87c18ffd57c26d71f2412,9.0,Joke,"I don't like people who take drugs, for example: airport security.",TAKE,SNATCH,USE,10.2752,left,4.3138,left,1.0921,6.0,1.4097,1
+67e87c18ffd57c26d71f2412,26.0,Sense1,I got fired from the chocolate factory. All I did was take a day off.,DAY OFF,LEAVE,RIP,10.4088,left,30.9301,left,16.949,5.0,7.4934,0
+67e87c18ffd57c26d71f2412,19.0,Joke,The actor fell through the floorboards: he was going through a stage,STAGE,THEATER,PHASE,7.5031,right,13.572,left,1.2623,6.0,1.7977,1
+67e87c18ffd57c26d71f2412,17.0,Joke,Secret agents don't sleep because they don't want to give away their covers,COVERS,DUVET,IDENTITY,8.4461,right,1.4788,left,1.2828,5.0,1.6921,1
+67e87c18ffd57c26d71f2412,37.0,Sense2,It's hard for leopards to have plain fur as they're always spotted.,SPOTTED,SEEN,PATTERNED,8.6846,right,18.9665,left,1.0668,5.0,1.2408,0
+67e87c18ffd57c26d71f2412,14.0,Joke,"I heard he was on a roll, turns out he fell asleep at the bakery.",ROLL,BREAD,SUCCESS,17.2516,left,9.2924,left,7.6427,5.0,4.0734,1
+67e87c18ffd57c26d71f2412,22.0,Sense1,The man didn't ask her out. He didn't have the guts,GUTS,COURAGE,ORGANS,17.6414,left,3.4235,right,3.9501,3.0,1.8068,1
+67e87c18ffd57c26d71f2412,25.0,Sense1,She had a bright mind but never developed it.,DEVELOPED,IMPROVE,FILM,5.7403,left,2.1352,right,2.9641,3.0,2.2419,1
+67e87c18ffd57c26d71f2412,32.0,Sense2,"Some people believe the earth is flat, but that's just nuts!",NUTS!,SQUIRREL,CRAZY,36.8606,right,2.2311,right,2.5412,3.0,1.2597,1
+67e87c18ffd57c26d71f2412,20.0,Joke,Mac users don't get enough sunlight because they don't have Windows,WINDOWS,COMPUTER,GLASS,6.8445,left,1.4644,left,2.0863,5.0,2.1357,1
+67e87c18ffd57c26d71f2412,16.0,Joke,"The restaurant on the moon had great food, but no atmosphere",ATMOSPHERE,LIVELY,OXYGEN,11.439,right,5.2124,left,1.3014,5.0,5.9874,1
+67e87c18ffd57c26d71f2412,21.0,Sense1,The man on death row was worried. His days were numbered.,NUMBERED,LIMITED,SEQUENCE,20.7626,left,2.8156,left,17.0697,5.0,4.0226,0
+67e87c18ffd57c26d71f2412,33.0,Sense2,"I tried a bigger hammer to fix the painting to the wall, but I couldn't nail it.",NAIL IT,SUCCEED,RUST,6.1074,left,9.7404,left,3.7374,5.0,1.5468,0
+67e87c18ffd57c26d71f2412,13.0,Joke,The bank couldn't keep any secrets because it had too many tellers,TELLERS,GOSSIP,CASHIER,4.8131,right,10.203,left,1.1817,6.0,2.2267,1
+67e87c18ffd57c26d71f2412,15.0,Joke,"I asked the librarian for books about paranoia. She whispered, ""They're right behind you!""",RIGHT BEHIND YOU,DANGER,LOCATION,11.4878,left,2.7316,left,7.5241,6.0,1.5913,1
+67e87c18ffd57c26d71f2412,31.0,Sense2,"I wanted to buy a car with a gear stick, but I couldn't find a manual",MANUAL,HANDBOOK,TRANSMISSION,9.7834,left,24.3327,left,17.4342,5.0,2.6352,0
+67e87c18ffd57c26d71f2412,40.0,Sense2,No need to plug in the toy: its battery is charged,BATTERY,ASSAULT,POWERED,14.9072,right,8.9825,right,8.036,3.0,2.6673,1
+67e87c18ffd57c26d71f2412,30.0,Sense1,"I had no idea who could have done this, and then it hit me.",IT HIT ME,REALISE,STRIKE,7.8356,left,3.5804,right,6.3969,3.0,2.4578,1
+67e87c18ffd57c26d71f2412,11.0,Joke,Cannibals don't eat clowns because they taste funny,FUNNY,WEIRD,LAUGHTER,10.1585,right,4.1628,left,0.8351,6.0,2.4982,1
+67e87c18ffd57c26d71f2412,39.0,Sense2,The man had broken his hip in the winter. He had a great fall.,FALL,AUTUMN,SLIP,10.2583,right,6.4114,right,1.3643,3.0,1.4237,1
+67e87c18ffd57c26d71f2412,35.0,Sense2,Communists love economic equality because there are no classes,CLASSES,SCHOOL,STATUS,12.7882,right,1.5252,right,1.312,3.0,0.6278,1
+67e87c18ffd57c26d71f2412,29.0,Sense1,"I couldn't figure out how to solve the math problem, but then it clicked.",IT CLICKED,INSIGHT,SOUND,12.557,left,2.548,right,6.3356,3.0,1.6205,1
+67e87c18ffd57c26d71f2412,18.0,Joke,Why was the belt arrested? For holding up a pair of pants,HOLDING UP,FASTEN,ROB,13.2689,right,3.9961,left,1.1677,6.0,2.5278,1
+67e87c18ffd57c26d71f2412,12.0,Joke,"After seeing the salad dressing, the tomato turned red",DRESSING,NAKED,CAESAR,6.027,left,2.1153,left,0.911,6.0,2.2008,1
+67e87c18ffd57c26d71f2412,23.0,Sense1,Why did your brother go to jail? Because he was framed,FRAMED,TRAPPED,WOODEN,5.08,left,3.7953,left,3.5456,4.0,7.209,0
+67e87c18ffd57c26d71f2412,24.0,Sense1,A mortuary can be thought of as a dead center,DEAD CENTER,COFFIN,MIDDLE,5.8616,left,2.9819,left,4.8734,5.0,2.092,0
+67e87c18ffd57c26d71f2412,34.0,Sense2,"I used to vote for the left, I'm all right now.",ALL RIGHT,OK,DIRECTION,4.956,right,9.6085,left,0.87,6.0,2.3739,0
+67e87c18ffd57c26d71f2412,28.0,Sense1,"I used to be into chess, but I lost interest",INTEREST,ENTHUSIASM,EARNINGS,7.0056,left,1.3107,right,1.8118,2.0,1.888,1
+67e87c18ffd57c26d71f2412,38.0,Sense2,"-Did you grind the nutmeg recently?
+-Well, it was just ground this morning!",GROUND,DIRT,CRUSH,19.9834,right,5.0558,right,7.6033,3.0,1.7014,1
+67e87c18ffd57c26d71f2412,27.0,Sense1,She wasn't expecting me because I came unannounced; she looked surprised.,LOOKED,APPEARED,EXPRESSION,9.637,right,4.2661,right,4.0568,3.0,0.8865,1
+67e87c18ffd57c26d71f2412,36.0,Sense2,How do you make the bride fast? Take away her food.,FAST,QUICK,HUNGRY,19.111,right,8.1207,left,5.9684,5.0,1.5525,0
+67e87c18ffd57c26d71f2412,23.0,Joke,Why did the painting go to jail? Because it was framed,FRAMED,TRAPPED,WOODEN,5.6147,right,18.4134,left,1.8855,6.0,1.9528,1
+67e87c18ffd57c26d71f2412,39.0,Sense1,The University Student was happy in the winter. He had a great fall.,FALL,AUTUMN,SLIP,7.8507,left,11.7439,left,3.0222,5.0,1.3766,0
+67e87c18ffd57c26d71f2412,36.0,Sense1,How do you make the car fast? Take away the brakes.,FAST,QUICK,HUNGRY,33.6313,left,4.4809,left,3.2007,5.0,2.4189,0
+67e87c18ffd57c26d71f2412,24.0,Joke,The graveyard is the dead center of town,DEAD CENTER,COFFIN,MIDDLE,5.887,right,6.4458,left,0.8322,6.0,1.1591,1
+67e87c18ffd57c26d71f2412,6.0,Sense2,The problem with some people is that they always take things literally.,TAKE,STOLEN,PERSPECTIVE,7.633,right,8.3522,left,0.5141,6.0,2.5485,0
+67e87c18ffd57c26d71f2412,22.0,Joke,The skeleton didn't ask her out. He didn't have the guts,GUTS,COURAGE,ORGANS,5.854,right,2.7498,left,1.2269,7.0,2.4921,1
+67e87c18ffd57c26d71f2412,1.0,Sense2,"- Is this safe to eat? 
+- Yes, I had it for breakfast",SAFE,BANK,HARMLESS,6.1539,right,2.5661,right,0.9454,3.0,1.3827,1
+67e87c18ffd57c26d71f2412,8.0,Sense2,"The foreman told him to go to the mine. He said: ""that's what you pay me for""",MINE,BELONG,QUARRY,12.043,right,2.5328,right,2.1669,3.0,0.6541,1
+67e87c18ffd57c26d71f2412,30.0,Joke,"I wondered why the car was getting bigger, and then it hit me.",IT HIT ME,REALISE,STRIKE,7.2187,left,16.7101,left,2.5118,6.0,1.192,1
+67e87c18ffd57c26d71f2412,26.0,Joke,I got fired from the calendar factory. All I did was take a day off.,DAY OFF,LEAVE,RIP,12.9625,right,3.1416,left,2.596,6.0,1.998,1
+67e87c18ffd57c26d71f2412,2.0,Sense2,The key to a happy life is to stay positive,POSITIVE,STEROIDS,ATTITUDE,4.2648,right,2.1157,right,0.7373,3.0,1.1665,1
+67e87c18ffd57c26d71f2412,9.0,Sense2,"I don't like people who take my stuff, for example: airport security.",TAKE,SNATCH,USE,6.6311,left,17.3385,left,3.1321,5.0,3.8743,0
+67e87c18ffd57c26d71f2412,38.0,Sense1,"-There is only sea here 
+-Well, it was just ground this morning!",GROUND,DIRT,CRUSH,9.8828,left,5.5136,left,2.1792,5.0,4.3625,0
+67e87c18ffd57c26d71f2412,35.0,Sense1,The teacher loved the summer because there were no classes,CLASSES,SCHOOL,STATUS,6.476,left,4.0145,right,10.3611,3.0,1.286,1
+67e87c18ffd57c26d71f2412,7.0,Sense2,The teacher was fired because she could not control her pupils,PUPILS,STUDENTS,EYES,4.1728,left,1.7613,right,2.8605,3.0,2.2561,1
+67e87c18ffd57c26d71f2412,40.0,Sense1,Local man arrested: charged with battery,BATTERY,ASSAULT,POWERED,4.7179,left,12.5947,left,5.0501,5.0,1.2665,0
+67e87c18ffd57c26d71f2412,25.0,Joke,She had a photographic memory but never developed it.,DEVELOPED,IMPROVE,FILM,29.0235,left,3.681,right,5.3339,3.0,0.986,0
+67e87c18ffd57c26d71f2412,21.0,Joke,The calendar was worried. Its days were numbered.,NUMBERED,LIMITED,SEQUENCE,3.8462,right,3.5745,left,0.9761,6.0,1.1776,1
+67e87c18ffd57c26d71f2412,10.0,Sense2,"-Order in the court! 
+-I apologise, I will be silent, your Honour. ",ORDER,ASK,JUDGE,11.3404,right,1.4491,right,1.7084,2.0,3.8112,1
+67e87c18ffd57c26d71f2412,34.0,Sense1,"I was sick for a long time, I'm all right now.",ALL RIGHT,OK,DIRECTION,6.7206,left,1.3527,right,2.6263,2.0,1.5055,1
+67e87c18ffd57c26d71f2412,29.0,Joke,"I couldn't figure out how to use the seatbelt, but then it clicked.",IT CLICKED,INSIGHT,SOUND,6.2664,right,1.57,left,1.2123,6.0,1.5759,1
+67e87c18ffd57c26d71f2412,37.0,Sense1,It's hard for people with neon clothes to hide as they're always spotted.,SPOTTED,SEEN,PATTERNED,7.7871,left,1.6167,left,7.3979,6.0,1.4426,0
+67e87c18ffd57c26d71f2412,4.0,Sense2,"The oven was ready for the pizza, it was wood fired",FIRED,BURN,UNEMPLOYED,12.7695,left,1.6077,right,4.3011,3.0,1.7309,1
+67e87c18ffd57c26d71f2412,31.0,Sense1,"I wanted to learn how to operate the new machine, but I couldn't find a manual",MANUAL,HANDBOOK,TRANSMISSION,6.462,left,1.7344,right,1.6869,3.0,1.0153,1
+67e87c18ffd57c26d71f2412,27.0,Joke,I told her that she was drawing her eyebrows too high; she looked surprised,LOOKED,APPEARED,EXPRESSION,7.5777,left,1.2334,left,3.1367,5.0,1.5367,1
+67e87c18ffd57c26d71f2412,28.0,Joke,"I used to be a banker, but I lost interest",INTEREST,ENTHUSIASM,EARNINGS,2.9167,left,7.331,left,1.2804,6.0,1.666,1
+67e87c18ffd57c26d71f2412,3.0,Sense2,Two cellphones were tested. The reception was fantastic,RECEPTION,SIGNAL,PARTY,2.8887,left,7.4184,right,3.9404,3.0,1.8493,1
+67e87c18ffd57c26d71f2412,33.0,Sense1,I tried to sing a very difficult song but I couldn't nail it.,NAIL IT,SUCCEED,RUST,6.9786,left,1.2326,right,3.5692,3.0,1.7702,1
+67e87c18ffd57c26d71f2412,5.0,Sense2,Two soldiers in a tank. One says: How do you drive this thing?,TANK,WAR,WATER,4.4948,left,1.9987,right,1.8057,3.0,0.6547,1
+67e87c18ffd57c26d71f2412,32.0,Sense1,"I thought I'd have cashews and almonds in my balanced meal, but that's just nuts",NUTS!,SQUIRREL,CRAZY,8.4206,right,7.4163,left,6.3363,5.0,1.1699,0
+67e87c18ffd57c26d71f2412,31.0,Joke,"I wanted to learn to use the gear stick, but I couldn't find a manual",MANUAL,HANDBOOK,TRANSMISSION,23.7164,left,26.4491,left,2.9056,5.0,0.9911,1
+67e87c18ffd57c26d71f2412,9.0,Sense1,"I don't like people who take drugs, for example: cocaine addicts",TAKE,SNATCH,USE,4.5263,right,0.8392,left,0.9491,4.0,3.474,0
+67e87c18ffd57c26d71f2412,12.0,Sense2,"After seeing the woman dressing, the man turned red",DRESSING,NAKED,CAESAR,4.1444,left,1.0929,right,0.9508,3.0,1.0498,1
+67e87c18ffd57c26d71f2412,2.0,Sense1,Sometimes in sports anti-doping tests are positive,POSITIVE,STEROIDS,ATTITUDE,18.2847,left,17.383,right,1.0173,3.0,0.8376,1
+67e87c18ffd57c26d71f2412,36.0,Joke,How do you make the turtle fast? Take away its food.,FAST,QUICK,HUNGRY,8.5751,left,31.8407,left,2.8478,6.0,1.2093,1
+67e87c18ffd57c26d71f2412,14.0,Sense2,"I heard he wanted a roll for lunch, I went to the bakery",ROLL,BREAD,SUCCESS,3.5242,left,1.4924,right,1.1375,3.0,0.8004,1
+67e87c18ffd57c26d71f2412,18.0,Sense2,Why was the convict arrested? For holding up a bank,HOLDING UP,FASTEN,ROB,6.2019,right,0.9669,right,0.966,2.0,1.0256,1
+67e87c18ffd57c26d71f2412,10.0,Sense1,"-Order in the cafeteria 
+-Ham and cheese on rye, please. ",ORDER,ASK,JUDGE,4.7965,left,0.8003,right,3.577,2.0,0.9938,1
+67e87c18ffd57c26d71f2412,15.0,Sense2,"I asked the librarian for books about cooking. She whispered, ""They're right behind you!""",RIGHT BEHIND YOU,DANGER,LOCATION,5.0296,right,0.985,right,0.9078,2.0,1.3826,1
+67e87c18ffd57c26d71f2412,17.0,Sense2,Secret agents don't date because they don't want to give away their covers,COVERS,DUVET,IDENTITY,5.8437,right,1.1016,right,1.8948,2.0,1.7864,1
+67e87c18ffd57c26d71f2412,34.0,Joke,"I lost my left hand in an accident, I'm all right now.",ALL RIGHT,OK,DIRECTION,5.5715,right,40.406,left,2.0204,6.0,1.0741,1
+67e87c18ffd57c26d71f2412,33.0,Joke,I tried to be a carpenter but I couldn't nail it.,NAIL IT,SUCCEED,RUST,3.6868,right,9.872,left,1.276,6.0,1.7414,1
+67e87c18ffd57c26d71f2412,1.0,Sense1,"- Is this safe locked? 
+- No, I left it open on purpose",SAFE,BANK,HARMLESS,8.8162,left,18.1747,right,0.7144,3.0,0.7264,1
+67e87c18ffd57c26d71f2412,39.0,Joke,Humpty Dumpty was happy in the winter. He had a great fall.,FALL,AUTUMN,SLIP,10.4903,left,1.8015,right,1.4679,3.0,0.7401,0
+67e87c18ffd57c26d71f2412,40.0,Joke,Energizer bunny arrested: charged with battery,BATTERY,ASSAULT,POWERED,31.3209,left,12.4711,left,7.2459,6.0,1.1769,1
+67e87c18ffd57c26d71f2412,19.0,Sense2,The actor ran from left to right: he was going across the stage,STAGE,THEATER,PHASE,7.4147,left,3.5648,right,1.8716,2.0,1.9651,1
+67e87c18ffd57c26d71f2412,5.0,Sense1,Two fish in a tank. One says: When do you think we'll get fed?,TANK,WAR,WATER,6.3749,right,1.2228,right,1.0303,2.0,0.9201,1
+67e87c18ffd57c26d71f2412,32.0,Joke,"I thought about going on an all-almond diet, but that's just nuts!",NUTS!,SQUIRREL,CRAZY,8.3483,right,4.087,right,1.487,3.0,2.1027,0
+67e87c18ffd57c26d71f2412,11.0,Sense2,The circus hires clowns because they are funny,FUNNY,WEIRD,LAUGHTER,29.4947,right,15.0432,right,1.004,2.0,1.9416,1
+67e87c18ffd57c26d71f2412,3.0,Sense1,Two friends got married. The reception was fantastic,RECEPTION,SIGNAL,PARTY,4.1024,right,1.3026,right,0.8129,3.0,0.6949,1
+67e87c18ffd57c26d71f2412,38.0,Joke,"-This coffee tastes like mud 
+-Well, it was just ground this morning!",GROUND,DIRT,CRUSH,5.4517,left,6.5016,left,2.4675,5.0,1.0734,1
+67e87c18ffd57c26d71f2412,35.0,Joke,The communist loved the summer because there were no classes,CLASSES,SCHOOL,STATUS,6.7864,left,3.1366,right,0.5854,3.0,0.9504,0
+67e87c18ffd57c26d71f2412,16.0,Sense2,You can't breathe on the moon because there's no atmosphere,ATMOSPHERE,LIVELY,OXYGEN,4.4768,right,0.933,right,1.445,2.0,1.1614,1
+67e87c18ffd57c26d71f2412,4.0,Sense1,"The lawyer was not great at her job, she got fired",FIRED,BURN,UNEMPLOYED,5.2174,right,1.2775,right,0.9673,2.0,0.8005,1
+67e87c18ffd57c26d71f2412,7.0,Sense1,The woman was cross-eyed because she could not control her pupils,PUPILS,STUDENTS,EYES,4.0148,right,0.7186,right,1.4035,2.0,1.1269,1
+67e87c18ffd57c26d71f2412,13.0,Sense2,The bank had to fire a few employees because it had too many tellers,TELLERS,GOSSIP,CASHIER,5.3134,right,0.8508,right,1.0342,2.0,0.9649,1
+67e87c18ffd57c26d71f2412,37.0,Joke,It's hard for leopards to hide as they're always spotted.,SPOTTED,SEEN,PATTERNED,3.7071,right,1.0138,right,0.8246,2.0,0.8536,0
+67e87c18ffd57c26d71f2412,20.0,Sense2,Mac users get fewer viruses because they don't have Windows,WINDOWS,COMPUTER,GLASS,4.1524,left,1.351,right,0.8252,3.0,4.6067,1
+67e87c18ffd57c26d71f2412,8.0,Sense1,I told her I was going to make her mine. She loved the idea of marrying me,MINE,BELONG,QUARRY,4.5125,left,1.1503,right,0.9294,2.0,1.4192,1
+67e87c18ffd57c26d71f2412,6.0,Sense1,The problem with thieves is that they always take other people's things,TAKE,STOLEN,PERSPECTIVE,14.4768,left,1.2873,right,0.8958,2.0,1.5769,1
+6364c680c75f0a035ba3abff,2.0,Joke,The key to excel in sports is to stay positive,POSITIVE,STEROIDS,ATTITUDE,2.9829,right,1.0696,right,1.5644,1.0,1.8083,0
+6364c680c75f0a035ba3abff,1.0,Joke,"- Is this safe to eat?
+- No, it's for storing valuable objects",SAFE,BANK,HARMLESS,4.193,left,2.3672,right,1.916,1.0,2.6986,0
+6364c680c75f0a035ba3abff,15.0,Sense1,"I asked the chief about the spies. She whispered, ""They're right behind you!""",RIGHT BEHIND YOU,DANGER,LOCATION,3.3762,right,1.3898,left,1.5107,5.0,1.2658,0
+6364c680c75f0a035ba3abff,10.0,Joke,"-Order in the court!
+-Ham and cheese on rye, your Honour.",ORDER,ASK,JUDGE,4.1124,left,1.4405,left,1.2607,5.0,2.1315,1
+6364c680c75f0a035ba3abff,22.0,Sense2,Jellyfish can't digest food internally. They don't have guts,GUTS,COURAGE,ORGANS,0.1508,right,2.057,right,4.0704,1.0,1.8631,1
+6364c680c75f0a035ba3abff,20.0,Sense1,Prisoners don't get enough light because they don't have windows,WINDOWS,COMPUTER,GLASS,2.5489,right,0.9809,right,1.1344,1.0,1.7201,1
+6364c680c75f0a035ba3abff,24.0,Sense2,The square is the dead center of town,DEAD CENTER,COFFIN,MIDDLE,2.4416,right,1.4397,left,1.0575,5.0,1.1464,0
+6364c680c75f0a035ba3abff,7.0,Joke,The teacher's eyes were crossed because she could not control her pupils,PUPILS,STUDENTS,EYES,4.5979,right,0.7683,right,1.5676,3.0,1.2236,0
+6364c680c75f0a035ba3abff,4.0,Joke,"Joan d'Arc was not great at her job, she got fired",FIRED,BURN,UNEMPLOYED,3.2943,right,1.6427,left,1.675,5.0,1.4464,1
+6364c680c75f0a035ba3abff,21.0,Sense2,The calendar was useful. Its pages were numbered.,NUMBERED,LIMITED,SEQUENCE,1.6667,right,1.2454,left,1.1503,4.0,1.2315,0
+6364c680c75f0a035ba3abff,6.0,Joke,The problem with kleptomaniacs is that they always take things literally.,TAKE,STOLEN,PERSPECTIVE,3.218,left,1.5511,left,1.1547,5.0,1.2138,1
+6364c680c75f0a035ba3abff,28.0,Sense2,"I used to make money off my savings, but I lost the interest",INTEREST,ENTHUSIASM,EARNINGS,2.8412,right,0.7204,left,1.077,5.0,1.0978,0
+6364c680c75f0a035ba3abff,13.0,Sense1,The receptionist considered himself a teller of hard truths,TELLERS,GOSSIP,CASHIER,2.8337,left,1.011,right,1.3936,3.0,1.3806,1
+6364c680c75f0a035ba3abff,5.0,Joke,Two fish in a tank. One says: How do you drive this thing?,TANK,WAR,WATER,2.9965,left,0.8458,left,1.1163,5.0,1.164,1
+6364c680c75f0a035ba3abff,11.0,Sense1,Cannibals don't eat rotten eggs because they taste funny,FUNNY,WEIRD,LAUGHTER,3.7995,left,1.2964,right,3.7608,3.0,1.4194,1
+6364c680c75f0a035ba3abff,17.0,Sense1,Sleepy people don't want to give up their bed covers,COVERS,DUVET,IDENTITY,2.7011,left,0.7759,right,1.0307,3.0,1.2945,1
+6364c680c75f0a035ba3abff,29.0,Sense2,"I thought pressing the camera button was doing nothing, but then it clicked.",IT CLICKED,INSIGHT,SOUND,2.7328,left,0.9959,left,1.7975,5.0,1.1041,0
+6364c680c75f0a035ba3abff,26.0,Sense2,I did not destroy the calendar. All I did was rip a day off.,DAY OFF,LEAVE,RIP,4.6828,left,1.1242,left,1.3003,5.0,1.1074,0
+6364c680c75f0a035ba3abff,18.0,Sense1,Why was the belt created? For holding up a pair of pants,HOLDING UP,FASTEN,ROB,3.8626,left,1.0627,right,2.5997,3.0,1.2207,1
+6364c680c75f0a035ba3abff,3.0,Joke,Two cellphones got married. The reception was fantastic,RECEPTION,SIGNAL,PARTY,1.9842,right,0.7699,left,1.136,5.0,1.1135,1
+6364c680c75f0a035ba3abff,8.0,Joke,I told her I was going to make her mine. She has extracted two rubies so far,MINE,BELONG,QUARRY,5.213,right,0.7951,left,0.8152,5.0,1.6654,1
+6364c680c75f0a035ba3abff,27.0,Sense2,I told her that she was drawing her eyebrows too high; she looked angry,LOOKED,APPEARED,EXPRESSION,2.8662,right,0.7833,left,1.493,4.0,1.6041,0
+6364c680c75f0a035ba3abff,25.0,Sense2,She had a photographic negative but never developed it.,DEVELOPED,IMPROVE,FILM,2.6576,right,1.0047,left,1.6001,4.0,1.0086,0
+6364c680c75f0a035ba3abff,19.0,Sense1,The toddler would only eat pasta: he was going through a stage,STAGE,THEATER,PHASE,3.8085,right,0.6263,right,0.9476,3.0,1.3716,1
+6364c680c75f0a035ba3abff,12.0,Sense1,"After seeing the salad dressing, the chef was satisfied",DRESSING,NAKED,CAESAR,3.4842,right,1.2243,left,1.7226,4.0,1.9143,0
+6364c680c75f0a035ba3abff,23.0,Sense2,Why did the painting cost extra? Because it was framed,FRAMED,TRAPPED,WOODEN,2.212,left,1.7539,left,1.0594,5.0,1.8881,0
+6364c680c75f0a035ba3abff,30.0,Sense2,"I saw the car didn't stop at the red light, and then it hit me.",IT HIT ME,REALISE,STRIKE,2.8843,right,0.9478,left,1.0512,5.0,1.6409,0
+6364c680c75f0a035ba3abff,14.0,Sense1,"I heard he was on a roll, turns out his last three books were bestsellers.",ROLL,BREAD,SUCCESS,3.7805,right,1.9997,right,1.2932,3.0,2.6036,1
+6364c680c75f0a035ba3abff,16.0,Sense1,"The restaurant at the resort had great food, but no atmosphere",ATMOSPHERE,LIVELY,OXYGEN,4.2938,left,1.0766,right,1.0157,3.0,1.4633,1
+6364c680c75f0a035ba3abff,9.0,Joke,"I don't like people who take drugs, for example: airport security.",TAKE,SNATCH,USE,6.117,right,0.6956,right,2.7291,3.0,0.9961,0
+6364c680c75f0a035ba3abff,26.0,Sense1,I got fired from the chocolate factory. All I did was take a day off.,DAY OFF,LEAVE,RIP,3.9658,left,0.8116,right,1.0852,3.0,1.4456,1
+6364c680c75f0a035ba3abff,19.0,Joke,The actor fell through the floorboards: he was going through a stage,STAGE,THEATER,PHASE,2.6401,left,0.7766,right,1.2234,5.0,2.8807,0
+6364c680c75f0a035ba3abff,17.0,Joke,Secret agents don't sleep because they don't want to give away their covers,COVERS,DUVET,IDENTITY,5.0481,right,1.2802,left,1.1812,5.0,1.6973,1
+6364c680c75f0a035ba3abff,37.0,Sense2,It's hard for leopards to have plain fur as they're always spotted.,SPOTTED,SEEN,PATTERNED,2.3122,right,0.8381,left,1.3138,5.0,1.5857,0
+6364c680c75f0a035ba3abff,14.0,Joke,"I heard he was on a roll, turns out he fell asleep at the bakery.",ROLL,BREAD,SUCCESS,4.3343,right,1.6419,left,1.0491,5.0,1.1296,1
+6364c680c75f0a035ba3abff,22.0,Sense1,The man didn't ask her out. He didn't have the guts,GUTS,COURAGE,ORGANS,12.5645,right,1.0327,left,2.3179,5.0,1.19,0
+6364c680c75f0a035ba3abff,25.0,Sense1,She had a bright mind but never developed it.,DEVELOPED,IMPROVE,FILM,3.1152,left,1.1957,right,1.1732,3.0,1.0079,1
+6364c680c75f0a035ba3abff,32.0,Sense2,"Some people believe the earth is flat, but that's just nuts!",NUTS!,SQUIRREL,CRAZY,2.2629,right,1.0341,right,1.1156,3.0,1.2656,1
+6364c680c75f0a035ba3abff,20.0,Joke,Mac users don't get enough sunlight because they don't have Windows,WINDOWS,COMPUTER,GLASS,2.4428,left,1.302,left,1.035,5.0,1.0739,1
+6364c680c75f0a035ba3abff,16.0,Joke,"The restaurant on the moon had great food, but no atmosphere",ATMOSPHERE,LIVELY,OXYGEN,1.8199,right,1.5931,left,0.9848,6.0,1.8741,1
+6364c680c75f0a035ba3abff,21.0,Sense1,The man on death row was worried. His days were numbered.,NUMBERED,LIMITED,SEQUENCE,2.6004,left,0.9453,left,0.9975,6.0,1.2383,0
+6364c680c75f0a035ba3abff,33.0,Sense2,"I tried a bigger hammer to fix the painting to the wall, but I couldn't nail it.",NAIL IT,SUCCEED,RUST,2.8831,left,0.7577,left,0.9221,6.0,1.5355,0
+6364c680c75f0a035ba3abff,13.0,Joke,The bank couldn't keep any secrets because it had too many tellers,TELLERS,GOSSIP,CASHIER,1.8409,right,0.9363,left,0.7484,6.0,1.6747,1
+6364c680c75f0a035ba3abff,15.0,Joke,"I asked the librarian for books about paranoia. She whispered, ""They're right behind you!""",RIGHT BEHIND YOU,DANGER,LOCATION,2.5478,right,0.8804,left,1.1418,6.0,1.3139,1
+6364c680c75f0a035ba3abff,31.0,Sense2,"I wanted to buy a car with a gear stick, but I couldn't find a manual",MANUAL,HANDBOOK,TRANSMISSION,2.0029,left,1.07,left,1.0499,6.0,1.3644,0
+6364c680c75f0a035ba3abff,40.0,Sense2,No need to plug in the toy: its battery is charged,BATTERY,ASSAULT,POWERED,1.998,right,1.4623,right,0.9503,2.0,1.1057,1
+6364c680c75f0a035ba3abff,30.0,Sense1,"I had no idea who could have done this, and then it hit me.",IT HIT ME,REALISE,STRIKE,1.5771,left,1.327,right,0.9257,3.0,1.1718,1
+6364c680c75f0a035ba3abff,11.0,Joke,Cannibals don't eat clowns because they taste funny,FUNNY,WEIRD,LAUGHTER,1.8075,left,1.6865,right,1.0806,3.0,1.1623,0
+6364c680c75f0a035ba3abff,39.0,Sense2,The man had broken his hip in the winter. He had a great fall.,FALL,AUTUMN,SLIP,4.275,left,2.6169,right,0.9709,3.0,1.2456,1
+6364c680c75f0a035ba3abff,35.0,Sense2,Communists love economic equality because there are no classes,CLASSES,SCHOOL,STATUS,2.1129,right,2.9333,right,0.9775,3.0,1.0888,1
+6364c680c75f0a035ba3abff,29.0,Sense1,"I couldn't figure out how to solve the math problem, but then it clicked.",IT CLICKED,INSIGHT,SOUND,3.0003,left,0.7616,left,2.0484,5.0,0.8098,0
+6364c680c75f0a035ba3abff,18.0,Joke,Why was the belt arrested? For holding up a pair of pants,HOLDING UP,FASTEN,ROB,1.7784,right,0.944,left,0.8098,5.0,1.3804,1
+6364c680c75f0a035ba3abff,12.0,Joke,"After seeing the salad dressing, the tomato turned red",DRESSING,NAKED,CAESAR,1.2554,left,1.1135,left,0.9412,5.0,1.0393,1
+6364c680c75f0a035ba3abff,23.0,Sense1,Why did your brother go to jail? Because he was framed,FRAMED,TRAPPED,WOODEN,2.0014,left,1.8506,right,1.3337,3.0,1.1987,1
+6364c680c75f0a035ba3abff,24.0,Sense1,A mortuary can be thought of as a dead center,DEAD CENTER,COFFIN,MIDDLE,1.8839,left,0.8179,left,2.223,4.0,1.1306,0
+6364c680c75f0a035ba3abff,34.0,Sense2,"I used to vote for the left, I'm all right now.",ALL RIGHT,OK,DIRECTION,1.7324,right,0.8876,left,1.7439,5.0,1.3822,0
+6364c680c75f0a035ba3abff,28.0,Sense1,"I used to be into chess, but I lost interest",INTEREST,ENTHUSIASM,EARNINGS,1.562,left,0.9628,right,0.9927,3.0,1.0554,1
+6364c680c75f0a035ba3abff,38.0,Sense2,"-Did you grind the nutmeg recently?
+-Well, it was just ground this morning!",GROUND,DIRT,CRUSH,4.4564,right,0.7853,right,0.8993,3.0,1.0408,1
+6364c680c75f0a035ba3abff,27.0,Sense1,She wasn't expecting me because I came unannounced; she looked surprised.,LOOKED,APPEARED,EXPRESSION,2.097,left,0.8756,right,0.9442,3.0,1.2634,1
+6364c680c75f0a035ba3abff,36.0,Sense2,How do you make the bride fast? Take away her food.,FAST,QUICK,HUNGRY,2.8124,right,1.6937,left,0.8992,4.0,1.0326,0
+6364c680c75f0a035ba3abff,23.0,Joke,Why did the painting go to jail? Because it was framed,FRAMED,TRAPPED,WOODEN,3.197,left,0.8599,left,1.0777,5.0,0.9073,1
+6364c680c75f0a035ba3abff,39.0,Sense1,The University Student was happy in the winter. He had a great fall.,FALL,AUTUMN,SLIP,2.1341,left,1.1698,left,1.0179,5.0,0.9081,0
+6364c680c75f0a035ba3abff,36.0,Sense1,How do you make the car fast? Take away the brakes.,FAST,QUICK,HUNGRY,1.6637,left,1.5965,left,0.9006,5.0,0.9814,0
+6364c680c75f0a035ba3abff,24.0,Joke,The graveyard is the dead center of town,DEAD CENTER,COFFIN,MIDDLE,1.3311,right,1.3596,left,1.014,5.0,0.871,1
+6364c680c75f0a035ba3abff,6.0,Sense2,The problem with some people is that they always take things literally.,TAKE,STOLEN,PERSPECTIVE,2.2674,right,0.7897,right,1.0443,3.0,1.1634,1
+6364c680c75f0a035ba3abff,22.0,Joke,The skeleton didn't ask her out. He didn't have the guts,GUTS,COURAGE,ORGANS,2.5691,left,1.0141,right,0.8581,3.0,0.9982,0
+6364c680c75f0a035ba3abff,1.0,Sense2,"- Is this safe to eat? 
+- Yes, I had it for breakfast",SAFE,BANK,HARMLESS,2.2519,right,0.7909,right,0.8504,3.0,2.0081,1
+6364c680c75f0a035ba3abff,8.0,Sense2,"The foreman told him to go to the mine. He said: ""that's what you pay me for""",MINE,BELONG,QUARRY,4.2458,right,2.5686,right,1.8178,3.0,1.0375,1
+6364c680c75f0a035ba3abff,30.0,Joke,"I wondered why the car was getting bigger, and then it hit me.",IT HIT ME,REALISE,STRIKE,1.5838,left,0.7586,left,0.9861,5.0,1.09,1
+6364c680c75f0a035ba3abff,26.0,Joke,I got fired from the calendar factory. All I did was take a day off.,DAY OFF,LEAVE,RIP,1.7856,left,0.9109,left,1.0662,5.0,1.0582,1
+6364c680c75f0a035ba3abff,2.0,Sense2,The key to a happy life is to stay positive,POSITIVE,STEROIDS,ATTITUDE,1.3269,right,1.1457,left,0.896,4.0,2.2966,0
+6364c680c75f0a035ba3abff,9.0,Sense2,"I don't like people who take my stuff, for example: airport security.",TAKE,SNATCH,USE,1.7669,left,1.5772,right,1.6814,3.0,1.1055,1
+6364c680c75f0a035ba3abff,38.0,Sense1,"-There is only sea here 
+-Well, it was just ground this morning!",GROUND,DIRT,CRUSH,4.1672,left,1.1734,right,0.6364,3.0,1.0961,1
+6364c680c75f0a035ba3abff,35.0,Sense1,The teacher loved the summer because there were no classes,CLASSES,SCHOOL,STATUS,2.0371,left,1.2446,right,1.0326,4.0,0.7476,1
+6364c680c75f0a035ba3abff,7.0,Sense2,The teacher was fired because she could not control her pupils,PUPILS,STUDENTS,EYES,1.941,left,0.7528,right,0.6602,2.0,1.2213,1
+6364c680c75f0a035ba3abff,40.0,Sense1,Local man arrested: charged with battery,BATTERY,ASSAULT,POWERED,2.318,left,0.7404,right,1.1407,2.0,1.3141,1
+6364c680c75f0a035ba3abff,25.0,Joke,She had a photographic memory but never developed it.,DEVELOPED,IMPROVE,FILM,2.8947,left,1.6231,right,0.6985,3.0,1.2045,0
+6364c680c75f0a035ba3abff,21.0,Joke,The calendar was worried. Its days were numbered.,NUMBERED,LIMITED,SEQUENCE,1.6502,left,1.0027,left,1.1093,5.0,1.3559,1
+6364c680c75f0a035ba3abff,10.0,Sense2,"-Order in the court! 
+-I apologise, I will be silent, your Honour. ",ORDER,ASK,JUDGE,2.085,right,1.4669,left,1.1174,5.0,0.8912,0
+6364c680c75f0a035ba3abff,34.0,Sense1,"I was sick for a long time, I'm all right now.",ALL RIGHT,OK,DIRECTION,1.3443,left,0.8991,right,1.2826,3.0,0.9758,1
+6364c680c75f0a035ba3abff,29.0,Joke,"I couldn't figure out how to use the seatbelt, but then it clicked.",IT CLICKED,INSIGHT,SOUND,1.715,left,1.562,left,1.9934,5.0,1.0876,1
+6364c680c75f0a035ba3abff,37.0,Sense1,It's hard for people with neon clothes to hide as they're always spotted.,SPOTTED,SEEN,PATTERNED,1.7197,left,2.358,left,1.1556,5.0,1.2705,0
+6364c680c75f0a035ba3abff,4.0,Sense2,"The oven was ready for the pizza, it was wood fired",FIRED,BURN,UNEMPLOYED,1.3986,left,0.7524,left,0.9336,5.0,0.9238,0
+6364c680c75f0a035ba3abff,31.0,Sense1,"I wanted to learn how to operate the new machine, but I couldn't find a manual",MANUAL,HANDBOOK,TRANSMISSION,4.5806,left,0.8668,right,1.1345,3.0,1.5758,1
+6364c680c75f0a035ba3abff,27.0,Joke,I told her that she was drawing her eyebrows too high; she looked surprised,LOOKED,APPEARED,EXPRESSION,6.8475,left,1.2291,right,2.65,3.0,0.9714,0
+6364c680c75f0a035ba3abff,28.0,Joke,"I used to be a banker, but I lost interest",INTEREST,ENTHUSIASM,EARNINGS,1.6071,right,1.1002,left,0.8163,5.0,1.1427,1
+6364c680c75f0a035ba3abff,3.0,Sense2,Two cellphones were tested. The reception was fantastic,RECEPTION,SIGNAL,PARTY,1.3178,left,1.0174,left,1.0211,5.0,0.9169,0
+6364c680c75f0a035ba3abff,33.0,Sense1,I tried to sing a very difficult song but I couldn't nail it.,NAIL IT,SUCCEED,RUST,1.9982,left,0.7099,right,1.6619,3.0,1.1873,1
+6364c680c75f0a035ba3abff,5.0,Sense2,Two soldiers in a tank. One says: How do you drive this thing?,TANK,WAR,WATER,1.2912,left,2.1529,right,0.7979,3.0,1.1249,1
+6364c680c75f0a035ba3abff,32.0,Sense1,"I thought I'd have cashews and almonds in my balanced meal, but that's just nuts",NUTS!,SQUIRREL,CRAZY,1.729,right,0.9462,left,0.8118,4.0,1.0213,0
+6364c680c75f0a035ba3abff,31.0,Joke,"I wanted to learn to use the gear stick, but I couldn't find a manual",MANUAL,HANDBOOK,TRANSMISSION,2.7592,left,1.2524,right,1.0167,3.0,1.0137,0
+6364c680c75f0a035ba3abff,9.0,Sense1,"I don't like people who take drugs, for example: cocaine addicts",TAKE,SNATCH,USE,1.433,right,0.6688,right,1.2334,4.0,0.8902,1
+6364c680c75f0a035ba3abff,12.0,Sense2,"After seeing the woman dressing, the man turned red",DRESSING,NAKED,CAESAR,1.4173,left,1.581,right,1.3779,3.0,0.9882,1
+6364c680c75f0a035ba3abff,2.0,Sense1,Sometimes in sports anti-doping tests are positive,POSITIVE,STEROIDS,ATTITUDE,1.4001,left,0.8084,right,1.3661,3.0,0.9264,1
+6364c680c75f0a035ba3abff,36.0,Joke,How do you make the turtle fast? Take away its food.,FAST,QUICK,HUNGRY,2.9302,left,2.1368,left,1.1628,5.0,1.0199,1
+6364c680c75f0a035ba3abff,14.0,Sense2,"I heard he wanted a roll for lunch, I went to the bakery",ROLL,BREAD,SUCCESS,1.6103,left,1.3703,right,0.5922,3.0,1.3148,1
+6364c680c75f0a035ba3abff,18.0,Sense2,Why was the convict arrested? For holding up a bank,HOLDING UP,FASTEN,ROB,1.5421,right,0.8459,right,1.7273,3.0,1.369,1
+6364c680c75f0a035ba3abff,10.0,Sense1,"-Order in the cafeteria 
+-Ham and cheese on rye, please. ",ORDER,ASK,JUDGE,2.5177,left,0.7087,right,0.851,3.0,0.9736,1
+6364c680c75f0a035ba3abff,15.0,Sense2,"I asked the librarian for books about cooking. She whispered, ""They're right behind you!""",RIGHT BEHIND YOU,DANGER,LOCATION,3.0144,right,0.7829,right,1.3655,3.0,2.0323,1
+6364c680c75f0a035ba3abff,17.0,Sense2,Secret agents don't date because they don't want to give away their covers,COVERS,DUVET,IDENTITY,1.8496,right,1.419,right,1.1618,3.0,0.9866,1
+6364c680c75f0a035ba3abff,34.0,Joke,"I lost my left hand in an accident, I'm all right now.",ALL RIGHT,OK,DIRECTION,1.7451,left,1.2113,left,1.128,4.0,1.3373,1
+6364c680c75f0a035ba3abff,33.0,Joke,I tried to be a carpenter but I couldn't nail it.,NAIL IT,SUCCEED,RUST,1.3671,left,1.0184,left,1.2726,5.0,0.8389,1
+6364c680c75f0a035ba3abff,1.0,Sense1,"- Is this safe locked? 
+- No, I left it open on purpose",SAFE,BANK,HARMLESS,1.3431,left,2.3418,right,0.8671,4.0,0.9751,1
+6364c680c75f0a035ba3abff,39.0,Joke,Humpty Dumpty was happy in the winter. He had a great fall.,FALL,AUTUMN,SLIP,1.3965,left,1.0292,left,1.1302,3.0,1.2372,1
+6364c680c75f0a035ba3abff,40.0,Joke,Energizer bunny arrested: charged with battery,BATTERY,ASSAULT,POWERED,1.381,right,0.8972,left,0.7805,5.0,1.0318,1
+6364c680c75f0a035ba3abff,19.0,Sense2,The actor ran from left to right: he was going across the stage,STAGE,THEATER,PHASE,2.2367,left,0.7667,right,0.8923,3.0,1.7647,1
+6364c680c75f0a035ba3abff,5.0,Sense1,Two fish in a tank. One says: When do you think we'll get fed?,TANK,WAR,WATER,1.6462,right,2.9476,left,0.867,5.0,1.9139,0
+6364c680c75f0a035ba3abff,32.0,Joke,"I thought about going on an all-almond diet, but that's just nuts!",NUTS!,SQUIRREL,CRAZY,2.0952,right,1.1785,left,0.8652,4.0,0.9034,1
+6364c680c75f0a035ba3abff,11.0,Sense2,The circus hires clowns because they are funny,FUNNY,WEIRD,LAUGHTER,1.9445,right,1.702,right,2.3693,4.0,0.8467,1
+6364c680c75f0a035ba3abff,3.0,Sense1,Two friends got married. The reception was fantastic,RECEPTION,SIGNAL,PARTY,1.3454,right,1.1849,right,1.0595,3.0,1.0552,1
+6364c680c75f0a035ba3abff,38.0,Joke,"-This coffee tastes like mud 
+-Well, it was just ground this morning!",GROUND,DIRT,CRUSH,2.4415,right,1.2619,left,0.7996,5.0,1.4239,1
+6364c680c75f0a035ba3abff,35.0,Joke,The communist loved the summer because there were no classes,CLASSES,SCHOOL,STATUS,1.564,right,0.9466,left,0.963,4.0,0.6812,1
+6364c680c75f0a035ba3abff,16.0,Sense2,You can't breathe on the moon because there's no atmosphere,ATMOSPHERE,LIVELY,OXYGEN,1.4332,right,0.6534,right,1.6013,4.0,0.6747,1
+6364c680c75f0a035ba3abff,4.0,Sense1,"The lawyer was not great at her job, she got fired",FIRED,BURN,UNEMPLOYED,1.5718,right,1.327,left,1.1316,3.0,3.5219,0
+6364c680c75f0a035ba3abff,7.0,Sense1,The woman was cross-eyed because she could not control her pupils,PUPILS,STUDENTS,EYES,2.3058,left,0.8752,left,0.9824,5.0,1.8568,0
+6364c680c75f0a035ba3abff,13.0,Sense2,The bank had to fire a few employees because it had too many tellers,TELLERS,GOSSIP,CASHIER,1.9112,right,0.994,right,1.0171,4.0,0.6988,1
+6364c680c75f0a035ba3abff,37.0,Joke,It's hard for leopards to hide as they're always spotted.,SPOTTED,SEEN,PATTERNED,2.3678,right,1.2625,left,1.2404,5.0,1.6215,1
+6364c680c75f0a035ba3abff,20.0,Sense2,Mac users get fewer viruses because they don't have Windows,WINDOWS,COMPUTER,GLASS,1.825,left,2.7991,right,2.2673,3.0,1.9614,1
+6364c680c75f0a035ba3abff,8.0,Sense1,I told her I was going to make her mine. She loved the idea of marrying me,MINE,BELONG,QUARRY,2.1399,left,1.0333,right,0.8979,3.0,1.2439,1
+6364c680c75f0a035ba3abff,6.0,Sense1,The problem with thieves is that they always take other people's things,TAKE,STOLEN,PERSPECTIVE,3.2293,left,0.6952,right,1.4587,3.0,1.165,1

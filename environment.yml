@@ -1,0 +1,11 @@
+name: humourpilot
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pandas
+  - numpy
+  - pingouin
+  - seaborn=0.13.2
+  - matplotlib
+  - scipy
